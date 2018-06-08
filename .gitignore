@@ -22,6 +22,7 @@
 !.config/polybar/
 !.config/ranger/
 !.config/Scripts/
+!.config/rofi/
 
 !.config/wall.png
 !.config/compton.conf

@@ -59,3 +59,4 @@ rofi.bw:		0
 rofi.opacity:		"10"
 rofi.hide-scrollbar:	true
 rofi.width:		30
+rofi.theme: ~/.cache/wal/colors-rofi-dark.rasi
