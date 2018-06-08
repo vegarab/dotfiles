@@ -2,7 +2,7 @@
 
 !README.md
 
-!.bash_alias
+!.bash_aliases
 !.bashrc
 !.vimrc
 !/.vim
@@ -26,4 +26,4 @@
 
 !.config/wall.png
 !.config/compton.conf
-!.config/bash_powerline.sh
+!.config/bash-powerline.sh
