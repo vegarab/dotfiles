@@ -19,7 +19,7 @@ set $term urxvt
 #set $video --no-startup-id bash ~/.config/Scripts/video.sh
 #set $stoprec --no-startup-id killall ffmpeg & killall screenkey
 set $flash --no-startup-id bash ~/.config/Scripts/flash_win.sh
-exec setxkbmap -option caps:swapescape
+exec setxkbmap -model pc104 -layout gb -variant extd -option caps:swapescape
 
 
 ###---Starting External Scripts---###
