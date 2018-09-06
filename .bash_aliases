@@ -29,7 +29,7 @@ alias havam='cd ~/dev/web/it2805/havam/'
 alias cls='clear'
 
 # network-manager
-alias rN='sudo service network-manager restart'
+alias rN='sudo systemctl restart NetworkManager'
 
 alias svim="HOME=/home/user && sudo vim -u $HOME/.vimrc"
 
