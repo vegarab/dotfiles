@@ -136,10 +136,12 @@ autocmd FileType tex inoremap ;sum	\sum_{}^{<++>}<++><Esc>bli
 autocmd FileType tex inoremap ;int 	\int_{}^{<++>}<++><Esc>bli
 autocmd FileType tex inoremap ;bcup	\bigcup_{}^{<++>}<++><Esc>bli
 autocmd FileType tex inoremap ;bcap \bigcap_{}^{<++>}<++><Esc>bli
-autocmd FileType tex inoremap ;ol \begin{cases}<Enter><Enter>\end{cases}<Enter><Enter><++><Esc>3kA
+autocmd FileType tex inoremap ;cases \begin{cases}<Enter><Enter>\end{cases}<Enter><Enter><++><Esc>3kA
 autocmd FileType tex inoremap ;algn \begin{align*}<Enter><Enter>\end{align*}<Enter><Enter><++><Esc>3kA
 autocmd FileType tex inoremap ;mtrx \begin{pmatrix}<Enter><Enter>\end{pmatrix}<Enter><Enter><++><Esc>3kA
 autocmd FileType tex inoremap ;mbb \mathbb{}<++><Esc>T{i
+autocmd FileType tex inoremap ;frac \frac{}{<++>}<++><Esc>bli
+autocmd FileType tex inoremap ;bim \binom{}{<++>}<++><Esc>bli
 """END
 
 """Logical Symbols
@@ -193,7 +195,7 @@ autocmd FileType tex inoremap ;au {\textopeno}
 autocmd FileType tex inoremap ;O {\textopeno}
 autocmd FileType tex inoremap ;glot {\textglotstop}
 autocmd FileType tex inoremap ;ch {\textteshlig}
-
+"""END
 
 "MARKDOWN
 """.bib
