@@ -1,0 +1,24 @@
+[2018-10-10 20:47:43.472] [exthost1] [info] extension host started
+[2018-10-10 20:47:43.485] [exthost1] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2018-10-10 20:47:43.486] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/lib/code/extensions/debug-auto-launch/out/extension
+[2018-10-10 20:47:43.493] [exthost1] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2018-10-10 20:47:43.493] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/lib/code/extensions/emmet/dist/extension
+[2018-10-10 20:47:43.524] [exthost1] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2018-10-10 20:47:43.524] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/lib/code/extensions/git/dist/main
+[2018-10-10 20:47:43.647] [exthost1] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2018-10-10 20:47:43.647] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/lib/code/extensions/merge-conflict/out/extension
+[2018-10-10 20:47:43.655] [exthost1] [info] ExtensionService#_doActivateExtension vscode.search-rg {"startup":true,"activationEvent":"*"}
+[2018-10-10 20:47:43.655] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/lib/code/extensions/search-rg/out/extension
+[2018-10-10 20:47:43.660] [exthost1] [info] ExtensionService#_doActivateExtension vscodevim.vim {"startup":true,"activationEvent":"*"}
+[2018-10-10 20:47:43.660] [exthost1] [info] ExtensionService#loadCommonJSModule /home/vegarab/.vscode-oss/extensions/vscodevim.vim-0.16.9/out/extension
+[2018-10-10 20:47:44.016] [exthost1] [info] eager extensions activated
+[2018-10-10 20:47:44.020] [exthost1] [info] ExtensionService#_doActivateExtension vscode.python {"startup":false,"activationEvent":"onLanguage:python"}
+[2018-10-10 20:47:44.020] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/lib/code/extensions/python/out/pythonMain
+[2018-10-10 20:47:44.111] [exthost1] [info] ExtensionService#_doActivateExtension ajshort.ros {"startup":true,"activationEvent":"*"}
+[2018-10-10 20:47:44.111] [exthost1] [info] ExtensionService#loadCommonJSModule /home/vegarab/.vscode-oss/extensions/ajshort.ros-0.3.0/out/src/extension
+[2018-10-10 20:47:46.757] [exthost1] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2018-10-10 20:47:46.757] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/lib/code/extensions/configuration-editing/out/extension
+[2018-10-10 20:47:46.768] [exthost1] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2018-10-10 20:47:46.768] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/lib/code/extensions/json-language-features/client/dist/jsonMain
+[2018-10-10 20:47:46.907] [exthost1] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2018-10-10 20:47:46.907] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/lib/code/extensions/typescript-language-features/dist/extension

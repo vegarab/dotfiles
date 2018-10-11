@@ -1,0 +1,25 @@
+[2018-10-10 20:56:14.618] [renderer1] [info] no standard startup: not just one text editor
+[2018-10-10 21:04:47.827] [renderer1] [error] spawn linux ENOENT: Error: spawn linux ENOENT
+    at _errnoException (util.js:1024:11)
+    at Process.__dirname.ChildProcess._handle.onexit (internal/child_process.js:190:19)
+    at onErrorNT (internal/child_process.js:372:16)
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+[2018-10-10 21:04:49.690] [renderer1] [error] spawn linux ENOENT: Error: spawn linux ENOENT
+    at _errnoException (util.js:1024:11)
+    at Process.__dirname.ChildProcess._handle.onexit (internal/child_process.js:190:19)
+    at onErrorNT (internal/child_process.js:372:16)
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+[2018-10-10 21:04:51.439] [renderer1] [error] spawn linux ENOENT: Error: spawn linux ENOENT
+    at _errnoException (util.js:1024:11)
+    at Process.__dirname.ChildProcess._handle.onexit (internal/child_process.js:190:19)
+    at onErrorNT (internal/child_process.js:372:16)
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+[2018-10-10 21:04:52.565] [renderer1] [error] spawn linux ENOENT: Error: spawn linux ENOENT
+    at _errnoException (util.js:1024:11)
+    at Process.__dirname.ChildProcess._handle.onexit (internal/child_process.js:190:19)
+    at onErrorNT (internal/child_process.js:372:16)
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
