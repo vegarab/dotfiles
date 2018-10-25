@@ -467,7 +467,7 @@
     "pickerWorkingDir": "/home/vegarab/dev/ros",
     "openedPathsList": {
         "workspaces2": [
-            "file:///home/vegarab/dev/ros/ros_pkg_template",
+            "file:///home/vegarab/dev/ros/ros_pcl_test",
             "file:///home/vegarab/visuell/gloom",
             "file:///home/vegarab/dev/rospy/rospy_pkg_template"
         ],
@@ -478,12 +478,12 @@
         "lastActiveWindow": {
             "folderUri": {
                 "$mid": 1,
-                "fsPath": "/home/vegarab/dev/ros/ros_pkg_template",
-                "external": "file:///home/vegarab/dev/ros/ros_pkg_template",
-                "path": "/home/vegarab/dev/ros/ros_pkg_template",
+                "fsPath": "/home/vegarab/dev/ros/ros_pcl_test",
+                "external": "file:///home/vegarab/dev/ros/ros_pcl_test",
+                "path": "/home/vegarab/dev/ros/ros_pcl_test",
                 "scheme": "file"
             },
-            "backupPath": "/home/vegarab/.config/Code - OSS/Backups/decec0f6128c847ca98d62b995f589b4",
+            "backupPath": "/home/vegarab/.config/Code - OSS/Backups/824be9ea6cfa96b09dc1f311de7c5f5b",
             "uiState": {
                 "mode": 1,
                 "x": 0,

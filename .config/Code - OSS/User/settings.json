@@ -4,5 +4,6 @@
     "workbench.colorTheme": "vs-wal",
     "window.menuBarVisibility": "toggle",
     "editor.cursorStyle": "block",
-    "workbench.activityBar.visible": false
+    "workbench.activityBar.visible": false,
+    "editor.fontSize": 16
 }
