@@ -64,6 +64,9 @@ __powerline() {
           PYTHON_VIRTUALENV=""
       else
           PYTHON_VIRTUALENV=" $COLOR_CWD[`basename \"$VIRTUAL_ENV\"`]"
+	  fi
+	  if [ "$CONDA_DEFAULT_ENV" != "base" ]; then
+		  PYTHON_VIRTUALENV=" $COLOR_CWD[`basename \"$CONDA_DEFAULT_ENV\"`]"
       fi
     }
 

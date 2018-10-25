@@ -123,3 +123,5 @@ if ! shopt -oq posix; then
   fi
 fi
 
+. /usr/etc/profile.d/conda.sh
+conda activate
