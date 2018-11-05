@@ -142,6 +142,8 @@ autocmd FileType tex inoremap ;mtrx \begin{pmatrix}<Enter><Enter>\end{pmatrix}<E
 autocmd FileType tex inoremap ;mbb \mathbb{}<++><Esc>T{i
 autocmd FileType tex inoremap ;frac \frac{}{<++>}<++><Esc>bli
 autocmd FileType tex inoremap ;bim \binom{}{<++>}<++><Esc>bli
+autocmd FileType tex inoremap ;sqrt \sqrt{}<++><Esc>T{i
+autocmd FileType tex inoremap ;hat \hat{}<++><Esc>T{i
 """END
 
 """Logical Symbols
