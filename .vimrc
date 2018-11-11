@@ -133,6 +133,7 @@ autocmd FileType tex inoremap ;defn \begin{defn}<Enter><Enter>\end{defn}<Enter><
 autocmd FileType tex inoremap ;exmp \begin{exmp}<Enter><Enter>\end{exmp}<Enter><Enter><++><Esc>3kA
 autocmd FileType tex inoremap ;thrm \begin{thrm}<Enter><Enter>\end{thrm}<Enter><Enter><++><Esc>3kA
 autocmd FileType tex inoremap ;sum	\sum_{}^{<++>}<++><Esc>bli
+autocmd FileType tex inoremap ;prod	\prod_{}^{<++>}<++><Esc>bli
 autocmd FileType tex inoremap ;int 	\int_{}^{<++>}<++><Esc>bli
 autocmd FileType tex inoremap ;bcup	\bigcup_{}^{<++>}<++><Esc>bli
 autocmd FileType tex inoremap ;bcap \bigcap_{}^{<++>}<++><Esc>bli
@@ -144,6 +145,8 @@ autocmd FileType tex inoremap ;frac \frac{}{<++>}<++><Esc>bli
 autocmd FileType tex inoremap ;bim \binom{}{<++>}<++><Esc>bli
 autocmd FileType tex inoremap ;sqrt \sqrt{}<++><Esc>T{i
 autocmd FileType tex inoremap ;hat \hat{}<++><Esc>T{i
+autocmd FileType tex inoremap ;tilde \widetilde{}<++><Esc>T{i
+autocmd FileType tex inoremap ;overl \overline{}<++><Esc>T{i
 """END
 
 """Logical Symbols
