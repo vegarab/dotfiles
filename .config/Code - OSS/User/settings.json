@@ -1,9 +1,9 @@
 {
-    "window.zoomLevel": 2,
+    "window.zoomLevel": 1,
     "keyboard.dispatch": "keyCode",
     "workbench.colorTheme": "vs-wal",
     "window.menuBarVisibility": "toggle",
     "editor.cursorStyle": "block",
-    "workbench.activityBar.visible": false,
+    "workbench.activityBar.visible": true,
     "editor.fontSize": 16
 }

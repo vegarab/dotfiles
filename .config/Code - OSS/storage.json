@@ -1,7 +1,7 @@
 {
     "telemetry.machineId": "ec48c440cfdf77260405aa049e5e24be85517b53987667b8f9074c5e83d0c015",
     "theme": "vs-dark",
-    "themeBackground": "#121b1c",
+    "themeBackground": "#0a0b09",
     "lastKnownKeybindings": {
         "workbench.action.files.newUntitledFile": {
             "id": "workbench.action.files.newUntitledFile",
@@ -464,9 +464,10 @@
             "isNative": true
         }
     },
-    "pickerWorkingDir": "/home/vegarab/dev/ros",
+    "pickerWorkingDir": "/home/vegarab/dev/python",
     "openedPathsList": {
         "workspaces2": [
+            "file:///home/vegarab/dev/python/mnist-digit-recognition",
             "file:///home/vegarab/dev/ros/ros_pcl_test",
             "file:///home/vegarab/visuell/gloom",
             "file:///home/vegarab/dev/rospy/rospy_pkg_template"
@@ -478,12 +479,12 @@
         "lastActiveWindow": {
             "folderUri": {
                 "$mid": 1,
-                "fsPath": "/home/vegarab/dev/ros/ros_pcl_test",
-                "external": "file:///home/vegarab/dev/ros/ros_pcl_test",
-                "path": "/home/vegarab/dev/ros/ros_pcl_test",
+                "fsPath": "/home/vegarab/dev/python/mnist-digit-recognition",
+                "external": "file:///home/vegarab/dev/python/mnist-digit-recognition",
+                "path": "/home/vegarab/dev/python/mnist-digit-recognition",
                 "scheme": "file"
             },
-            "backupPath": "/home/vegarab/.config/Code - OSS/Backups/824be9ea6cfa96b09dc1f311de7c5f5b",
+            "backupPath": "/home/vegarab/.config/Code - OSS/Backups/5333f34f05272b9c13d7baf4848aa73e",
             "uiState": {
                 "mode": 1,
                 "x": 0,
