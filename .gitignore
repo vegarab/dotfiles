@@ -11,7 +11,7 @@
 !.Xmodmap
 !.gtkrc-2.0
 !.gitignore
-!userChrome.CSS
+!userChrome.css
 
 !/.config/
 .config/*
