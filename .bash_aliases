@@ -1,5 +1,6 @@
 # personal aliases
 
+
 alias packer='packer-aur'
 # bash
 alias brc='v ~/.bashrc'
