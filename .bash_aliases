@@ -1,5 +1,12 @@
 # personal aliases
 
+# Google Calendar
+alias gc='gcalcli'
+alias gcw='gcalcli calw'
+alias gcm='gcalcli calm'
+alias iccube-run='sudo bash /opt/icCube/bin/icCube.sh'
+
+alias iccube-server='bash /opt/icCube/bin/icCube.sh'
 
 alias packer='packer-aur'
 # bash
