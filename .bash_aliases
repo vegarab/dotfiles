@@ -1,5 +1,9 @@
 # personal aliases
 
+alias venv='source venv/bin/activate'
+
+alias sshagent25='ssh agent25@agent25.tinusf.com'
+
 # Google Calendar
 alias gc='gcalcli'
 alias gcw='gcalcli calw'
