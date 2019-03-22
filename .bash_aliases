@@ -12,7 +12,7 @@ alias iccube-run='sudo bash /opt/icCube/bin/icCube.sh'
 
 alias iccube-server='bash /opt/icCube/bin/icCube.sh'
 
-alias packer='packer-aur'
+#alias packer='packer-aur'
 # bash
 alias brc='v ~/.bashrc'
 alias bra='v ~/.bash_aliases'

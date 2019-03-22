@@ -127,3 +127,6 @@ fi
 
 . /usr/etc/profile.d/conda.sh
 conda activate
+
+[[ -r "/usr/share/z/z.sh" ]]
+source /usr/share/z/z.sh
