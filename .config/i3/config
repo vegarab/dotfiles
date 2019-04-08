@@ -20,7 +20,7 @@ set $term urxvt
 #set $stoprec --no-startup-id killall ffmpeg & killall screenkey
 set $flash --no-startup-id bash ~/.config/Scripts/flash_win.sh
 exec_always setxkbmap -model pc104 -layout us -variant altgr-intl -option caps:swapescape
-exec xinput --set-prop 13 'libinput Accel Speed' -0.3
+exec_always xinput --set-prop 13 'libinput Accel Speed' -0.3
 
 
 ###---Starting External Scripts---###
@@ -35,10 +35,10 @@ exec_always --no-startup-id ~/.config/polybar/launch.sh
 
 #Add wallpaper:
 #exec --no-startup-id feh --bg-scale ~/.config/wall.png
-exec_always --no-startup-id wal -c -i ~/.config/wall.png -g
+exec_always --no-startup-id wal -c -g -i ~/.config/wall.png
 
 #Remaps the caps lock button to escape and uses the US international keyboard with dead keys
-exec_always --no-startup-id setxkbmap -option caps:escape
+#exec_always --no-startup-id setxkbmap -option caps:escape
 #exec_always --no-startup-id setxkbmap -layout us -variant altgr-intl -option caps:escape
 
 #Unclutter makes the mouse invisible after a brief period
