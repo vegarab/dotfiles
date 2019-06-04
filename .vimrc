@@ -20,6 +20,7 @@ set t_vb=
 set mouse=a
 set cmdheight=1
 set encoding=utf-8
+set ttymouse=sgr
 
 colorscheme wal
 let g:instant_markdown_autostart = 0

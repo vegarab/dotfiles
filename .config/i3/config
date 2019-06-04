@@ -14,8 +14,8 @@ for_window [class="^.*"] border pixel 3
 gaps inner 20
 gaps outer 15
 font pango:mono 13
-set $mod Mod1
-set $term urxvt
+set $mod Mod4
+set $term st
 #set $video --no-startup-id bash ~/.config/Scripts/video.sh
 #set $stoprec --no-startup-id killall ffmpeg & killall screenkey
 set $flash --no-startup-id bash ~/.config/Scripts/flash_win.sh
