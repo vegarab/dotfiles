@@ -55,7 +55,7 @@ for_window [instance="dropdown"] floating enable
 for_window [instance="dropdown"] resize set 800 480
 for_window [instance="dropdown"] move position center
 for_window [instance="dropdown"] move scratchpad
-exec --no-startup-id $term -name dropdown -e tmux
+exec --no-startup-id $term -n dropdown -e tmux
 
 #Then I have a window running R I use for basic arithmetic
 #I'll later bind this to mod+a.
@@ -63,7 +63,7 @@ for_window [instance="math"] floating enable
 for_window [instance="math"] resize set 800 300
 for_window [instance="math"] move position center
 for_window [instance="math"] move scratchpad
-exec --no-startup-id $term -fn "xft:mono:pixelsize=24" -name math -e R -q
+exec --no-startup-id $term -n math -e R -q
 
 
 ###---Basic Bindings---###
