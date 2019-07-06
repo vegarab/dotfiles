@@ -1,9 +1,24 @@
-"Pathogen Options
-execute pathogen#infect()
-execute pathogen#helptags()
-    
 set nocompatible
-filetype indent plugin on
+filetype off
+
+" VUNDLE
+set rtp+=~/.vim/bundle/Vundle.vim
+call vundle#begin()
+
+" let Vundle handle Vundle
+Plugin 'VundleVim/Vundle.vim'
+Plugin 'vimwiki/vimwiki'
+Plugin 'dylanaraps/wal.vim'
+Plugin 'scrooloose/nerdtree'
+Plugin 'airblade/vim-gitgutter'
+" A Vim Plugin for Lively Previewing LaTeX PDF Output
+Plugin 'xuhdev/vim-latex-live-preview'
+Plugin 'szymonmaszke/vimpyter'
+
+call vundle#end()
+
+filetype plugin indent on
+set updatetime=250
 
 set wildmenu
 set showcmd
@@ -23,7 +38,6 @@ set encoding=utf-8
 set ttymouse=sgr
 
 colorscheme wal
-let g:instant_markdown_autostart = 0
 
 set number
 set relativenumber
@@ -65,6 +79,11 @@ set tabstop=4
 set noexpandtab
 set textwidth=79
 
+" Jupyter Notebooks "
+autocmd Filetype ipynb nmap <silent><Leader>b :VimpyterInsertPythonBlock<CR>
+autocmd Filetype ipynb nmap <silent><Leader>j :VimpyterStartJupyter<CR>
+autocmd Filetype ipynb nmap <silent><Leader>n :VimpyterStartNteract<CR>
+
 "SNIPPETS"
 "inoremap <S-Space> <Esc>/<++><Enter>"_c4l
 vnoremap <Space><Tab> <Esc>/<++><Enter>"_c4l
@@ -98,12 +117,13 @@ let wiki_1.syntax = 'markdown'
 let wiki_1.ext = '.rmd'
 let g:vimwiki_global_ext = 0
 let g:vimwiki_list = [wiki_1]
-let g:vimwiki_ext2syntax = {'.md': 'markdown', '.markdown': 'markdown', '.mdown': 'markdown', '.rmd': 'rmarkdown'}
+" let g:vimwiki_ext2syntax = {'.md': 'markdown', '.markdown': 'markdown', '.mdown': 'markdown', '.rmd': 'rmarkdown'}
 
 map <F5> :!w<Enter>:!pdflatex <C-r>%<Enter>
 map <F6> :setlocal spell! spelllang=en_uk<CR>
 map <F7> :setlocal spell! spelllang=nb<CR>
 let g:livepreview_previewer = 'mupdf'
+
 
 set wildmode=longest,list,full
 set wildmenu
