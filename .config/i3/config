@@ -20,7 +20,7 @@ set $term st
 #set $stoprec --no-startup-id killall ffmpeg & killall screenkey
 set $flash --no-startup-id bash ~/.config/Scripts/flash_win.sh
 exec_always setxkbmap -model pc104 -layout us -variant altgr-intl -option caps:swapescape
-exec_always xinput --set-prop 13 'libinput Accel Speed' -0.3
+exec_always xinput --set-prop 13 'libinput Accel Speed' -0.4
 
 
 ###---Starting External Scripts---###
