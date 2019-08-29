@@ -14,6 +14,8 @@ Plugin 'airblade/vim-gitgutter'
 " A Vim Plugin for Lively Previewing LaTeX PDF Output
 Plugin 'xuhdev/vim-latex-live-preview'
 Plugin 'szymonmaszke/vimpyter'
+Plugin 'davidhalter/jedi-vim'
+Plugin 'bling/vim-bufferline'
 
 call vundle#end()
 
@@ -108,7 +110,8 @@ autocmd FileType javascript,html inoremap ;ol <ol><Enter><li><++><\li><Enter><\o
 " for html/css/javascript
 autocmd Filetype html, setlocal ts=2 sw=2 expandtab
 autocmd Filetype css, setlocal ts=2 sw=2 expandtab
-"autocmd Filetype javascript, setlocal ts=2 sw=2 expandtab
+autocmd Filetype javascript, setlocal ts=2 sw=2 expandtab
+autocmd Filetype js, setlocal ts=2 sw=2 expandtab
 autocmd Filetype xml, setlocal ts=2 sw=2 expandtab
 autocmd Filetype tex,latex setlocal ts=2 sw=2 expandtab
 
@@ -242,3 +245,21 @@ autocmd Filetype markdown,rmd inoremap ;l --------<Enter>
 autocmd Filetype markdown map <F5> :!pandoc<space><C-r>%<space>-o<space><C-r>%.pdf<Enter><Enter>
 autocmd Filetype rmd map <F5> :!echo<space>"require(rmarkdown);<space>render('<c-r>%')"<space>\|<space>R<space>--vanilla<enter>
 autocmd Filetype rmd inoremap ;r ```{r,<space>echo=TRUE}<CR>```<CR><CR><esc>2kO
+
+"python with virtualenv support
+py << EOF
+import os
+import sys
+if 'VIRTUAL_ENV' in os.environ:
+  project_base_dir = os.environ['VIRTUAL_ENV']
+  activate_this = os.path.join(project_base_dir, 'bin/activate_this.py')
+  execfile(activate_this, dict(__file__=activate_this))
+EOF
+
+let g:jedi#goto_command = "<leader>d"
+let g:jedi#goto_assignments_command = "<leader>g"
+let g:jedi#goto_definitions_command = ""
+let g:jedi#documentation_command = "K"
+let g:jedi#usages_command = "<leader>n"
+let g:jedi#completions_command = "<C-Space>"
+let g:jedi#rename_command = "<leader>r"

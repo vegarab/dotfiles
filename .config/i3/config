@@ -123,7 +123,7 @@ bindsym $mod+Shift+a		exec pavucontrol
 bindsym $mod+s				gaps inner current plus 5
 bindsym $mod+Shift+s		gaps inner current minus 5
 
-bindsym $mod+d				exec rofi -show run
+bindsym $mod+d				exec rofi -font 'term 12' -show run
 bindsym $mod+Shift+d		gaps inner current set 0; gaps outer current set 0
 
 bindsym $mod+f				fullscreen toggle
@@ -292,9 +292,10 @@ bindsym $mod+Shift+bracketright exec $bigfor
 
 #Print screen takes a screenshot.
 #With shift, it takes one only of the given window.
-bindsym Print 				exec --no-startup-id scrot
-bindsym Shift+Print 		exec --no-startup-id scrot -u
-bindsym $mod+Shift+Print    exec --no-startup-id scrot -s
+bindsym Print 				exec --no-startup-id scrot -e 'mv $f ~/pics/screenshots/'
+bindsym Shift+Print 		exec --no-startup-id scrot -u -e 'mv $f ~/pics/screenshots/'
+bindsym $mod+Shift+Print    exec --no-startup-id scrot -s -e 'mv $f ~/pics/screenshots/'
+
 
 #For recording audio/video or stop recording. Also screenkey for visual typing.
 #bindsym $mod+Print			exec --no-startup-id screenkey

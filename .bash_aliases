@@ -3,6 +3,7 @@
 alias venv='source venv/bin/activate'
 
 alias sshagent25='ssh agent25@agent25.tinusf.com'
+alias sshtk='ssh -i /home/vegarab/.ssh/id_rsa_gcloud vegar.andreas@35.228.238.45'
 
 # Google Calendar
 alias gc='gcalcli'
