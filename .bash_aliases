@@ -63,3 +63,5 @@ alias weather='curl -s wttr.in | sed -n "1,7p"'
 # git
 alias superg='git branch -r | grep -v "\->" | while read remote; do git branch
 --track "${remote#origin/}" "$remote"; done'
+
+alias gcolab-jupyter='jupyter notebook --NotebookApp.allow_origin='https://colab.research.google.com' --port=8888 --NotebookApp.port_retries=0'
