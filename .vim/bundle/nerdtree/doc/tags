@@ -7,6 +7,7 @@
 :NERDTreeMirror	NERDTree.txt	/*:NERDTreeMirror*
 :NERDTreeRefreshRoot	NERDTree.txt	/*:NERDTreeRefreshRoot*
 :NERDTreeToggle	NERDTree.txt	/*:NERDTreeToggle*
+:NERDTreeToggleVCS	NERDTree.txt	/*:NERDTreeToggleVCS*
 :NERDTreeVCS	NERDTree.txt	/*:NERDTreeVCS*
 NERDTree	NERDTree.txt	/*NERDTree*
 NERDTree-<CR>	NERDTree.txt	/*NERDTree-<CR>*
@@ -136,6 +137,7 @@ NERDTreeShowHidden	NERDTree.txt	/*NERDTreeShowHidden*
 NERDTreeShowLineNumbers	NERDTree.txt	/*NERDTreeShowLineNumbers*
 NERDTreeSortOrder	NERDTree.txt	/*NERDTreeSortOrder*
 NERDTreeStatusline	NERDTree.txt	/*NERDTreeStatusline*
+NERDTreeUseTCD	NERDTree.txt	/*NERDTreeUseTCD*
 NERDTreeWinPos	NERDTree.txt	/*NERDTreeWinPos*
 NERDTreeWinSize	NERDTree.txt	/*NERDTreeWinSize*
 loaded_nerd_tree	NERDTree.txt	/*loaded_nerd_tree*
