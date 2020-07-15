@@ -11,11 +11,14 @@ case $- in
 esac
 
 source ~/.config/bash-powerline.sh
-export EDITOR=vim
+export EDITOR=nvim
 export VISUAL=$EDITOR
 export BROWSER=firefox
 # pywal
 export PATH="${PATH}:${HOME}/.local/bin/"
+# custom scripts
+export PATH="$PATH:$(du "$HOME/.local/bin/" | cut -f2 | paste -sd ':')"
+
 
 # don't put duplicate lines or lines starting with space in the history.
 # See bash(1) for more options
@@ -125,8 +128,8 @@ if ! shopt -oq posix; then
   fi
 fi
 
-. /usr/etc/profile.d/conda.sh
-conda activate
+# . /usr/etc/profile.d/conda.sh  # commented out by conda initialize
+# conda activate  # commented out by conda initialize
 
 [[ -r "/usr/share/z/z.sh" ]]
 source /usr/share/z/z.sh
@@ -138,3 +141,20 @@ if [ -f '/home/vegarab/tmp/google-cloud-sdk/path.bash.inc' ]; then . '/home/vega
 if [ -f '/home/vegarab/tmp/google-cloud-sdk/completion.bash.inc' ]; then . '/home/vegarab/tmp/google-cloud-sdk/completion.bash.inc'; fi
 
 #source $HOME/.vim/bundle/gruvbox/gruvbox_256palette.sh
+
+# >>> conda initialize >>>
+# !! Contents within this block are managed by 'conda init' !!
+#__conda_setup="$('/usr/bin/conda' 'shell.bash' 'hook' 2> /dev/null)"
+#if [ $? -eq 0 ]; then
+    #eval "$__conda_setup"
+#else
+    #if [ -f "/usr/etc/profile.d/conda.sh" ]; then
+        #. "/usr/etc/profile.d/conda.sh"
+    #else
+        #export PATH="/usr/bin:$PATH"
+    #fi
+#fi
+#unset __conda_setup
+# <<< conda initialize <<<
+
+[ -f /opt/miniconda3/etc/profile.d/conda.sh ] && source /opt/miniconda3/etc/profile.d/conda.sh

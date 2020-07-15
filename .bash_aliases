@@ -68,3 +68,5 @@ alias gcolab-jupyter='jupyter notebook --NotebookApp.allow_origin='https://colab
 
 alias webcam='mpv av://v4l2:/dev/video0'
 
+
+alias vim='nvim'
