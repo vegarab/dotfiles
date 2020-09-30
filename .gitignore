@@ -1,5 +1,7 @@
 /*
 
+.z
+
 !README.md
 
 !.bash_aliases
@@ -12,7 +14,6 @@
 !.gtkrc-2.0
 !.gitignore
 !userChrome.css
-!.z
 
 !/.config/
 .config/*
