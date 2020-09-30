@@ -68,5 +68,9 @@ alias gcolab-jupyter='jupyter notebook --NotebookApp.allow_origin='https://colab
 
 alias webcam='mpv av://v4l2:/dev/video0'
 
-
 alias vim='nvim'
+
+# monitoring on mic
+alias enable_monitor='pactl load-module module-loopback latency_msec=1'
+alias disable_monitor='pactl unload-module module-loopback'
+
