@@ -1,9 +1,26 @@
-"Pathogen Options
-execute pathogen#infect()
-execute pathogen#helptags()
-    
 set nocompatible
-filetype indent plugin on
+filetype off
+
+" VUNDLE
+set rtp+=~/.vim/bundle/Vundle.vim
+call vundle#begin()
+
+" let Vundle handle Vundle
+Plugin 'VundleVim/Vundle.vim'
+Plugin 'vimwiki/vimwiki'
+Plugin 'dylanaraps/wal.vim'
+Plugin 'scrooloose/nerdtree'
+Plugin 'airblade/vim-gitgutter'
+Plugin 'szymonmaszke/vimpyter'
+"Plugin 'davidhalter/jedi-vim'
+Plugin 'ap/vim-buftabline'
+Plugin 'morhetz/gruvbox'
+Plugin 'ying17zi/vim-live-latex-preview'
+
+call vundle#end()
+
+filetype plugin indent on
+set updatetime=250
 
 set wildmenu
 set showcmd
@@ -21,9 +38,12 @@ set mouse=a
 set cmdheight=1
 set encoding=utf-8
 set ttymouse=sgr
+set background=dark
 
 colorscheme wal
-let g:instant_markdown_autostart = 0
+"colorscheme gruvbox
+"let g:gruvbox_contrast_dark="hard"
+"hi Normal ctermbg=None
 
 set number
 set relativenumber
@@ -65,6 +85,12 @@ set tabstop=4
 set noexpandtab
 set textwidth=79
 
+" Jupyter Notebooks "
+autocmd Filetype ipynb nmap <silent><Leader>b :VimpyterInsertPythonBlock<CR>
+autocmd Filetype ipynb nmap <silent><Leader>j :VimpyterStartJupyter<CR>
+autocmd Filetype ipynb nmap <silent><Leader>n :VimpyterStartNteract<CR>
+autocmd Filetype ipynb, setlocal ts=4 sw=4 expandtab
+
 "SNIPPETS"
 "inoremap <S-Space> <Esc>/<++><Enter>"_c4l
 vnoremap <Space><Tab> <Esc>/<++><Enter>"_c4l
@@ -87,23 +113,27 @@ autocmd FileType javascript,html inoremap ;ol <ol><Enter><li><++><\li><Enter><\o
 """END
  
 " for html/css/javascript
-autocmd Filetype html, setlocal ts=2 sw=2 expandtab
-autocmd Filetype css, setlocal ts=2 sw=2 expandtab
-"autocmd Filetype javascript, setlocal ts=2 sw=2 expandtab
+autocmd Filetype html, setlocal ts=2 sw=2 expandtab textwidth=79
+autocmd Filetype css, setlocal ts=2 sw=2 expandtab textwidth=200
+autocmd Filetype javascript, setlocal ts=2 sw=2 expandtab
+autocmd Filetype js, setlocal ts=2 sw=2 expandtab
 autocmd Filetype xml, setlocal ts=2 sw=2 expandtab
-autocmd Filetype tex,latex setlocal ts=2 sw=2 expandtab
+autocmd Filetype tex,latex,bib setlocal ts=2 sw=2 expandtab
 
 let wiki_1 = {}
 let wiki_1.syntax = 'markdown'
 let wiki_1.ext = '.rmd'
 let g:vimwiki_global_ext = 0
 let g:vimwiki_list = [wiki_1]
-let g:vimwiki_ext2syntax = {'.md': 'markdown', '.markdown': 'markdown', '.mdown': 'markdown', '.rmd': 'rmarkdown'}
+" let g:vimwiki_ext2syntax = {'.md': 'markdown', '.markdown': 'markdown', '.mdown': 'markdown', '.rmd': 'rmarkdown'}
 
-map <F5> :!w<Enter>:!pdflatex <C-r>%<Enter>
+map <F5> :!w<Enter>:!pdflatex -shell-escape -shell-esc <C-r>%<Enter>
 map <F6> :setlocal spell! spelllang=en_uk<CR>
 map <F7> :setlocal spell! spelllang=nb<CR>
 let g:livepreview_previewer = 'mupdf'
+let g:livepreview_engine = 'pdflatex' . '-shell-escape'
+let g:livepreview_cursorhold_recompile = 0
+
 
 set wildmode=longest,list,full
 set wildmenu
@@ -140,8 +170,9 @@ autocmd FileType tex inoremap ;bcup	\bigcup_{}^{<++>}<++><Esc>bli
 autocmd FileType tex inoremap ;bcap \bigcap_{}^{<++>}<++><Esc>bli
 autocmd FileType tex inoremap ;cases \begin{cases}<Enter><Enter>\end{cases}<Enter><Enter><++><Esc>3kA
 autocmd FileType tex inoremap ;algn \begin{align*}<Enter><Enter>\end{align*}<Enter><Enter><++><Esc>3kA
-autocmd FileType tex inoremap ;mtrx \begin{pmatrix}<Enter><Enter>\end{pmatrix}<Enter><Enter><++><Esc>3kA
+autocmd FileType tex inoremap ;mtrx \begin{bmatrix}<Enter><Enter>\end{bmatrix}<Enter><Enter><++><Esc>3kA
 autocmd FileType tex inoremap ;mbb \mathbb{}<++><Esc>T{i
+autocmd FileType tex inoremap ;mbf \mathbf{}<++><Esc>T{i
 autocmd FileType tex inoremap ;frac \frac{}{<++>}<++><Esc>bli
 autocmd FileType tex inoremap ;bim \binom{}{<++>}<++><Esc>bli
 autocmd FileType tex inoremap ;sqrt \sqrt{}<++><Esc>T{i
@@ -222,3 +253,10 @@ autocmd Filetype markdown,rmd inoremap ;l --------<Enter>
 autocmd Filetype markdown map <F5> :!pandoc<space><C-r>%<space>-o<space><C-r>%.pdf<Enter><Enter>
 autocmd Filetype rmd map <F5> :!echo<space>"require(rmarkdown);<space>render('<c-r>%')"<space>\|<space>R<space>--vanilla<enter>
 autocmd Filetype rmd inoremap ;r ```{r,<space>echo=TRUE}<CR>```<CR><CR><esc>2kO
+
+autocmd FileType python setlocal completeopt-=preview
+
+let g:jedi#show_call_signatures = "2"
+
+" Using <C-N> for omnicompletion
+inoremap <silent> <buffer> <C-N> <c-x><c-o>

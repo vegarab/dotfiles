@@ -3,6 +3,7 @@
 alias venv='source venv/bin/activate'
 
 alias sshagent25='ssh agent25@agent25.tinusf.com'
+alias sshtk='ssh -i /home/vegarab/.ssh/id_rsa_gcloud vegar.andreas@35.228.238.45'
 
 # Google Calendar
 alias gc='gcalcli'
@@ -62,3 +63,14 @@ alias weather='curl -s wttr.in | sed -n "1,7p"'
 # git
 alias superg='git branch -r | grep -v "\->" | while read remote; do git branch
 --track "${remote#origin/}" "$remote"; done'
+
+alias gcolab-jupyter='jupyter notebook --NotebookApp.allow_origin='https://colab.research.google.com' --port=8888 --NotebookApp.port_retries=0'
+
+alias webcam='mpv av://v4l2:/dev/video0'
+
+alias vim='nvim'
+
+# monitoring on mic
+alias enable_monitor='pactl load-module module-loopback latency_msec=1'
+alias disable_monitor='pactl unload-module module-loopback'
+

@@ -28,7 +28,7 @@ exec --no-startup-id nm-applet
 exec --no-startup-id sudo mount -a
 
 #Composite manager, also removes tearing
-exec --no-startup-id compton --xrender-sync-fence
+#exec --no-startup-id compton --xrender-sync-fence
 
 #Launch Polybar where appropriate:
 exec_always --no-startup-id ~/.config/polybar/launch.sh
@@ -52,7 +52,7 @@ exec --no-startup-id unclutter
 #First I have a tmux window used for background scripts.
 #I'll later bind this to mod+u.
 for_window [instance="dropdown"] floating enable
-for_window [instance="dropdown"] resize set 800 480
+for_window [instance="dropdown"] resize set 900 490
 for_window [instance="dropdown"] move position center
 for_window [instance="dropdown"] move scratchpad
 exec --no-startup-id $term -n dropdown -e tmux
@@ -101,7 +101,7 @@ bindsym $mod+Shift+r		restart
 bindsym $mod+t				split toggle
 bindsym $mod+Shift+t		gaps inner current set 15; gaps outer current set 15
 
-bindsym $mod+y				exec $term -e calcurse
+#bindsym $mod+y				exec $term -e calcurse
 bindsym $mod+Shift+y		resize shrink width 2 px or 2 ppt
 
 bindsym $mod+u				[instance="dropdown"] scratchpad show; move position center
@@ -110,7 +110,7 @@ bindsym $mod+Shift+u		resize shrink height 2 px or 2 ppt
 bindsym $mod+i 				exec $term -e htop
 bindsym $mod+Shift+i		resize grow height 2 px or 2 ppt
 
-bindsym $mod+o				exec $term -e  khal
+#bindsym $mod+o				exec $term -e  khal
 bindsym $mod+Shift+o		resize grow width  2 px or 2 ppt
 
 bindsym $mod+p				exec $pause
@@ -123,7 +123,7 @@ bindsym $mod+Shift+a		exec pavucontrol
 bindsym $mod+s				gaps inner current plus 5
 bindsym $mod+Shift+s		gaps inner current minus 5
 
-bindsym $mod+d				exec rofi -show run
+bindsym $mod+d				exec rofi -font 'term 12' -show run
 bindsym $mod+Shift+d		gaps inner current set 0; gaps outer current set 0
 
 bindsym $mod+f				fullscreen toggle
@@ -153,7 +153,7 @@ bindsym $mod+Shift+x		exec sudo shutdown -h now
 #bindsym $mod+c			
 #bindsym $mod+Shift+c
 
-bindsym $mod+v				exec urxvt -e vis
+bindsym $mod+v				exec $term -e vis
 bindsym $mod+Shift+v		exec projectM-pulseaudio
 
 bindsym $mod+b				exec $prev
@@ -292,9 +292,10 @@ bindsym $mod+Shift+bracketright exec $bigfor
 
 #Print screen takes a screenshot.
 #With shift, it takes one only of the given window.
-bindsym Print 				exec --no-startup-id scrot
-bindsym Shift+Print 		exec --no-startup-id scrot -u
-bindsym $mod+Shift+Print    exec --no-startup-id scrot -s
+bindsym Print 				exec --no-startup-id scrot -e 'mv $f ~/pics/screenshots/'
+bindsym Shift+Print 		exec --no-startup-id scrot -u -e 'mv $f ~/pics/screenshots/'
+bindsym $mod+Shift+Print    exec --no-startup-id scrot -s -e 'mv $f ~/pics/screenshots/'
+
 
 #For recording audio/video or stop recording. Also screenkey for visual typing.
 #bindsym $mod+Print			exec --no-startup-id screenkey

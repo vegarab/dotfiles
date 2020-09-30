@@ -1,91 +1,104 @@
-" vim:tabstop=2:shiftwidth=2:expandtab:foldmethod=marker:textwidth=79
+" vim:tabstop=2:shiftwidth=2:expandtab:textwidth=99
 " Vimwiki syntax file
-" Desc: Defines markdown syntax
+" Description: Defines markdown syntax
 " Home: https://github.com/vimwiki/vimwiki/
 
+
+" see the comments in vimwiki_default.vim for some info about this file
+
+
+let s:markdown_syntax = g:vimwiki_syntax_variables['markdown']
+
 " text: $ equation_inline $
-let g:vimwiki_rxEqIn = '\$[^$`]\+\$'
-let g:vimwiki_char_eqin = '\$'
+let s:markdown_syntax.rxEqIn = '\$[^$`]\+\$'
+let s:markdown_syntax.char_eqin = '\$'
 
-" text: *strong*
-" let g:vimwiki_rxBold = '\*[^*]\+\*'
-let g:vimwiki_rxBold = '\%(^\|\s\|[[:punct:]]\)\@<='.
-      \'\*'.
-      \'\%([^*`[:space:]][^*`]*[^*`[:space:]]\|[^*`[:space:]]\)'.
-      \'\*'.
+" text: **strong** or __strong__
+let s:markdown_syntax.rxBold = '\%(^\|\s\|[[:punct:]]\)\@<='.
+      \'\(\*\|_\)\{2\}'.
+      \'\%([^*_`[:space:]][^*_`]*[^*_`[:space:]]\|[^*_`[:space:]]\)'.
+      \'\1\{2\}'.
       \'\%([[:punct:]]\|\s\|$\)\@='
-let g:vimwiki_char_bold = '*'
+let s:markdown_syntax.char_bold = '\*\*\|__'
 
-" text: _emphasis_
-" let g:vimwiki_rxItalic = '_[^_]\+_'
-let g:vimwiki_rxItalic = '\%(^\|\s\|[[:punct:]]\)\@<='.
-      \'_'.
-      \'\%([^_`[:space:]][^_`]*[^_`[:space:]]\|[^_`[:space:]]\)'.
-      \'_'.
+" text: _emphasis_ or *emphasis*
+let s:markdown_syntax.rxItalic = '\%(^\|\s\|[[:punct:]]\)\@<='.
+      \'\(\*\|_\)'.
+      \'\%([^*_`[:space:]][^*_`]*[^*_`[:space:]]\|[^*_`[:space:]]\)'.
+      \'\1'.
       \'\%([[:punct:]]\|\s\|$\)\@='
-let g:vimwiki_char_italic = '_'
+let s:markdown_syntax.char_italic = '\*\|_'
 
 " text: *_bold italic_* or _*italic bold*_
-let g:vimwiki_rxBoldItalic = '\%(^\|\s\|[[:punct:]]\)\@<='.
-      \'\*_'.
-      \'\%([^*_`[:space:]][^*_`]*[^*_`[:space:]]\|[^*_`[:space:]]\)'.
-      \'_\*'.
+let s:markdown_syntax.rxBoldItalic = '\%(^\|\s\|[[:punct:]]\)\@<='.
+      \'\(\*\)\{3\}'.
+      \'\%([^*`[:space:]][^*`]*[^*`[:space:]]\|[^*`[:space:]]\)'.
+      \'\1\{3\}'.
       \'\%([[:punct:]]\|\s\|$\)\@='
-let g:vimwiki_char_bolditalic = '\*_'
+let s:markdown_syntax.char_bolditalic = '\*\*\*'
 
-let g:vimwiki_rxItalicBold = '\%(^\|\s\|[[:punct:]]\)\@<='.
-      \'_\*'.
-      \'\%([^*_`[:space:]][^*_`]*[^*_`[:space:]]\|[^*_`[:space:]]\)'.
-      \'\*_'.
+let s:markdown_syntax.rxItalicBold = '\%(^\|\s\|[[:punct:]]\)\@<='.
+      \'\(_\)\{3\}'.
+      \'\%([^_`[:space:]][^_`]*[^_`[:space:]]\|[^_`[:space:]]\)'.
+      \'\1\{3\}'.
       \'\%([[:punct:]]\|\s\|$\)\@='
-let g:vimwiki_char_italicbold = '_\*'
+let s:markdown_syntax.char_italicbold = '___'
 
 " text: `code`
-let g:vimwiki_rxCode = '`[^`]\+`'
-let g:vimwiki_char_code = '`'
+let s:markdown_syntax.rxCode = '`[^`]\+`'
+let s:markdown_syntax.char_code = '`'
 
 " text: ~~deleted text~~
-let g:vimwiki_rxDelText = '\~\~[^~`]\+\~\~'
-let g:vimwiki_char_deltext = '\~\~'
+let s:markdown_syntax.rxDelText = '\~\~[^~`]\+\~\~'
+let s:markdown_syntax.char_deltext = '\~\~'
 
 " text: ^superscript^
-let g:vimwiki_rxSuperScript = '\^[^^`]\+\^'
-let g:vimwiki_char_superscript = '^'
+let s:markdown_syntax.rxSuperScript = '\^[^^`]\+\^'
+let s:markdown_syntax.char_superscript = '^'
 
 " text: ,,subscript,,
-let g:vimwiki_rxSubScript = ',,[^,`]\+,,'
-let g:vimwiki_char_subscript = ',,'
+let s:markdown_syntax.rxSubScript = ',,[^,`]\+,,'
+let s:markdown_syntax.char_subscript = ',,'
 
 " generic headers
-let g:vimwiki_rxH = '#'
-let g:vimwiki_symH = 0
+let s:markdown_syntax.rxH = '#'
+let s:markdown_syntax.symH = 0
 
 
 
 " <hr>, horizontal rule
-let g:vimwiki_rxHR = '^-----*$'
+let s:markdown_syntax.rxHR = '\(^---*$\|^___*$\|^\*\*\**$\)'
 
 " Tables. Each line starts and ends with '|'; each cell is separated by '|'
-let g:vimwiki_rxTableSep = '|'
+let s:markdown_syntax.rxTableSep = '|'
 
 " Lists
-let g:vimwiki_bullet_types = { '-':0, '*':0, '+':0 }
-let g:vimwiki_number_types = ['1.']
-let g:vimwiki_list_markers = ['-', '*', '+', '1.']
-let g:vimwiki_rxListDefine = '::\%(\s\|$\)'
-call vimwiki#lst#setup_marker_infos()
+let s:markdown_syntax.bullet_types = ['-', '*', '+']
+let s:markdown_syntax.recurring_bullets = 0
+let s:markdown_syntax.number_types = ['1.']
+let s:markdown_syntax.list_markers = ['-', '*', '+', '1.']
+let s:markdown_syntax.rxListDefine = '::\%(\s\|$\)'
 
-let g:vimwiki_rxListItemWithoutCB = '^\s*\%(\('.g:vimwiki_rxListBullet.'\)\|\('.g:vimwiki_rxListNumber.'\)\)\s'
-let g:vimwiki_rxListItem = g:vimwiki_rxListItemWithoutCB . '\+\%(\[\(['.g:vimwiki_listsyms.']\)\]\s\)\?'
-let g:vimwiki_rxListItemAndChildren = '^\(\s*\)\%('.g:vimwiki_rxListBullet.'\|'.g:vimwiki_rxListNumber.'\)\s\+\['.g:vimwiki_listsyms_list[4].'\]\s.*\%(\n\%(\1\s.*\|^$\)\)*'
-
-" Preformatted text
-let g:vimwiki_rxPreStart = '```'
-let g:vimwiki_rxPreEnd = '```'
+" Preformatted text (code blocks)
+let s:markdown_syntax.rxPreStart = '\%(`\{3,}\|\~\{3,}\)'
+let s:markdown_syntax.rxPreEnd = '\%(`\{3,}\|\~\{3,}\)'
+" TODO see syntax/vimwiki_markdown_custom.vim for more info
+" let s:markdown_syntax.rxIndentedCodeBlock = '\%(^\n\)\@1<=\%(\%(\s\{4,}\|\t\+\).*\n\)\+'
 
 " Math block
-let g:vimwiki_rxMathStart = '\$\$'
-let g:vimwiki_rxMathEnd = '\$\$'
+let s:markdown_syntax.rxMathStart = '\$\$'
+let s:markdown_syntax.rxMathEnd = '\$\$'
 
-let g:vimwiki_rxComment = '^\s*%%.*$'
-let g:vimwiki_rxTags = '\%(^\|\s\)\@<=:\%([^:[:space:]]\+:\)\+\%(\s\|$\)\@='
+let s:markdown_syntax.rxComment = '^\s*%%.*$\|<!--[^>]*-->'
+let s:markdown_syntax.rxTags = '\%(^\|\s\)\@<=:\%([^:[:space:]]\+:\)\+\%(\s\|$\)\@='
+
+let s:markdown_syntax.header_search = '^\s*\(#\{1,6}\)\([^#].*\)$'
+let s:markdown_syntax.header_match = '^\s*\(#\{1,6}\)#\@!\s*__Header__\s*$'
+let s:markdown_syntax.bold_search = '\%(^\|\s\|[[:punct:]]\)\@<=\*\zs'.
+      \ '\%([^*`[:space:]][^*`]*[^*`[:space:]]\|[^*`[:space:]]\)\ze\*\%([[:punct:]]\|\s\|$\)\@='
+let s:markdown_syntax.bold_match = '\%(^\|\s\|[[:punct:]]\)\@<=\*__Text__\*'.
+      \ '\%([[:punct:]]\|\s\|$\)\@='
+let s:markdown_syntax.wikilink = '\[\[\zs[^\\\]|]\+\ze\%(|[^\\\]]\+\)\?\]\]'
+let s:markdown_syntax.tag_search = '\(^\|\s\)\zs:\([^:''[:space:]]\+:\)\+\ze\(\s\|$\)'
+let s:markdown_syntax.tag_match = '\(^\|\s\):\([^:''[:space:]]\+:\)*__Tag__:'.
+      \ '\([^:[:space:]]\+:\)*\(\s\|$\)'

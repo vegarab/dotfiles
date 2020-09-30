@@ -39,14 +39,6 @@
   display: none !important;
 }
 
-/*Remove forward and back buttons*/
-/*#back-button {
-   display: none;
-}
-#forward-button {
-   display: none;
-}*/
-
 /* Remove go button from url bar */
 .urlbar-go-button {
   display: none !important;
@@ -109,50 +101,6 @@
 /* Make url bar not curved */
 :root {
   --toolbarbutton-border-radius: 0px !important;  
-}
-
-
-/***************************************************************************
- *     _   _ _     _ _              ______       _   _                    
- *    | | | (_)   | (_)             | ___ \     | | | |                 
- *    | |_| |_  __| |_ _ __   __ _  | |_/ /_   _| |_| |_ ___  _ __  ___ 
- *    |  _  | |/ _` | | '_ \ / _` | | ___ \ | | | __| __/ _ \| '_ \/ __|
- *    | | | | | (_| | | | | | (_| | | |_/ / |_| | |_| || (_) | | | \__ \
- *    \_| |_/_|\__,_|_|_| |_|\__, | \____/ \__,_|\__|\__\___/|_| |_|___/
- *                            __/ |                                     
- *                           |___/                                      
- *
- ***************************************************************************/
-
-
-/* Hide the hamburger button by default */
-#PanelUI-menu-button{
-  transition: 300ms !important; /* Animate icon hiding */
-  opacity: 0 !important; /* Make icon transparent */
-  -moz-margin-end: -26px !important; /* Hide icon by offsetting it */
-}
-
-/* Show the hamburger button on navbar hover or page load (animation/stop button) */
-#nav-bar:hover #PanelUI-menu-button{
-  transition: 300ms !important; /* Animate icon showing */
-  opacity: 1 !important;  /* Make the icon opaque */
-  -moz-margin-end: initial !important; /* Use initial margins to show the icon */
-}
-
-/* Hide the reload button by default */
-#reload-button {
-  transition: 300ms !important; /* Animate icon hiding */
-  opacity: 0 !important; /* Make icon transparent */
-  -moz-margin-end: -26px !important; /* Hide icon by offsetting it */
-}
-
-/* Show the reload button on navbar hover or page load (animation/stop button) */
-#nav-bar:hover #reload-button,
-#stop-reload-button[animate] > #reload-button:not([displaystop]) {
-  transition: 300ms !important; /* Animate icon showing */
-  opacity: 1 !important;  /* Make the icon opaque */
-  -moz-margin-end: initial !important; /* Use initial margins to show the icon */
-  -mox-padding-right: 10px !important;
 }
 
 

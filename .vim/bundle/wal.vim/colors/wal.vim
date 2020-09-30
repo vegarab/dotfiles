@@ -19,6 +19,7 @@ let g:colors_name = 'wal'
 hi Normal ctermbg=NONE ctermfg=7
 hi NonText ctermbg=NONE ctermfg=0
 hi Comment ctermbg=NONE ctermfg=8
+hi Conceal ctermbg=NONE
 hi Constant ctermbg=NONE ctermfg=3
 hi Error ctermbg=1 ctermfg=7
 hi Identifier ctermbg=NONE ctermfg=1 cterm=BOLD
@@ -32,19 +33,19 @@ hi Todo ctermbg=2 ctermfg=0
 hi Type ctermbg=NONE ctermfg=3
 hi Underlined ctermbg=NONE ctermfg=1 cterm=underline
 hi StatusLine ctermbg=7 ctermfg=0
-hi StatusLineNC ctermbg=NONE ctermfg=NONE
+hi StatusLineNC ctermbg=8 ctermfg=0
 hi TabLine ctermbg=NONE ctermfg=8
 hi TabLineFill ctermbg=NONE ctermfg=8
 hi TabLineSel ctermbg=4 ctermfg=0
 hi TermCursorNC ctermbg=3 ctermfg=0
-hi VertSplit ctermbg=NONE ctermfg=NONE
+hi VertSplit ctermbg=8 ctermfg=0
 hi Title ctermbg=NONE ctermfg=4
-hi CursorLine ctermbg=8 ctermfg=0
+hi CursorLine ctermbg=2 ctermfg=0
 hi LineNr ctermbg=NONE ctermfg=8
 hi CursorLineNr ctermbg=NONE ctermfg=8
 hi helpLeadBlank ctermbg=NONE ctermfg=7
 hi helpNormal ctermbg=NONE ctermfg=7
-hi Visual ctermbg=8 ctermfg=0
+hi Visual ctermbg=0 ctermfg=15 cterm=reverse term=reverse
 hi VisualNOS ctermbg=NONE ctermfg=1
 hi Pmenu ctermbg=8 ctermfg=7
 hi PmenuSbar ctermbg=6 ctermfg=7
@@ -61,7 +62,7 @@ hi DiffText ctermbg=NONE ctermfg=4
 hi IncSearch ctermbg=3 ctermfg=0
 hi Search ctermbg=3 ctermfg=0
 hi Directory ctermbg=NONE ctermfg=4
-hi MatchParen ctermbg=8 ctermfg=0
+hi MatchParen ctermbg=1 ctermfg=8
 hi ColorColumn ctermbg=4 ctermfg=0
 hi signColumn ctermbg=NONE ctermfg=4
 hi ErrorMsg ctermbg=NONE ctermfg=8
@@ -73,7 +74,7 @@ hi Cursor ctermbg=NONE ctermfg=8
 hi Structure ctermbg=NONE ctermfg=5
 hi CursorColumn ctermbg=8 ctermfg=7
 hi ModeMsg ctermbg=NONE ctermfg=7
-hi SpellBad ctermbg=1 ctermfg=0
+hi SpellBad ctermbg=NONE ctermfg=1 cterm=underline
 hi SpellCap ctermbg=NONE ctermfg=4 cterm=underline
 hi SpellLocal ctermbg=NONE ctermfg=5 cterm=underline
 hi SpellRare ctermbg=NONE ctermfg=6 cterm=underline
@@ -143,12 +144,14 @@ hi markdownH1 ctermbg=NONE ctermfg=7
     hi link markdownH4 markdownH1
     hi link markdownH5 markdownH1
     hi link markdownH6 markdownH1
-hi markdownAutomaticLink ctermbg=NONE ctermfg=1 cterm=underline
+hi markdownAutomaticLink ctermbg=NONE ctermfg=2 cterm=underline
     hi link markdownUrl markdownAutomaticLink
 hi markdownError ctermbg=NONE ctermfg=7
 hi markdownCode ctermbg=NONE ctermfg=3
 hi markdownCodeBlock ctermbg=NONE ctermfg=3
 hi markdownCodeDelimiter ctermbg=NONE ctermfg=5
+hi markdownItalic cterm=Italic
+hi markdownBold cterm=Bold
 hi xdefaultsValue ctermbg=NONE ctermfg=7
 hi rubyInclude ctermbg=NONE ctermfg=4
 hi rubyDefine ctermbg=NONE ctermfg=5
