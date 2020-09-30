@@ -1,0 +1,17 @@
+#!/bin/sh
+
+
+xinput --set-prop 13 'libinput Accel Speed' -0.4
+setxkbmap -model pc104 -layout us -variant altgr-intl -option caps:swapescape
+
+export PATH="$PATH:$(du "$HOME/.local/bin/" | cut -f1 | paste -sd ':')"
+
+#nm-applet &
+xwallpaper --zoom ~/.config/wall.png
+compton --xrender-sync-fence
+unclutter &
+dwmblocks & 
+
+# Disable screen timeout
+xset -dpms
+xset s off
