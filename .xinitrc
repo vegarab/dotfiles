@@ -1,2 +1,6 @@
-exec i3
-exec xmodmap .Xmodmap
+xrandr --setprovideroutputsource modesetting NVIDIA-0
+xrandr --auto
+
+. ~/.xprofile
+
+exec dwm
