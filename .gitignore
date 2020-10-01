@@ -29,6 +29,7 @@
 !.config/ranger/
 !.config/Scripts/
 !.config/rofi/
+!.config/nvim/
 
 
 !.config/wall.png
