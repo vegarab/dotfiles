@@ -21,10 +21,9 @@ source $HOME/.config/nvim/plug-config/coc.vim
 set pyxversion=3
 
 let g:vimtex_view_method = 'mupdf'
+let g:tex_flavor = 'latex'
 
 let g:airline#extensions#tabline#enabled = 1
-
-
 
 filetype plugin indent on
 set updatetime=250
@@ -55,7 +54,6 @@ set number
 set relativenumber
 
 set notimeout ttimeout ttimeoutlen=200
-
 
 set clipboard=unnamed
 inoremap <C-v> <ESC>"+pa
@@ -145,7 +143,6 @@ map <F7> :setlocal spell! spelllang=nb<CR>
 let g:livepreview_previewer = 'mupdf'
 let g:livepreview_engine = 'pdflatex' . '-shell-escape'
 let g:livepreview_cursorhold_recompile = 0
-
 
 set wildmode=longest,list,full
 set wildmenu

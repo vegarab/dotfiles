@@ -18,6 +18,8 @@
 
 !/.local
 
+!/.themes
+
 !/.config/
 .config/*
 

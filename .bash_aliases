@@ -20,7 +20,12 @@ alias bra='v ~/.bash_aliases'
 
 # vim
 alias v='vim'
-alias vrc='vim ~/.vimrc'
+alias vrc='vim ~/.config/nvim/init.vim'
+alias cocrc='vim ~/.config/nvim/plug-config/coc.vim'
+
+# dwm and st
+alias dwmconf='vim ~/.local/src/dwm/config.h'
+alias stconf='vim ~/.local/src/st/config.h'
 
 # i3con
 alias i3conf='vim ~/.config/i3/config'
