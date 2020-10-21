@@ -13,10 +13,15 @@ Plug 'lervag/vimtex'
 Plug 'ryanoasis/vim-devicons'
 Plug 'vim-airline/vim-airline'
 Plug 'justinmk/vim-sneak'
+Plug 'ctrlpvim/ctrlp.vim'
 
 call plug#end()
 
 source $HOME/.config/nvim/plug-config/coc.vim
+
+set runtimepath^=~/.vim/bundle/ctrlp.vim
+let g:ctrlp_map='<c-p>'
+let g:ctrlp_cmd = 'CtrlPMixed'
 
 set pyxversion=3
 
@@ -88,7 +93,7 @@ set autoindent
 set shiftwidth=4
 set tabstop=4
 set noexpandtab
-set textwidth=79
+set textwidth=120
 " stops vim from adding a newline at textwidth,
 " while stille allowing 'gq' to work with textwidth
 set formatoptions-=t
@@ -121,10 +126,9 @@ autocmd FileType javascript,html inoremap ;ol <ol><Enter><li><++><\li><Enter><\o
 """END
  
 " for html/css/javascript
-autocmd Filetype html, setlocal ts=2 sw=2 expandtab textwidth=79
+autocmd Filetype html, setlocal ts=2 sw=2 expandtab textwidth=120
 autocmd Filetype css, setlocal ts=2 sw=2 expandtab textwidth=200
-autocmd Filetype javascript, setlocal ts=2 sw=2 expandtab
-autocmd Filetype js, setlocal ts=2 sw=2 expandtab
+autocmd Filetype js,json,javascript setlocal ts=2 sw=2 expandtab
 autocmd Filetype xml, setlocal ts=2 sw=2 expandtab
 autocmd Filetype tex,latex,bib setlocal ts=2 sw=2 expandtab formatoptions+=t
 " read all .tex files as tex
@@ -264,8 +268,6 @@ autocmd Filetype rmd map <F5> :!echo<space>"require(rmarkdown);<space>render('<c
 autocmd Filetype rmd inoremap ;r ```{r,<space>echo=TRUE}<CR>```<CR><CR><esc>2kO
 
 autocmd FileType python setlocal completeopt-=preview
-
-let g:jedi#show_call_signatures = "2"
 
 " Using <C-N> for omnicompletion
 inoremap <silent> <buffer> <C-N> <c-x><c-o>
