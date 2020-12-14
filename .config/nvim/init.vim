@@ -55,6 +55,8 @@ colorscheme gruvbox
 let g:gruvbox_contrast_dark="hard"
 hi Normal ctermbg=None
 
+autocmd VimResized * wimcmd = 
+
 set number
 set relativenumber
 

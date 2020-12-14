@@ -46,7 +46,7 @@ colorscheme wal
 "hi Normal ctermbg=None
 
 set number
-set relativenumber
+"set relativenumber
 
 set notimeout ttimeout ttimeoutlen=200
 
