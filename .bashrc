@@ -19,6 +19,10 @@ export PATH="${PATH}:${HOME}/.local/bin/"
 # custom scripts
 export PATH="$PATH:$(du "$HOME/.local/bin/" | cut -f2 | paste -sd ':')"
 
+# fix misbehaving java applications
+export _JAVA_AWT_WM_NONREPARENTING=1
+
+export SPARK_HOME=/home/vegarab/.envs/girt/lib/python3.6/site-packages/pyspark
 
 # don't put duplicate lines or lines starting with space in the history.
 # See bash(1) for more options
