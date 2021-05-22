@@ -15,6 +15,7 @@
 !.gitignore
 !userChrome.css
 !.xprofile
+!.ideavimrc
 
 !/.local
 
@@ -33,6 +34,7 @@
 !.config/rofi/
 !.config/nvim/
 !.config/JetBrains/
+!.config/oomox/
 
 
 !.config/wall.png
