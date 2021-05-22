@@ -1,0 +1,11 @@
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="compactDropdowns" value="true" />
+    <option name="pristineConfig" value="false" />
+    <option name="tabsHeight" value="42" />
+    <option name="accentColor" value="3d3a39" />
+    <option name="selectedTheme" value="NATIVE" />
+    <option name="userId" value="3b5a1b04:178ac3defb4:-8000" />
+    <option name="version" value="5.5.0" />
+  </component>
+</application>

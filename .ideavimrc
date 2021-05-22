@@ -1,0 +1,18 @@
+set NERDTree
+map <C-n> :NERDTreeFocus<CR>
+
+" Use system clipboard
+set clipboard+=unnamed
+
+set number
+set relativenumber
+
+"split navigation
+map <C-h> <C-w>h
+map <C-j> <C-w>j
+map <C-k> <C-w>k
+map <C-l> <C-w>l
+
+" tab navigation
+map <C-y> gT
+map <C-o> gt

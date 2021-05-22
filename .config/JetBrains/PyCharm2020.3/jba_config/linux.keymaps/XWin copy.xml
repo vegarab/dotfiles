@@ -1,0 +1,25 @@
+<keymap version="1" name="XWin copy" parent="Default for XWin">
+  <action id="ActivateFavoritesToolWindow" />
+  <action id="ActivatePythonConsoleToolWindow">
+    <keyboard-shortcut first-keystroke="alt 2" />
+  </action>
+  <action id="ActivateStructureToolWindow">
+    <keyboard-shortcut first-keystroke="alt 3" />
+  </action>
+  <action id="AddToFavoritesPopup" />
+  <action id="EditorDecreaseFontSize">
+    <keyboard-shortcut first-keystroke="ctrl alt j" />
+  </action>
+  <action id="EditorIncreaseFontSize">
+    <keyboard-shortcut first-keystroke="ctrl alt k" />
+  </action>
+  <action id="Git.Commit.And.Push.Executor" />
+  <action id="Hg.Commit.And.Push.Executor" />
+  <action id="SurroundWithLiveTemplate" />
+  <action id="Tool_External Tools_black">
+    <keyboard-shortcut first-keystroke="shift alt f" />
+  </action>
+  <action id="ViewMainMenu">
+    <keyboard-shortcut first-keystroke="shift ctrl alt o" />
+  </action>
+</keymap>

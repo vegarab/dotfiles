@@ -1,0 +1,1000 @@
+git push
+pass
+databricks-connect config
+databricks-connect configure
+databricks-connect test
+python
+ipython
+databricks-connect test
+ll
+zdataflow
+z dataflow
+vdataflow
+ll
+vim dictate.yaml 
+dictate notebook
+dictate
+dictate notebooks
+dictate notebooks upload --env stage-vegarab
+ll
+git status
+python -m build
+pip install --upgrade build
+ll
+cd di
+ll
+cd dist/
+ll
+git status
+cd ..
+ll
+poetry build
+ll
+cd di
+ll
+cd dist
+ll
+pip install inspera_dataflow-0.1.15-py3-none-any.whl 
+python
+poetry build
+pip install inspera_dataflow-0.1.15-py3-none-any.whl 
+ipython
+cd ..
+poetry build\
+poetry build
+cd di
+cd dist
+pip install inspera_dataflow-0.1.15-py3-none-any.whl 
+ipython
+cd ..
+poetry bild
+poetry build
+cd di
+cd dist
+pip install inspera_dataflow-0.1.15-py3-none-any.whl --force-reinstall
+ipython
+cd ..
+poetry build
+git status
+git add pyproject.toml 
+git commit -m "build: setup inspera_dataflow package"
+git status
+git commit -m "build: setup inspera_dataflow package"
+git status
+git diff
+git status
+git add inspera_dataflow/databricks/
+git commit -m "ci: fix databricks-connect dbutils import"
+git status
+git diff inspera_dataflow/databricks/
+git status
+git add inspera_dataflow/databricks/
+git commit -m "ci: fix databricks-connect dbutils import"
+git status
+git diff
+ll
+git status
+git add inspera_dataflow/utils/
+git status
+git diff
+git status
+git diff inspera_dataflow/partners/
+git status
+git add inspera_dataflow/
+git diff notebooks/
+git status
+git commit -m "chore: fix pyspark DataFrame types"
+git status
+git push
+git status
+git add inspera_dataflow/utils/
+git add notebooks/partners/
+git status
+git reset
+git add inspera_dataflow/utils/
+git commit -m "feat: support partner es clients"
+git status
+git diff notebooks/partners/kikora.
+git diff notebooks/partners/kikora.py 
+git status
+git diff
+git status
+git add notebooks/partners/
+git status
+git commit -n
+git push
+git status
+git log
+git show 9dfa24ebed6b1d775b8dfd2cc11567de8417c598
+git status
+git reset HEAD~1
+git status
+jupytext --sync notebooks/partners/kikora.ipynb 
+git status
+git diff notebooks/partners/kikora.py 
+git status
+git log
+git show 3934af486bea62f87ea36020bca738fd954a43f8
+git status
+git add notebooks/partners/kikora.py 
+git commit -n
+git push
+git status
+git push
+git add .
+git stash
+git pull
+git stash pop
+z atc
+git status
+git add .
+git stash
+vloft
+git pull
+git cehckout hot-fix-enemies
+git checkout hot-fix-enemies
+git pull
+killall slack
+pass
+pass insert es/stage/kikora
+pass
+man git
+man git-commit
+pass
+z atc
+git checkout master
+git checkout -b ability-partner
+git cherry-pick
+git cherry-pick 
+git cherry-pick f52c29c51cb0625a78160066e4fb61333586b588
+git cherry-pick 7fedfb55ac5d385095db33e42735210eb70f62be
+git log
+git push --set-upstream origin ability-partner
+git push --set-upstream origin ability-partner
+cd dev/terraform/learn-terraform-code-organization/
+ll
+vim
+vim .aws/config 
+vim credentials
+vim .aws/credentials 
+vim .aws/config 
+vim .aws/credentials 
+startx
+z rnd
+z infra
+cd ..
+mv rnd-infrastructure/ data-platform-infrastructure
+cd data-platform-infrastructure/
+ll
+git
+git remote
+git remote origin
+git remote origin get-url
+git remote get-url origin
+git remote set-url origin git@github.com:inspera/data-platform-infrastructure
+ll
+rm -rf .idea/
+git status
+git add .
+git stash
+git status
+rm -rf tests/s3/.terraform/
+ll
+git pull
+cd modules/sr
+cd modules/s3
+terraform get
+cd ..
+cd tests/
+cd s3/
+ll
+terraform get
+terraform init
+git status
+terraform init
+terraform apply
+git status
+cd ..
+git status
+git add .
+git stash
+git stash pop
+git status
+git reset
+git add .gitignore 
+git status
+git commit -m "ci: gitignore terraform files"
+git push
+l
+ll
+git status
+vim .gitignore 
+git status
+git add .
+git commit --amane
+git commit --amend
+git push
+git checkout -b RND-796-sqs
+git status
+git add .
+git stash
+cd modules/s3_single/
+terraform get
+cd ..
+cd .
+cd ..
+cd tests/
+cd s3/
+terraform init
+cd ..
+cd s3/
+ll
+rm -rf .git
+git status
+terraform init
+terraform plan
+git status
+git add .
+git stash
+terraform init
+terraform apply
+git status
+git diff
+terraform --version
+terraform init
+terraform --version
+terraform apply
+terraform destroy
+python
+ll
+cd ..
+ll
+touch test
+vim test
+ln -s test s3/test
+git status
+git add test
+git diff
+git status
+git add s3/te
+git add s3/test
+git status
+git commit -v
+vim test 
+git commit -v
+vim test 
+git status
+git diff
+cat s3/te
+cat s3/test
+cd s3/
+ll
+rm test
+ll
+cd ..
+ll
+ln -s test s3/test
+ls
+ll
+cd s3/
+ll
+vim test 
+cat te
+cd ..
+cd s3/
+rm test
+cd ..
+ll
+ln -s /home/vegarab/dev/data-platform-infrastructure/tests/test /home/vegarab/dev/data-platform-infrastructure/tests/s3/test
+ll
+cd s3/
+ll
+cat te
+cat test
+cd ..
+git status
+git diff
+git add .
+git status
+git commit -v
+python
+killall slack
+cd ..
+gti status
+git status
+git stash
+ll
+cd modules/
+ll
+git log
+git stash
+git stash list
+git stash pop stash@{3}
+git status
+ll
+git status
+ll
+cd ..
+ll
+cd modules/
+ll
+cp sqs/variables.tf master_variables.tf
+ll
+mv master_variables.tf variables.tf
+ll
+cd sqs/
+ll
+rm variables.tf 
+cd ..
+ll
+ln -s ./variables.tf ./sqs/master_variables.tf
+cd sqs/
+ll
+rm master_variables.tf 
+cd ..
+ll
+ln -s /home/vegarab/dev/data-platform-infrastructure/modules/variables.tf /home/vegarab/dev/data-platform-infrastructure/modules/sqs/master_variables.tf
+cd sqs/
+ll
+pythonb
+python
+z atc
+git checkout terraform
+git checkout master
+git branch -D terraform-s3-test
+git branch -D terraform
+git status
+git add .
+git status
+git stash
+git status
+git add .
+git checkout -b terraform
+ll
+git status
+vim .gitignore 
+ll
+git status
+git add .gitignore 
+git status
+git reset
+git setatus
+git status
+git add .gitignore 
+git commit -m "ci: gitignore terraform files"
+cd terraform/
+ll
+ln -s $(pwd)/variables.tf $(pwd)/modules/atc/variables.tf
+ll
+echo $(pwd)
+cd modules/atc/
+ll
+cd ..
+ll
+cd ..
+ll
+ln -s $(pwd)/variables.tf $(pwd)/modules/_lambda/variables.tf
+cd modules/_lambda/
+terraform get
+cd ..
+ln -s $(pwd)/variables.tf $(pwd)/modules/_sqs/variables.tf
+cd modules/_lambda/
+terraform get
+cd ..
+cd _sqs/
+terraform get
+cd ../_lambda/
+terraform get
+cd ..
+cd atc/
+terraform get
+git status
+cd ..
+ll
+cd dev/eu-central-1/
+terraform get
+terraform init
+ll
+cd ..
+ll
+cd ..
+ll
+cd modules/
+ll
+cd atc/
+ll
+mv variables_override.tf variables_local.tf
+cd ..
+ll
+cd _lambda/
+ll
+mv variables_override.tf variables_local.tf
+cd ..
+ll
+cd s
+cd _sqs/
+ll
+mv variables_override.tf variables_local.tf
+cd ..
+cd dev/eu-central-1/
+terraform init
+terraform plan
+cd ../../..
+cd dist/
+ll
+cd lambda_dev/
+ll
+cd ..
+python deploy_lambda.py -b -de dev
+vloft
+python deploy_lambda.py -b -de dev
+sudo python deploy_lambda.py -b -de dev
+ll
+cd di
+cd dist
+ll
+cd lambda_dev/
+ll
+mv ext-inspera_atc--2.2.0--eu-west-1--dev.zip ext-inspera_atc--2.2.0--eu-central-1--dev.zip 
+chmod 664 ext-inspera_atc--2.2.0--eu-west-1--dev.zip 
+sudo chmod 664 ext-inspera_atc--2.2.0--eu-west-1--dev.zip 
+ll
+sudo chmod 664 inspera_atc--2.2.0--eu-west-1--dev.zip 
+ll
+mv ext-inspera_atc--2.2.0--eu-west-1--dev.zip ext-inspera_atc--2.2.0--eu-central-1--dev.zip 
+sudo mv ext-inspera_atc--2.2.0--eu-west-1--dev.zip ext-inspera_atc--2.2.0--eu-central-1--dev.zip 
+ll
+sudo mv inspera_atc--2.2.0--eu-central-1--dev.zip 
+sudo mv inspera_atc--2.2.0--eu-west-1--dev.zip inspera_atc--2.2.0--eu-central-1--dev.zip 
+ll
+cd ..
+cd terraform/dev/eu-central-1/
+ll
+terraform plan
+terraform apply
+terraform plan
+terraform destroy
+terraform apply
+terraform destroy
+terraform apply
+terraform destroy
+terraform apply
+terraform destroy
+git status
+cd ..
+git status
+cd ..
+git add terraform/
+git status
+git commit -m "chore(RND-779): initial terraform setup for lambdas (loft)"
+git status
+git add .
+git commit -m "chore(RND-779): initial terraform setup for lambdas (loft)"
+git push --set-upstream origin terraform
+git push --set-upstream origin terraform --force
+sudo reboot
+startx
+cd tmp
+vim polic.json
+cd tmp
+vim policy.json
+z atc
+cd ..
+ll
+cd ..
+cd dev/eu-central-1/
+git status
+terraform plan
+terraform init
+terraform apply
+terraform destroy
+terraform plan\
+terraform plan
+terraform apply
+terraform plan
+terraform destroy
+terraform apply
+terraform destroy
+terraform apply
+terraform destroy
+terraform init
+terraform apply
+terraform destroy
+terraform apply
+terraform destroy
+terraform apply
+terraform destroy
+terraform apply
+terraform destroy
+terraform apply
+terraform destroy
+terraform apply
+terraform destroy
+terraform apply
+terraform destroy
+terraform apply
+terraform destroy
+terraform apply
+git status
+cd ../..
+git status
+git add .
+git log
+git commit -v 
+git push
+cd dev/eu-central-1/
+git status
+cd ..
+git status
+cd ..
+git status
+cd dev/eu-central-1/
+terraform apply
+terraform init
+terraform apply
+terraform destroy
+git status
+cd ..
+git status
+git add .
+git commit -m "chore(RND-779): add CAT and ability lambda"
+git push
+git status
+cd dev/eu-central-1/
+terraform init
+terraform apply
+git status
+git add .
+git commit -v
+git push
+pass
+pass insert databricks/backup/dev
+pass
+pass remove databricks/backup/dev
+pass insert databricks/central/dev
+sudo reboot
+startx
+z atc
+vloft
+cd ../..
+git status
+git diff
+git add .
+git commit -v
+git status
+git diff
+git reset
+git diff
+git status
+git diff modules/_lambda/main.tf 
+git add modules/_lambda/main.tf 
+git commit -v
+git status
+git add .
+git commit -v
+git push
+git pull
+gitp ull
+git pull
+git log
+git rebase
+git log
+git push
+z atc
+terraform get
+cd ..
+cd dev/eu-central-1/
+terrform plan
+terraform init
+terraform plan
+terraform init
+terraform plan
+terraform init
+terraform plan
+terraform destroy
+terraform apply
+terraform destroy
+terraform apply
+git status
+cd ../..
+git status
+git add .
+git commit -v
+git push
+cd .
+cd ..
+cd
+cd tmp
+git clone git@github.com:inspera/ATC
+cd ATC/
+ll
+git checkout terraform
+git pull
+ll
+cd terraform/
+ll
+cd modules/
+ll
+cd atc/
+ll
+cd ..
+ll
+cd ..
+ll
+cd modules/atc/
+ll
+rm variables.tf 
+ln -s ../../variables.tf variables.tf
+ll
+cat variables.tf 
+ll
+cd ..
+ll
+cd _lambda/
+ll
+rm variables
+rm variables.tf 
+ln -s ../../variables.tf variables.tf
+cd ..
+ll
+cd _sqs/
+ll
+rm variables.tf 
+ln -s ../../variables.tf variables.tf
+ll
+cd ..
+ll
+cd ..
+ll
+cd dev/
+ll
+cd eu-central-1/
+ll
+cd ..
+git status
+git add .
+git commit -m "chore(RND-779): fix terraform symlinks"
+git push
+cd 
+cd dl
+ll
+python
+cd
+z at
+z atc
+cd ../../dev/eu-central-1/
+terraform destroy
+terraform apply
+terraform destroy
+terraform apply
+killall slack
+git pull
+git checkout master
+git pull
+git checkout terraform
+git merge master
+git rebase
+git push
+git log
+git reset HEAD~4
+git log
+git push --force
+git status
+cd ../..
+git statu
+git status
+cd ..
+git steatus
+git status
+git add .
+git stash
+git merge master
+git log
+git rebase master
+git log
+git push
+git push --force
+git reflog
+git reset HEAD@{11}
+git log
+git push --force
+git rebase master
+git log
+git reflog
+git reset HEAD~12
+git pull
+git add .
+git stash
+git pull
+killall slack
+ipython
+vloft
+python deploy_lambda.py 
+sudo python deploy_lambda.py 
+ll
+cd di
+cd dist/
+ll
+cd lambda_dev/
+ll
+cd ..
+ll
+git status
+git add .
+ll
+git status
+mv deploy_lambda.py build.py
+git status
+git add .
+git stats
+git status
+git add .
+git commit -v
+git diff
+git status
+gt diff
+git diff
+git add .
+git commit -
+git commit -v
+git add .
+git commit -v
+git push
+git status
+git add .
+git commit --amend
+git add .
+git commit --amend
+git add .
+git commit --amend
+git push --force
+killall slack
+sudo reboot
+start
+startx
+cd .aws/
+cat credentials 
+z atc
+cd ../..
+cd ..
+git checkout master
+git pull
+git status
+cd docs
+mkdir qaas
+cd qaas
+vim product-solutions.md
+ll
+mv product-solutions.md product-solutions.rmd
+vim product-solutions.rmd 
+R
+vim product-solutions.rmd 
+R
+pacman -Ss libicui18n
+R
+ll
+mupdf product-solutions.pdf 
+ll
+rm *.pdf
+ll
+vim product-solutions.rmd 
+pandoc -i product-solutions.rmd -o product-solutions.html
+ll
+firefox product-solutions.html 
+vim product-solutions.rmd 
+R
+vim *.rmd
+R
+ntp
+ntpd -qg
+sudo ntpd -qg
+hwlock --systhc
+hwlock --systoch
+hwlock --systohc
+hwclock --systohc
+sudo hwclock --systohc
+ntpd -qg
+sudo ntpd -qg
+systemctl stop ntpd
+ntpd -qg
+sudo ntpd -qg
+killall slack
+z atc
+cd ..
+cd dev/eu-central-1/
+terraform plan
+terraform apply
+vloft
+cd ../..
+cd ..
+python build.py --help
+python build.py -r eu-central-1
+sudo python build.py -r eu-central-1
+z eu-central
+terraform apply
+scrot -s
+ll
+mv *.png ~
+git status
+terraform apply
+cd ../..
+cd dev/eu-central-1/
+terraform apply
+cd ../../../dist/lambda_dev/
+ll
+z central
+terraform apply
+ll
+cd ../../..
+ll
+git status
+git add .
+git commit -v 
+git push
+git pull
+git checkout add-vpc-endpoints
+git pull
+git status
+git add .
+z central
+terraform plan
+terraform apply
+cd ../../..
+git status
+git add .
+git commit -v
+git diff
+git add .
+git commit -v
+git push
+killall slack
+pass
+pass remove databricks/central/dev
+pass insert databricks/central/dev
+pass insert databricks/central/stage
+pass
+killall slack
+git checkout terraform
+git log
+git pull
+git log
+git rebase -i HEAD~6
+git log
+git push --force
+git reflog
+git checkout HEAD@{6}
+git log
+git reflog
+git reset HEAD@{13}
+git log
+git push --set-upstream origin terraform
+git push --set-upstream origin terraform --force
+git checkout 956ae7b18bd8a9b1e02e37ed421888af611b61f3
+git log
+git push --force
+git push --force origin HEAD:terraform
+git checkout terraform
+git reset HEAD~13
+git pu ll
+git add .
+git stash
+git pull
+ll
+git log
+git reword 83f2ef05d1190773559c6111e2cf6acfee7074b5
+git commit-edit 83f2ef05d1190773559c6111e2cf6acfee7074b5
+git rebase -i '83f2ef05d1190773559c6111e2cf6acfee7074b5^'
+git log
+git pull
+git rebase -i '83f2ef05d1190773559c6111e2cf6acfee7074b5'
+git pull
+git rebase -i '83f2ef05d1190773559c6111e2cf6acfee7074b5^'
+git status
+ll
+git log
+git rebase --abort
+git rebase -i '83f2ef05d1190773559c6111e2cf6acfee7074b5^'
+ll
+git log
+git status
+git reset @~
+git log
+ll
+git status
+git diff
+git status
+git diff inspera_atc/dependencies.py 
+git status
+git add build.py 
+git add deploy_lambda.py
+git add inspera_atc/dependencies.py 
+git commit -v
+git status
+git add .
+git commit -v
+ll
+git status
+git add .
+git commit -v
+git status
+git rebase --continue
+git log
+git push --force
+git status
+git add .
+git stash
+git status
+git add .
+git commit -m "chore(RND-779): fix region-specific ES service name"
+git push
+cd terraform/dev/eu-central-1/
+terraform plan
+git stash pop
+terraform plan
+git status
+cd ..
+git status
+git add .
+git status
+cd dev/eu-central-1/
+ll
+ln -s ../../outputs.tf outputs.tf
+ll
+terraform plan
+git status
+git add .
+git stash
+git stash pop
+terraform plan
+git status
+git add .
+git status
+cd ..
+git add .
+git status
+git commit -v
+git push
+git status
+git diff
+git add .
+cd dev/eu-central-1/
+terraform plan
+git status
+git commit -v
+git push
+terraform apply
+terraform plan
+terraform apply
+git status
+git add -a
+git add -A
+git status
+git commit -v
+git push
+killall slack
+python
+killall slack
+cd
+cd tmp
+vim ability.json
+vim dr
+killall slack
+htop
+cd
+cd dl
+firefox  thesis.pdf 
+vrc
+killall slack
+python
+cd
+cd docs/q
+cd docs/qaas/
+ll
+killall slack
+cd
+z CTT
+git status
+z dataflow
+cd
+cd dl
+firefox thesis.pdf 

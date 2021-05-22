@@ -1,0 +1,491 @@
+<application>
+  <component name="KeyPromoterXStatistic">
+    <option name="statistics">
+      <Statistic Action="Actual Size">
+        <Item>
+          <IdeaActionID>Graph.ActualSize</IdeaActionID>
+          <ShortCut>'Ctrl+NumPad /' or 'Ctrl+/'</ShortCut>
+          <Description>Actual Size</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Apply Current Layout">
+        <Item>
+          <IdeaActionID>Graph.ApplyCurrentLayout</IdeaActionID>
+          <ShortCut>'F5'</ShortCut>
+          <Description>Apply Current Layout</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Copy">
+        <Item>
+          <IdeaActionID>$Copy</IdeaActionID>
+          <ShortCut>'Ctrl+C' or 'Ctrl+Insert'</ShortCut>
+          <Description>Copy</Description>
+          <Count>50</Count>
+          <Hit>1</Hit>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug</Description>
+          <Count>19</Count>
+          <Hit>10</Hit>
+        </Item>
+      </Statistic>
+      <Statistic Action="Delete...">
+        <Item>
+          <IdeaActionID>$Delete</IdeaActionID>
+          <ShortCut>'Delete'</ShortCut>
+          <Description>Delete...</Description>
+          <Count>15</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="File Path">
+        <Item>
+          <IdeaActionID>ShowFilePath</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+Shift+2'</ShortCut>
+          <Description>File Path</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Find Action...">
+        <Item>
+          <IdeaActionID>GotoAction</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+A'</ShortCut>
+          <Description>Find Action...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Find Usages">
+        <Item>
+          <IdeaActionID>FindUsages</IdeaActionID>
+          <ShortCut>'Alt+F7'</ShortCut>
+          <Description>Find Usages</Description>
+          <Count>13</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Git">
+        <Item>
+          <IdeaActionID>ActivateGitToolWindow</IdeaActionID>
+          <ShortCut>'Alt+9'</ShortCut>
+          <Description>Git</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Hide Active Tool Window">
+        <Item>
+          <IdeaActionID>HideActiveWindow</IdeaActionID>
+          <ShortCut>'Shift+Escape'</ShortCut>
+          <Description>Hide Active Tool Window</Description>
+          <Count>1</Count>
+          <Hit>25</Hit>
+        </Item>
+      </Statistic>
+      <Statistic Action="Hide All Windows">
+        <Item>
+          <IdeaActionID>HideAllWindows</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F12'</ShortCut>
+          <Description>Hide All Windows</Description>
+          <Count>8</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Move Tab to New Window">
+        <Item>
+          <IdeaActionID>EditSourceInNewWindow</IdeaActionID>
+          <ShortCut>'Shift+F4'</ShortCut>
+          <Description>Move Tab to New Window</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Paste">
+        <Item>
+          <IdeaActionID>$Paste</IdeaActionID>
+          <ShortCut>'Ctrl+V' or 'Shift+Insert'</ShortCut>
+          <Description>Paste</Description>
+          <Count>5</Count>
+          <Hit>2</Hit>
+        </Item>
+      </Statistic>
+      <Statistic Action="Profile">
+        <Item>
+          <IdeaActionID>ActivateProfileToolWindow</IdeaActionID>
+          <ShortCut>'Alt+4'</ShortCut>
+          <Description>Profile</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Project">
+        <Item>
+          <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
+          <ShortCut>'Alt+1'</ShortCut>
+          <Description>Project</Description>
+          <Count>6</Count>
+          <Hit>20</Hit>
+        </Item>
+      </Statistic>
+      <Statistic Action="Python Console">
+        <Item>
+          <IdeaActionID>ActivatePythonConsoleToolWindow</IdeaActionID>
+          <ShortCut>'Alt+2'</ShortCut>
+          <Description>Python Console</Description>
+          <Count>11</Count>
+          <Hit>1</Hit>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rename...">
+        <Item>
+          <IdeaActionID>RenameElement</IdeaActionID>
+          <ShortCut>'Shift+F6'</ShortCut>
+          <Description>Rename...</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'black'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'black'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'pytest for test_ability_lambda_handler.test_ability_estimate_measure_id_interaction_id_collapse_dev'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'pytest for test_ability_lambda_handler.test_ability_estimate_measure_id_interaction_id_collapse_dev'</Description>
+          <Count>21</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'pytest for test_ability_lambda_handler.test_ability_estimate_single_candidate_single_assessment_run_id_dev'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'pytest for test_ability_lambda_handler.test_ability_estimate_single_candidate_single_assessment_run_id_dev'</Description>
+          <Count>10</Count>
+          <Hit>51</Hit>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'pytest for test_ability_lambda_handler.test_ability_estimate_single_candidate_single_assessment_run_id_stage'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'pytest for test_ability_lambda_handler.test_ability_estimate_single_candidate_single_assessment_run_id_stage'</Description>
+          <Count>1</Count>
+          <Hit>8</Hit>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'pytest for test_ability_lambda_handler.test_ability_estimation_taxonomy_node_id_filter_dev'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'pytest for test_ability_lambda_handler.test_ability_estimation_taxonomy_node_id_filter_dev'</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'pytest for test_ability_lambda_handler.test_ability_estimation_use_best_response_dev'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'pytest for test_ability_lambda_handler.test_ability_estimation_use_best_response_dev'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'pytest for test_ability_lambda_handler.test_ability_estimation_with_partner_kikora_good_response_stage'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'pytest for test_ability_lambda_handler.test_ability_estimation_with_partner_kikora_good_response_stage'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'pytest for test_ability_lambda_handler.test_ability_estimation_with_partner_kikora_stage'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'pytest for test_ability_lambda_handler.test_ability_estimation_with_partner_kikora_stage'</Description>
+          <Count>28</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'pytest for test_ability_lambda_handler.test_ability_estimation_with_provided_response_pattern'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'pytest for test_ability_lambda_handler.test_ability_estimation_with_provided_response_pattern'</Description>
+          <Count>1</Count>
+          <Hit>1</Hit>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'pytest for test_ability_lambda_handler.test_ability_estimation_with_provided_response_pattern_dev'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'pytest for test_ability_lambda_handler.test_ability_estimation_with_provided_response_pattern_dev'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'pytest for test_ability_lambda_handler.test_ability_estimation_with_random_item_status_dev'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'pytest for test_ability_lambda_handler.test_ability_estimation_with_random_item_status_dev'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'pytest for test_ability_lambda_handler.test_rsalt_s1_dev'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'pytest for test_ability_lambda_handler.test_rsalt_s1_dev'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'pytest for test_cat_lambda_handler.test_kikora_stage'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'pytest for test_cat_lambda_handler.test_kikora_stage'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'pytest for test_loft_scenarios.test_tag_occurrence_count'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'pytest for test_loft_scenarios.test_tag_occurrence_count'</Description>
+          <Count>2</Count>
+          <Hit>7</Hit>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'pytest for tests.test_ability_lambda_handler.test_ability_estimate_measure_id_interaction_id_collapse_dev'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'pytest for tests.test_ability_lambda_handler.test_ability_estimate_measure_id_interaction_id_collapse_dev'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'pytest for tests.test_ability_lambda_handler.test_rsalt_s1_dev'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'pytest for tests.test_ability_lambda_handler.test_rsalt_s1_dev'</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'pytest in test_ability_lambda_handler.py'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'pytest in test_ability_lambda_handler.py'</Description>
+          <Count>6</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'pytest in test_loft_lambda_handler.py'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'pytest in test_loft_lambda_handler.py'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'pytest in test_loft_scenarios.py'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'pytest in test_loft_scenarios.py'</Description>
+          <Count>6</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Restore Windows">
+        <Item>
+          <IdeaActionID>HideAllWindows</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F12'</ShortCut>
+          <Description>Restore Windows</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Resume Program">
+        <Item>
+          <IdeaActionID>Resume</IdeaActionID>
+          <ShortCut>'F9'</ShortCut>
+          <Description>Resume Program</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rollback...">
+        <Item>
+          <IdeaActionID>ChangesView.Revert</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+Z'</ShortCut>
+          <Description>Rollback...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run</Description>
+          <Count>102</Count>
+          <Hit>29</Hit>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run All">
+        <Item>
+          <IdeaActionID>NotebookRunAllAction</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+Shift+Enter'</ShortCut>
+          <Description>Run All</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run to Cursor">
+        <Item>
+          <IdeaActionID>RunToCursor</IdeaActionID>
+          <ShortCut>'Alt+Shift+9'</ShortCut>
+          <Description>Run to Cursor</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Settings...">
+        <Item>
+          <IdeaActionID>ShowSettings</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+S'</ShortCut>
+          <Description>Settings...</Description>
+          <Count>5</Count>
+          <Hit>2</Hit>
+        </Item>
+      </Statistic>
+      <Statistic Action="Show Execution Point">
+        <Item>
+          <IdeaActionID>ShowExecutionPoint</IdeaActionID>
+          <ShortCut>'Alt+F10'</ShortCut>
+          <Description>Show Execution Point</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Step Over">
+        <Item>
+          <IdeaActionID>StepOver</IdeaActionID>
+          <ShortCut>'F8'</ShortCut>
+          <Description>Step Over</Description>
+          <Count>38</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'pytest for test_ability_lambda_handler.test_ability_estimate_measure_id_interaction_id_collapse_dev'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'pytest for test_ability_lambda_handler.test_ability_estimate_measure_id_interaction_id_collapse_dev'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'pytest for test_ability_lambda_handler.test_ability_estimate_single_candidate_single_assessment_run_id_dev'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'pytest for test_ability_lambda_handler.test_ability_estimate_single_candidate_single_assessment_run_id_dev'</Description>
+          <Count>6</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'pytest for test_ability_lambda_handler.test_ability_estimation_taxonomy_node_id_filter_dev'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'pytest for test_ability_lambda_handler.test_ability_estimation_taxonomy_node_id_filter_dev'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'pytest for test_ability_lambda_handler.test_ability_estimation_with_draft_item_status_expect_failure_dev'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'pytest for test_ability_lambda_handler.test_ability_estimation_with_draft_item_status_expect_failure_dev'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'pytest for test_ability_lambda_handler.test_ability_estimation_with_partner_kikora_stage'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'pytest for test_ability_lambda_handler.test_ability_estimation_with_partner_kikora_stage'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'pytest for test_cat_lambda_handler.test_kikora_stage'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'pytest for test_cat_lambda_handler.test_kikora_stage'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'pytest for tests.test_ability_lambda_handler.test_ability_estimate_measure_id_interaction_id_collapse_dev'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'pytest for tests.test_ability_lambda_handler.test_ability_estimate_measure_id_interaction_id_collapse_dev'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'pytest in test_ability_lambda_handler.py'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'pytest in test_ability_lambda_handler.py'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'pytest in test_cat_lambda_handler.py'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'pytest in test_cat_lambda_handler.py'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'pytest in test_loft_lambda_handler.py'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'pytest in test_loft_lambda_handler.py'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Terminal">
+        <Item>
+          <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
+          <ShortCut>'Alt+F12'</ShortCut>
+          <Description>Terminal</Description>
+          <Count>8</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Toggle Line Breakpoint">
+        <Item>
+          <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
+          <ShortCut>'Ctrl+F8'</ShortCut>
+          <Description>Toggle Line Breakpoint</Description>
+          <Count>51</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Zoom In">
+        <Item>
+          <IdeaActionID>Graph.ZoomIn</IdeaActionID>
+          <ShortCut>'NumPad +' or '='</ShortCut>
+          <Description>Zoom In</Description>
+          <Count>6</Count>
+          <Hit>14</Hit>
+        </Item>
+      </Statistic>
+      <Statistic Action="Zoom Out">
+        <Item>
+          <IdeaActionID>Graph.ZoomOut</IdeaActionID>
+          <ShortCut>'NumPad -' or 'Minus'</ShortCut>
+          <Description>Zoom Out</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+    </option>
+  </component>
+</application>

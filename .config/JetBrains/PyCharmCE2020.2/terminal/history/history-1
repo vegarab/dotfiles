@@ -1,0 +1,1000 @@
+ll
+pip install dictate
+echo $DATABRICKS_TOKEN
+dictate notebooks upload --env dev
+dictate
+deactivate
+activate
+vloft
+dictate
+pip freeze | grep dictate
+pip uninstall dictate
+pytest tests/test_ability_lambda_handler.py 
+git log
+git add .
+git commit -m "test: update taxonomy filter validation"
+git push
+pip install -U git+ssh://git@github.com/inspera/dictate.git
+git pull
+dictate notebooks upload --env dev
+z girt
+vgirt
+vim
+z linux
+ll
+git pull
+git checkout main
+git pull
+SL https://raw.githubusercontent.com/python-poetry/poetry/master/get-poetry.py | python -IT PULl
+SL https://raw.githubusercontent.com/python-poetry/poetry/master/get-poetry.py | python -
+curl -sSL https://raw.githubusercontent.com/python-poetry/poetry/master/get-poetry.py | python -
+poetry
+z linux
+poetry install
+poetry
+curl -sSL https://raw.githubusercontent.com/python-poetry/poetry/master/get-poetry.py | python -
+poetry
+curl -sSL https://raw.githubusercontent.com/python-poetry/poetry/master/get-poetry.py | python
+ll
+poetry
+ll
+rm -rf .Xauthority-*
+ll
+vim
+startx
+lsblk -f
+startx
+fdisk -f
+fdisk -l
+sudo fdisk -l
+lsblk -f
+sudo vim /etc/crypttab 
+sudo reboot
+startx
+systemctl daemon-reload
+cryptsetup status home-crypt
+systemctl start system-cryptsetup@home-crypt.service
+systemctl daemon-reload
+systemctl start systemd-cryptsetup@home-crypt.service
+systemctl status systemd-cryptsetup-generator
+systemd-cryptsetup-generator
+sudo vim /etc/crypttab
+systemctl daemon-reload
+systemctl start systemd-cryptsetup@home-crypt.service
+cryptsetup status home-crypt
+sudo cryptsetup status home-crypt
+sudo reboot
+ll
+crontab -e
+cd /home/vegarab/.local/src/linux-collection-agent && /home/vegarab/.poetry/bin/poetry run inspera-linux-collection-agent
+z loft
+vloft
+vim ~/.envs/loft/bin/activate
+dictate notebooks upload --env dev
+z loft
+cd ../..
+dictate notebooks upload --env dev
+export DATABRICKS_TOKEN=dapi185bf2ceca7bf4cc8740c1dcf7852fac
+dictate notebooks upload --env dev
+ll
+vim dictate.yaml 
+vim .xprofile 
+cd .local/bin
+ll
+vim dualmonitor 
+cd
+cd .screenlayout/
+ll
+mv 4khome.sh 4khome
+mv 4khome ../.local/bin
+cd
+cd .local/
+ll
+cd bin
+ll
+cat 4khome 
+cd ..
+ll
+cd
+vim .xprofile 
+cd .local
+git status
+cd
+cd dotfiles
+git status
+vim .z
+cd
+vim .z
+z loft
+z girt
+vgirt
+ll
+pytest new_tests/test_mirt_and_girt/test_mirt_and_girt.py 
+pip install pytest
+pytest new_tests/test_mirt_and_girt/test_mirt_and_girt.py 
+pytest
+pip freeze 
+pip freeze | grep pytest
+pytest
+vgirt
+pytest
+z girt
+pytest new_tests/test_mirt_and_girt/test_mirt_and_girt.py 
+ll
+vim pyproject.toml 
+pytest new_tests/test_mirt_and_girt/test_mirt_and_girt.py 
+pip install hypothesis
+pytest new_tests/test_mirt_and_girt/test_mirt_and_girt.py 
+pip install matplotlib
+pytest new_tests/test_mirt_and_girt/test_mirt_and_girt.py 
+pip install scipy
+pytest new_tests/test_mirt_and_girt/test_mirt_and_girt.py 
+pip install seaborn
+pytest new_tests/test_mirt_and_girt/test_mirt_and_girt.py 
+z girt
+pytest new_tests/test_mirt_and_girt/test_mirt_and_girt.py 
+zgirt
+vgirt
+pytest new_tests/test_mirt_and_girt/test_mirt_and_girt.py 
+pip install sklearn
+pytest new_tests/test_mirt_and_girt/test_mirt_and_girt.py 
+pip install .
+pip install torch
+pytest new_tests/test_mirt_and_girt/test_mirt_and_girt.py 
+pip install .
+cd .envs
+ll
+vim nvim.txt
+$CUDA_HOME
+echo $CUDA_HOME
+cuda
+pacman -Ss cuda
+exit()
+rm -rf .envs/girt
+cd .envs
+virtualenv --python=/usr/bin/python36 girt
+ls /usr/bin/ | grep python36
+cd /etc/bin
+python
+cd /usr/bin/
+ll
+ll | grep python
+virtualenv --python=/usr/bin/python3.6 girt
+cd
+cd dev/GIRT/
+ll
+vgirt
+pytest new_tests/test_mirt_and_girt/test_mirt_and_girt.py 
+python
+pip install numpy
+pip uninstall matplotlib
+python
+pip uninstall torch
+python
+pip install torch
+python
+pip uninstall torch
+python
+pip install torch
+pip uninstall numpy
+python
+pip install numpy
+python
+pytest new_tests/test_mirt_and_girt/test_mirt_and_girt.py 
+pip install matplotlib
+pytest new_tests/test_mirt_and_girt/test_mirt_and_girt.py 
+pip install .
+python setup.py develop
+pytest new_tests/test_mirt_and_girt/test_mirt_and_girt.py 
+python
+r
+r-shell
+R
+pytest new_tests/test_mirt_and_girt/test_mirt_and_girt.py 
+python
+pip install mirt
+vgirt
+pytest new_tests/test_mirt_and_girt/test_mirt_and_girt.py 
+python
+R
+pytest new_tests/test_mirt_and_girt/test_mirt_and_girt.py 
+pip install jsonschema
+pytest new_tests/test_mirt_and_girt/test_mirt_and_girt.py 
+python setup.py develop
+pip install .
+python
+vgirt
+sudo pip install .
+python
+pip install .e
+pip install .
+python setup.py 
+python setup.py install
+pytest new_tests/test_mirt_and_girt/test_mirt_and_girt.py 
+pytest new_tests/test_mirt_and_girt/test_mirt_and_girt.py -
+python
+python -m setup.py install
+python setup.py install
+pytest new_tests/test_mirt_and_girt/test_mirt_and_girt.py -
+pytest new_tests/test_mirt_and_girt/test_mirt_and_girt.py -x
+sudo pacman -S cuda
+python setup.py install
+pytest new_tests/test_mirt_and_girt/test_mirt_and_girt.py -x
+python setup.py -m install
+python -n setup.py install
+python -m setup.py install
+vgirt
+python -m setup.py install
+python setup.py install
+pytest new_tests/test_mirt_and_girt/test_mirt_and_girt.py -x
+python
+htop
+ll
+z girt
+ll
+vim
+git status
+git diff
+git add .
+git checkout -b RND-520-batching
+git add .
+git commit -m "build: numpy and torch dynamic members for pylint
+git commit -m "build: numpy and torch dynamic members for pylint"
+vim
+vgirt
+vim
+ll
+git status
+vim
+pacman -S audacity
+sudo pacman -S audacity
+ll
+mpv piano_vegar_take_386.mp3 
+z loft
+ll
+vim setup.cfg 
+killall slack
+vim .envs/loft/bin/
+vim .envs/loft/bin/activate
+vim .envs/girt/bin/activate
+cd docs
+ll
+vim girt 
+vgirt
+echo $DATABRICKS_TOKEN
+systemctl 
+startx
+pacman -S pycharm-community-edition
+sudo pacman -S pycharm-community-edition
+vgirt
+cd
+cd .ssh/
+ll
+cat id_rsa
+cd
+cd tmp
+vim deploy_databricks.sh
+mv deploy_databricks.sh ../dev/GIRT/
+z girt
+ll
+./deploy_databricks.sh
+sudo ./deploy_databricks.sh
+sudo bash deploy_databricks.sh 
+pip install databricks_cli
+sudo bash deploy_databricks.sh 
+vim deploy_databricks.sh 
+sudo bash deploy_databricks.sh 
+vim deploy_databricks.sh 
+sudo bash deploy_databricks.sh 
+pip freeze | grep horovd
+pip install horovod
+sudo python deploy_databricks.py -b -de dev -e "/home/vegarab/.ssh/id_rsa" -utl -1
+python
+zgirt
+vgirt
+z girt
+ll
+pytest new_tests/test_mirt_and_girt/test_mirt_and_girt.py 
+z loft
+vloft
+git pull
+git checkout repo-restructure
+git status
+vim
+git status
+ll
+vim
+ll
+rm -rf inspera_loft_cat*
+ll
+rm -rf inspera_spark_sql/
+ll
+vim
+pip install -e '.[all]'
+vim
+git pull
+vim
+git pull
+vim
+git pull
+vim
+git pull
+pycharm ^
+pycharm &
+pacman -Q pyccharm
+pacman -Q pycharm
+pacman -Q | grep pycharm
+pacman -Rs pycharm-community-edition
+sudo pacman -Rs pycharm-community-edition
+mv dl/pycharm-community-2020.3.1.tar.gz tmp/
+cd tmp
+ll
+tar xzvf pycharm-community-2020.3.1.tar.gz 
+ll
+cd pycharm-community-2020.3.1
+ll
+cat Install-Linux-tar.txt 
+ll
+cd ..
+mv pycharm-community-2020.3.1 ../.local/
+cd 
+cd .local/
+ll
+mv pycharm-community-2020.3.1/ src/
+cd src/
+ll
+cd pycharm-community-2020.3.1/
+ll
+cat Install-Linux-tar.txt 
+cd bin
+./pycharm.sh 
+cd .local/src/pycharm-community-2020.3.1/
+ll
+cd bin/
+ll
+pycharm
+pycharm.sh
+ll
+cd .con
+cd .config
+ll
+rm -rf JetBrains/
+z pycharm
+ll
+cd bin/
+ll
+cd ..
+cat Install-Linux-tar.txt 
+pycharm
+cd ..
+mv pycharm-community-2020.3.1/ ../bin/
+cd bi
+cd ../bin/
+ll
+cd pycharm-community-2020.3.1/
+ll
+cd bin/
+./pycharm.sh 
+export _JAVA_AWT_WM_NONREPARENTING=1
+./pycharm.sh 
+ll
+cd .local/src/
+ll
+cd ..
+cd bin/
+ll
+rm -rf pycharm-community-2020.3.1/
+cd
+pacman -S pycharm-community-edition
+sudo pacman -S pycharm-community-edition
+startx
+z girt
+vgirt
+vim
+brc
+htop
+ll
+cd .config/font
+cd .config/fontconfig/
+ll
+cat fonts.conf 
+z girt
+vim
+nmcli dev show | grep 'IP4.DNS'
+nmcli dev show 
+nmcli dev show | grep IP4
+pacman -Ss chrome
+pacman -Ss google-chrome
+packer -Ss google-chrome-stable
+packer -Ss google-chrome
+packer -S google-chrome]
+packer -S google-chrome
+z GIRT
+ll
+z girt
+vgirt
+cd ..
+rm -rf build
+ll
+xrandr
+\ girt
+z girt
+git status
+git add .
+git commit -m "chore: move irtmodule filter to cpu in SE evaluation"
+git push
+cd ..
+ll
+cd CTT_IRT/
+ll
+git status
+git diff
+git add .
+git stash
+git pull
+ll
+vim README.md 
+git status
+git add .
+git checkout -b RND-542-girt-dataloader
+git status
+git commit -m "feat: use GIRT dataloader and internal horovod runner"
+git push --set-upstream origin RND-542-girt-dataloader
+cd ..
+git clone git@github.com:inspera/insanity
+cd insanity/
+git add .
+git checkout -b RND-542-girt-dataloader
+git add .
+git commit -m "feat: use GIRT dataloader and internal horovod runner"
+git push --set-upstream origin RND-542-girt-dataloader
+cd
+cd dev/LOFT_CAT/
+ll
+git checkout dev
+git checkout develop
+git pull
+ll
+cd ..
+mv LOFT_CAT/ ATC/
+cd ATC/
+ll
+vloft
+pytest tests/test_lambda_handler.py 
+pip install typing_extensions
+pytest tests/test_lambda_handler.py 
+cat README.md 
+pip install -e '[.all]'
+pip install -e '.[all]'
+pytest tests/test_lambda_handler.py 
+pip install typing-extensions
+pytest tests/test_lambda_handler.py 
+python
+pytest tests/test_lambda_handler.py 
+pytest tests/test_lambda_handler.py -x
+git checkout master
+git add .
+git status
+git reset
+git status
+git checkout inspera_atc/loft/
+git status
+git add .
+git checkout -m fix-typing
+git add .
+git checkout -m fix-typing
+git status
+git checkout -b fix-typing
+git status
+git add .
+git a
+ll
+vim .pre-commit-config.yaml 
+git status
+git add .
+git commit -m "fix: Final type import for <3.8"
+vim .pre-commit-config.yaml 
+git add .
+git commit -m "fix: Final type import for <3.8"
+vim .pre-commit-config.yaml 
+git status
+git stash
+git checkout develop
+git log
+git reset HEAD~1
+git status
+git add .
+git stash
+git commit -m ""
+git checkout master
+git pull
+git commit -m ""
+cd
+cd .cache
+ll
+rm -rf pre-commit/
+cd ..
+z loft
+z atc
+git commit -m ""
+pip install --upgrade pre-commit
+git commit -m ""
+git checkout develop
+git pull
+git commit -m ""
+cat ~/.cache/pre-commit/pre-commit.log 
+ll
+vim .pre-commit-config.yaml 
+git commit -m ""
+git add ./
+git add .
+git commit -m ""
+cd
+cd .cache/pre-commit/
+ll
+cd repo5igojj77/
+ll
+vim
+cat .pre-commit-config.yaml 
+cat .pre-commit-hooks.yaml 
+git commit -m ""
+cd
+cd .cache/pre-commit/repo5igojj77/
+ll
+cat blackbricks/
+ll
+vim
+vim
+z loft
+vlodft
+vlodtr
+vlofd
+vloft
+z loft
+z atc
+ll
+vim
+pip freeze
+vim
+ll
+cd .envs
+ll
+cd loft/
+ll
+cd bin/
+ll
+vim activate
+cd ..  
+cd ..
+ll
+vim activate
+rm -rf loft
+cd /usr/bin/
+ls | grep python
+pacman -Ss python
+pacman -Ss python38
+packer -Ss python3.8
+packer -Ss python38
+packer -S python38
+cd
+cd .envs
+ll
+virtualenv --python=/usr/bin/python3.8 loft
+ll
+vim activate 
+vim loft/bin/activate
+vloft
+z atc
+git status
+pip install -e '.[all]'
+pip install black pylint jedi nvim
+pip install black pylint jedi
+vim
+pip install pynviom
+pip install pynvim
+vim
+startx
+killall slack
+cd .envs/girt/lib/python3.6/site-packages/torch/utils/data/dataloader.py 
+vim .envs/girt/lib/python3.6/site-packages/torch/utils/data/dataloader.py 
+cd docs
+ll
+vim girt 
+journalctl -b -1
+/bin/bash -c "$(wget -nv -O- 'https://code-with-me.jetbrains.com/N-4UoddEnsBDQvS02MinqQ/cwm-client-launcher.sh')"
+startx
+pytest new_tests/test_mirt_and_girt/test_mirt_and_girt.py -xs -k test_benchmark_statistics_items
+python
+git status
+z girt
+git status
+cd ..
+git status
+git add inspera_girt
+git reset
+git diff inspera_girt
+git status
+gi tadd inspera_girt
+git add inspera_girt
+git commit -m "write batches to disk"
+git push
+htop
+nvidia-smi
+cd /tmp
+ll
+feh diff-
+feh diff-boxplot.png 
+feh diff-pairplot.png 
+ll
+feh diff-pairplot.png 
+webcam
+pacman -Ss openvpn
+pacman -S openvpn
+sudo pacman -S openvpn]
+sudo pacman -S openvpn
+pacman -Ss openvpn
+pacman -S networkmanager-openvpn
+sudo pacman -S networkmanager-openvpn
+ll
+cd /tmp/
+ll
+feh diff-pairplot.png 
+startx
+feh diff-pairplot.png 
+z girt
+ll
+vim diff_system
+diff diff_system girt_system.py 
+ll
+rm diff_system 
+vim girt_system.py 
+zgirt
+vgirt
+python
+killall slack
+python
+packer -S spotiofy
+packer -S spotify
+pacman -Ss spotify
+pacman -Ss libcurl-gnutls
+pacman -S libcurl-gnutls
+sudo pacman -S libcurl-gnutls
+packer -S spotify
+gpg --recv-key 
+D1742AD60D811D58
+gpg --recv-key D1742AD60D811D58
+packer -S spotify
+z girt
+git status
+git diff
+git status
+git add .
+git commit -m "tmp: batching in se error estimation"
+scrot -s
+ll
+mv *.png ~ 
+git status
+systemctl status
+systemctl list
+systemctl
+python
+cd
+cd dl
+ll
+pacman -Ss mpi
+pacman -Ss mpirun
+pacman -Ss openmpi
+pacman -Ss spark
+pacman -Ss apache
+packer -Ss spark
+z girt
+cd ..
+git status
+git log
+git status
+git diff
+git add .
+git stash
+git pull
+git checkout mip2.0
+git checkout mpi2.0
+git status
+git checkout inspera_girt/girt_system.py 
+import
+python
+z loft
+z atc
+vloft
+git pull
+pytest tests/test_lambda_handler.py 
+pytest tests/test_lambda_handler.py -x
+ll
+vim ~/.envs/loft/bin/activate
+vim
+pip install -e .['all']
+pytest tests/test_lambda_handler.py 
+pytest tests/test_lambda_handler.py -xs
+git checkout rnd-566-update-es-creds
+pytest tests/test_lambda_handler.py -xs
+cd docs
+ll
+git clone git@github.com:vegarab/foml
+cd foml/
+ll
+cd lab
+ll
+git checkout RND-537-restructure-tests
+z at
+z atc
+git checkout RND-537-restructure-tests
+git pull
+vloft
+pytest tests/test_loft_lambda_handler.py 
+git merge develop
+pytest tests/test_loft_lambda_handler.py 
+startx
+sudo reboot
+z girt
+vgirt
+cd ..
+git pull
+ping vpn.inspera.no
+telnet vpn.inspera.no
+ping vpn.inspera.no
+wget vpn.inspera.no
+killall slackq
+killall slack
+packer -Ss apache-spar
+packer -Ss apache-sparK
+packer -S apache-spark
+spark
+pip install mpi4py
+ll
+cd
+cd dl
+ll
+mv client.ovpn ../.local/bin/
+z local bin
+ll
+vim client.ovpn 
+mv client.ovpn inspera.ovpn
+ip a
+killall slack
+z girt
+cd ..
+git pull
+cd ..
+cd CTT_IRT/
+git checkout mpi2.0
+git fetch
+git checkout temp-mpi-deploy
+git checkout master
+git checkout -b "distributed_girtwrapper"
+python
+cd ..
+cd GIRT/
+python setup.py 
+cat README.md 
+python -m setup.py install
+python
+cd
+z CTT
+git status
+git diff
+git add .
+git commit -m "feat: distributed girt_wrapper"
+git push --set-upstream origin distributed_girtwrapper"
+git push --set-upstream origin distributed_girtwrapper
+git checkout master
+git checkout distributed_girtwrapper
+git status
+git diff
+git add .
+git stash
+git checkout distributed_girtwrapper
+git status
+git diff
+git status
+git add .
+git ammend
+git commit --amend
+git status
+git log
+git push --force]
+git push --force
+pip freeze | grep black
+pip install black
+git status
+git diff
+git add .
+git commit --amend
+git push --force
+git branch
+git merge temp-mpi-deploy
+vim dependencies.py
+git push
+ll
+vim dependencies.py 
+vim deploy_databricks.py 
+ll
+vim token
+ll
+mv token ../../.ssh/databricks_stage_token
+vim ../../.ssh/databricks_stage_token 
+git status
+git add .
+git commit --amend
+git push --force
+git log
+git pull --force
+git log
+git reset HEAD~2
+git steatus
+git log
+git pull
+git add .
+git stash
+git pull
+git status
+git diff
+git add .
+git commit -m "rebase me"
+git log
+git rebase -i HEAD~3
+git status
+git log
+git push
+git push --force
+git status
+git add .
+git commit -m "rebase me"
+git rebase HEAD~3
+git rebase -i HEAD~3
+git push --force
+git log
+git push --foprce
+git push --force
+scrot -s
+git status
+rm *.png
+scrot -s
+killall slack
+pip freeze | grep pytest
+pip freeze | grep hypothesis
+git pull
+git status
+git log
+cd ..
+cd GIRT/
+git statu
+git status
+git diff
+python
+killall slack
+z atc
+ll
+git status
+git checkout develop
+git pull
+ll
+rm -rf inspera_loft_cat
+ll
+rm -rf inspera_loft_cat.egg-info/
+rm -rf inspera_spark_sql/
+ll
+ls
+ll
+git branch
+git status
+git add 
+git add .
+git checkout -b RND-448-verification-pruning
+git stratus
+git status
+git log
+git commit -m "refr(RND-448): remove redundant verification from loft lambda handler"
+pip install pre_commit
+git commit -m "refr(RND-448): remove redundant verification from loft lambda handler"
+deactivate
+vloft
+git commit -m "refr(RND-448): remove redundant verification from loft lambda handler"
+pip install pre-commit
+git commit -m "refr(RND-448): remove redundant verification from loft lambda handler"
+git diff
+git add .
+git status
+git add .
+git commit -m "refr(RND-448): remove redundant verification from loft lambda handler"
+git push --set-upstream origin RND-448-verification-pruning
+git log
+git status
+ps aux | grep pycharm
+pkill -9 7356
+ps aux | grep pycharm
+kill 7356
+kill 336028
+ps aux | grep pycharm
+kill 336068
+git status
+git add .
+git stash
+git checkout develop
+git status
+git diff
+ll
+git diff
+pytest tests/test_loft_scenarios.py 
+pytest tests/test_ability_estimation_scenarios.py 
+pytest tests/test_cat_ability_utils.py 
+pytest tests/test_rsalt_scenarios.py 
+git status
+git add .
+git status
+git checkout -b RND-537-restructure-tests
+git commit -m "tests(RND-537): restructure scenarios"
+git diff
+git add .
+git diff
+git commit -m "tests(RND-537): restructure scenarios"
+git add .
+git commit -m "tests(RND-537): restructure scenarios"
+git log
+git push --set-upstream RND-537-restructure-tests
+git push --set-upstream origin RND-537-restructure-tests
+pytest tests/test_rsalt_scenarios.py 
+git status
+git add .
+git commit -m "tests(RND-537): split test utils"
+git status
+git add .
+git commit -m "tests(RND-537): split test utils"
+git add .
+git commit -m "tests(RND-537): split test utils"
+git status
+git add .
+git commit -m "tests(RND-537): split test utils"
+git push
+git status
+git diff
+git reset
+git status
+git add tests/scenarios/
+git commit -m "rebase me"
+git rebase -i HEAD~3
+git push --force
+git log
+git add .
+git commit -m "tests(RND-537): restructure test strategies"
+git diff
+git add .
+git commit -m "tests(RND-537): restructure test strategies"
+git push
+cd
+cd .config/fontconfig/
+ll
+z atc
+git checkout sqs-endpoint-url
+git checkout develop
+git pull
+git checkout sqs-endpoint-url
+pytest tests/test_lambda_handler.py 
+git checkout rnd-301-formative-item-selection
+ip a
+ping 192.168.38.112
+ip a
+cd
+scrot -s
+z atc
+git pull
+python
+killall slack
+cd
+pacman -Syu
+sudo pacman -Syu
+pytest tests/test_lambda_handler.py 
+pytest tests/test_lambda_handler.py -xs
+git merge develop
+git push
+git merge develop
+pytest tests/test_lambda_handler.py -xs
+ll

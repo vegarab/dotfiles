@@ -1,0 +1,17 @@
+<application>
+  <component name="FeatureUsageStatistics" first-run="1608625224375" have-been-shown="false" show-in-other="true" show-in-compilation="true">
+    <completionStatsTag>
+      <option name="sparedCharacters" value="0" />
+      <option name="invocations" value="0" />
+      <option name="startDate" value="0" />
+      <option name="dayCount" value="0" />
+      <option name="lastDate" value="0" />
+    </completionStatsTag>
+    <fixesStatsTag>
+      <option name="invocations" value="0" />
+      <option name="startDate" value="0" />
+      <option name="dayCount" value="0" />
+      <option name="lastDate" value="0" />
+    </fixesStatsTag>
+  </component>
+</application>

@@ -1,0 +1,366 @@
+<application>
+  <component name="VimHistorySettings">
+    <history>
+      <history-search>
+        <entry>job_run_id</entry>
+        <entry>horovod_runner</entry>
+        <entry>rank</entry>
+        <entry>self.rank</entry>
+        <entry>self.job_</entry>
+        <entry>sequential_solve</entry>
+        <entry>AtcSolver</entry>
+        <entry>validate_test</entry>
+        <entry>validate_test_versions</entry>
+        <entry>horovod_runner.run</entry>
+        <entry>num_items</entry>
+        <entry>forward</entry>
+        <entry>multiprocessing</entry>
+        <entry>distributed_estimate</entry>
+        <entry>estimated_girt_system</entry>
+        <entry>horovod_runner_proxy</entry>
+        <entry>estimate_param</entry>
+        <entry>batch</entry>
+        <entry>Estimation step</entry>
+        <entry>conv2d</entry>
+        <entry>static_data</entry>
+        <entry>target_data</entry>
+        <entry encoding="base64">XDxzdHVkZW50X2lkc1w+</entry>
+        <entry>num_censors</entry>
+        <entry>dataloader</entry>
+        <entry>self.num_students</entry>
+        <entry>num_students</entry>
+        <entry>standard_error</entry>
+        <entry>compute_loss</entry>
+        <entry>__trainb</entry>
+        <entry>to(device</entry>
+        <entry>batch_size</entry>
+        <entry encoding="base64">XDxwcmludFw+</entry>
+        <entry>tqdm</entry>
+        <entry>estimate</entry>
+        <entry>lr</entry>
+        <entry>learning_rate</entry>
+        <entry encoding="base64">XDxsZW5cPg==</entry>
+        <entry>__train</entry>
+        <entry>divisor</entry>
+        <entry>af_outputs</entry>
+        <entry>afmodule_losses</entry>
+        <entry>print(loss.</entry>
+        <entry>print(loss</entry>
+        <entry>afmodule_loss</entry>
+        <entry>self.filter</entry>
+        <entry>filter</entry>
+        <entry>self.data</entry>
+        <entry>collate_fin</entry>
+        <entry>collate_fn</entry>
+      </history-search>
+      <history-cmd>
+        <entry>w4</entry>
+        <entry>ew</entry>
+        <entry>nohl</entry>
+        <entry>215,980s/self.__afmodules/self.model.__afmodules/g</entry>
+        <entry>215,980s/self.__irtmodules/self.model.__irtmodules/g</entry>
+        <entry>215,980s/self.__cfmodules/self.model.__cfmodules/g</entry>
+        <entry>Lw</entry>
+        <entry>%s/.__afmodules/.afmodules/g</entry>
+        <entry>%s/.__irtmodule/.irtmodule/g</entry>
+        <entry>%s/.__cfmodule/.cfmodule/g</entry>
+        <entry>w]</entry>
+        <entry>%s/self.num_students/self.data.num_students/g</entry>
+        <entry>%s/self.num_censors/self.data.num_censors/g</entry>
+        <entry>%s/self.__static_data/self.static_data/g</entry>
+        <entry>%s/self.__target/self.target/g</entry>
+        <entry>178,187s/self.target_data/target_data_copy/g</entry>
+        <entry>149,190s/self.max_categories_per_item/max_categories_per_item/g</entry>
+        <entry>149,190s/self.max_categories/max_categories/g</entry>
+        <entry>%s/self.__max_categories_per_item/self.max_categories_per_item/g</entry>
+        <entry>w\</entry>
+        <entry>861,1216s/self.item_ids/item_ids/g</entry>
+        <entry>321,330s/self.student_ids/student_ids</entry>
+        <entry>&quot;w</entry>
+        <entry>set clipboard+=unnamed</entry>
+        <entry>wq</entry>
+        <entry>602,665s/batch_size/self.batch_size/</entry>
+        <entry>w</entry>
+        <entry>W</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <filemarks>
+      <file name="/start_script.py" timestamp="1610369478743">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/insanity/insanity/data_generation/calibration.py" timestamp="1610371155213">
+        <mark key="[" line="76" column="44" />
+        <mark key="]" line="76" column="44" />
+        <mark key="." line="76" column="43" />
+        <mark key="^" line="76" column="44" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1610556449095">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Python Console" timestamp="1610636481806">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="22" />
+        <mark key="^" line="0" column="22" />
+        <mark key="." line="0" column="21" />
+      </file>
+      <file name="/fragment.py" timestamp="1610546101583">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/ATC/inspera_atc/constants.py" timestamp="1610114933726">
+        <mark key="[" line="13" column="46" />
+        <mark key="]" line="13" column="39" />
+        <mark key="." line="13" column="38" />
+        <mark key="^" line="13" column="39" />
+      </file>
+      <file name="/home/bendik/PycharmProjects/GIRT/inspera_girt/data_loader.py" timestamp="1610709282715">
+        <mark key="'" line="53" column="35" />
+        <mark key="[" line="243" column="57" />
+        <mark key="]" line="243" column="53" />
+        <mark key="." line="243" column="52" />
+        <mark key="^" line="243" column="53" />
+      </file>
+      <file name="$USER_HOME$/dev/CTT_IRT/inspera_irt/girt_wrapper.py" timestamp="1610638511109">
+        <mark key="'" line="150" column="30" />
+        <mark key="[" line="248" column="0" />
+        <mark key="]" line="248" column="0" />
+        <mark key="." line="248" column="0" />
+        <mark key="^" line="22" column="18" />
+      </file>
+      <file name="$USER_HOME$/dev/insanity/insanity/analysis/drift.py" timestamp="1610371878049">
+        <mark key="[" line="34" column="4" />
+        <mark key="]" line="34" column="7" />
+        <mark key="^" line="34" column="7" />
+        <mark key="." line="34" column="6" />
+      </file>
+      <file name="$USER_HOME$/dev/GIRT/inspera_girt/girt_item_module.py" timestamp="1610703092893">
+        <mark key="'" line="480" column="20" />
+        <mark key="[" line="147" column="37" />
+        <mark key="]" line="147" column="37" />
+        <mark key="^" line="147" column="37" />
+        <mark key="." line="147" column="36" />
+      </file>
+      <file name="/" timestamp="1610703796544">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/GIRT/dependencies.py" timestamp="1610553495064">
+        <mark key="[" line="38" column="30" />
+        <mark key="]" line="38" column="31" />
+        <mark key="." line="38" column="30" />
+        <mark key="^" line="38" column="31" />
+      </file>
+      <file name="$USER_HOME$/dev/GIRT/inspera_girt/data_loader.py" timestamp="1610703071300">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="63" column="8" />
+        <mark key="]" line="69" column="8" />
+        <mark key="." line="238" column="10" />
+        <mark key="^" line="238" column="11" />
+      </file>
+      <file name="/home/bendik/PycharmProjects/GIRT/new_tests/test_mirt_and_girt/test_mirt_and_girt.py" timestamp="1610705309687">
+        <mark key="[" line="209" column="38" />
+        <mark key="]" line="209" column="38" />
+        <mark key="^" line="209" column="38" />
+        <mark key="." line="209" column="37" />
+      </file>
+      <file name="$USER_HOME$/dev/ATC/inspera_loft_cat/lambda_handler.py" timestamp="1610115707930">
+        <mark key="[" line="833" column="35" />
+      </file>
+      <file name="/home/bendik/PycharmProjects/GIRT/inspera_girt/girt_system.py" timestamp="1610709281281">
+        <mark key="'" line="92" column="16" />
+        <mark key="[" line="415" column="84" />
+        <mark key="]" line="415" column="83" />
+        <mark key="." line="415" column="82" />
+        <mark key="^" line="415" column="83" />
+      </file>
+      <file name="$USER_HOME$/.envs/girt/lib/python3.6/site-packages/inspera_girt-0.4.1_2_g9f00-py3.6-linux-x86_64.egg/inspera_girt/girt_system.py" timestamp="1610376253900">
+        <mark key="'" line="310" column="26" />
+      </file>
+      <file name="$USER_HOME$/dev/GIRT/inspera_girt/ability_factor_module.py" timestamp="1610555930213">
+        <mark key="[" line="233" column="23" />
+        <mark key="]" line="233" column="22" />
+        <mark key="." line="233" column="23" />
+      </file>
+      <file name="$USER_HOME$/dev/CTT_IRT/inspera_irt/irt_utils.py" timestamp="1610372017233">
+        <mark key="'" line="35" column="26" />
+        <mark key="[" line="35" column="46" />
+        <mark key="]" line="35" column="35" />
+        <mark key="^" line="35" column="35" />
+        <mark key="." line="35" column="34" />
+      </file>
+      <file name="$USER_HOME$/dev/GIRT/inspera_girt/girt_system.py" timestamp="1610703633831">
+        <mark key="'" line="612" column="103" />
+        <mark key="[" line="507" column="8" />
+        <mark key="]" line="507" column="9" />
+        <mark key="." line="507" column="8" />
+        <mark key="^" line="507" column="9" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="601" column="10" filename="$USER_HOME$/dev/GIRT/inspera_girt/girt_system.py" />
+      <jump line="602" column="81" filename="$USER_HOME$/dev/GIRT/inspera_girt/girt_system.py" />
+      <jump line="758" column="29" filename="$USER_HOME$/dev/GIRT/inspera_girt/girt_system.py" />
+      <jump line="789" column="88" filename="$USER_HOME$/dev/GIRT/inspera_girt/girt_system.py" />
+      <jump line="844" column="40" filename="$USER_HOME$/dev/GIRT/inspera_girt/girt_system.py" />
+      <jump line="858" column="97" filename="$USER_HOME$/dev/GIRT/inspera_girt/girt_system.py" />
+      <jump line="309" column="8" filename="$USER_HOME$/dev/GIRT/inspera_girt/girt_system.py" />
+      <jump line="334" column="26" filename="$USER_HOME$/dev/GIRT/inspera_girt/girt_system.py" />
+      <jump line="526" column="28" filename="$USER_HOME$/dev/GIRT/inspera_girt/girt_system.py" />
+      <jump line="744" column="24" filename="$USER_HOME$/dev/GIRT/inspera_girt/girt_system.py" />
+      <jump line="667" column="18" filename="$USER_HOME$/dev/GIRT/inspera_girt/girt_system.py" />
+      <jump line="131" column="24" filename="$USER_HOME$/dev/GIRT/inspera_girt/girt_system.py" />
+      <jump line="438" column="10" filename="$USER_HOME$/dev/GIRT/inspera_girt/girt_system.py" />
+      <jump line="1002" column="29" filename="$USER_HOME$/dev/GIRT/inspera_girt/girt_system.py" />
+      <jump line="997" column="52" filename="$USER_HOME$/dev/GIRT/inspera_girt/girt_system.py" />
+      <jump line="378" column="27" filename="$USER_HOME$/dev/GIRT/inspera_girt/girt_system.py" />
+      <jump line="220" column="69" filename="$USER_HOME$/dev/GIRT/inspera_girt/girt_system.py" />
+      <jump line="301" column="30" filename="$USER_HOME$/dev/GIRT/inspera_girt/girt_system.py" />
+      <jump line="666" column="104" filename="$USER_HOME$/dev/GIRT/inspera_girt/girt_system.py" />
+      <jump line="739" column="41" filename="$USER_HOME$/dev/GIRT/inspera_girt/girt_system.py" />
+      <jump line="216" column="23" filename="$USER_HOME$/dev/CTT_IRT/inspera_irt/girt_wrapper.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/CTT_IRT/inspera_irt/girt_wrapper.py" />
+      <jump line="266" column="0" filename="$USER_HOME$/dev/CTT_IRT/inspera_irt/girt_wrapper.py" />
+      <jump line="139" column="19" filename="$USER_HOME$/dev/CTT_IRT/inspera_irt/girt_wrapper.py" />
+      <jump line="315" column="8" filename="$USER_HOME$/dev/GIRT/inspera_girt/girt_system.py" />
+      <jump line="573" column="0" filename="$USER_HOME$/dev/GIRT/inspera_girt/girt_system.py" />
+      <jump line="594" column="28" filename="$USER_HOME$/dev/GIRT/inspera_girt/girt_item_module.py" />
+      <jump line="147" column="20" filename="$USER_HOME$/dev/GIRT/inspera_girt/girt_item_module.py" />
+      <jump line="710" column="42" filename="$USER_HOME$/dev/GIRT/inspera_girt/girt_system.py" />
+      <jump line="591" column="44" filename="$USER_HOME$/dev/GIRT/inspera_girt/girt_system.py" />
+      <jump line="605" column="74" filename="$USER_HOME$/dev/GIRT/inspera_girt/girt_system.py" />
+      <jump line="589" column="48" filename="$USER_HOME$/dev/GIRT/inspera_girt/girt_system.py" />
+      <jump line="582" column="104" filename="$USER_HOME$/dev/GIRT/inspera_girt/girt_system.py" />
+      <jump line="575" column="27" filename="$USER_HOME$/dev/GIRT/inspera_girt/girt_system.py" />
+      <jump line="588" column="16" filename="$USER_HOME$/dev/GIRT/inspera_girt/girt_system.py" />
+      <jump line="586" column="37" filename="$USER_HOME$/dev/GIRT/inspera_girt/girt_system.py" />
+      <jump line="571" column="31" filename="$USER_HOME$/dev/GIRT/inspera_girt/girt_item_module.py" />
+      <jump line="490" column="34" filename="$USER_HOME$/dev/GIRT/inspera_girt/girt_system.py" />
+      <jump line="460" column="14" filename="$USER_HOME$/dev/GIRT/inspera_girt/girt_system.py" />
+      <jump line="748" column="62" filename="$USER_HOME$/dev/GIRT/inspera_girt/girt_system.py" />
+      <jump line="77" column="8" filename="$USER_HOME$/dev/GIRT/inspera_girt/girt_system.py" />
+      <jump line="94" column="12" filename="$USER_HOME$/dev/GIRT/inspera_girt/girt_system.py" />
+      <jump line="183" column="50" filename="$USER_HOME$/dev/GIRT/inspera_girt/girt_system.py" />
+      <jump line="507" column="9" filename="$USER_HOME$/dev/GIRT/inspera_girt/girt_system.py" />
+      <jump line="651" column="67" filename="$USER_HOME$/dev/GIRT/inspera_girt/girt_system.py" />
+      <jump line="407" column="13" filename="$USER_HOME$/dev/GIRT/inspera_girt/girt_system.py" />
+      <jump line="494" column="59" filename="$USER_HOME$/dev/GIRT/inspera_girt/girt_system.py" />
+      <jump line="664" column="23" filename="$USER_HOME$/dev/GIRT/inspera_girt/girt_system.py" />
+      <jump line="150" column="30" filename="$USER_HOME$/dev/CTT_IRT/inspera_irt/girt_wrapper.py" />
+      <jump line="574" column="0" filename="$USER_HOME$/dev/GIRT/inspera_girt/girt_item_module.py" />
+      <jump line="482" column="66" filename="$USER_HOME$/dev/GIRT/inspera_girt/girt_item_module.py" />
+      <jump line="479" column="20" filename="$USER_HOME$/dev/GIRT/inspera_girt/girt_item_module.py" />
+      <jump line="480" column="20" filename="$USER_HOME$/dev/GIRT/inspera_girt/girt_item_module.py" />
+      <jump line="39" column="55" filename="$USER_HOME$/dev/GIRT/inspera_girt/girt_system.py" />
+      <jump line="552" column="33" filename="$USER_HOME$/dev/GIRT/inspera_girt/girt_system.py" />
+      <jump line="656" column="20" filename="$USER_HOME$/dev/GIRT/inspera_girt/girt_system.py" />
+      <jump line="660" column="62" filename="$USER_HOME$/dev/GIRT/inspera_girt/girt_system.py" />
+      <jump line="692" column="27" filename="$USER_HOME$/dev/GIRT/inspera_girt/girt_system.py" />
+      <jump line="732" column="40" filename="$USER_HOME$/dev/GIRT/inspera_girt/girt_system.py" />
+      <jump line="753" column="76" filename="$USER_HOME$/dev/GIRT/inspera_girt/girt_system.py" />
+      <jump line="771" column="12" filename="$USER_HOME$/dev/GIRT/inspera_girt/girt_system.py" />
+      <jump line="775" column="41" filename="$USER_HOME$/dev/GIRT/inspera_girt/girt_system.py" />
+      <jump line="817" column="16" filename="$USER_HOME$/dev/GIRT/inspera_girt/girt_system.py" />
+      <jump line="856" column="53" filename="$USER_HOME$/dev/GIRT/inspera_girt/girt_system.py" />
+      <jump line="870" column="73" filename="$USER_HOME$/dev/GIRT/inspera_girt/girt_system.py" />
+      <jump line="872" column="68" filename="$USER_HOME$/dev/GIRT/inspera_girt/girt_system.py" />
+      <jump line="894" column="27" filename="$USER_HOME$/dev/GIRT/inspera_girt/girt_system.py" />
+      <jump line="896" column="27" filename="$USER_HOME$/dev/GIRT/inspera_girt/girt_system.py" />
+      <jump line="913" column="28" filename="$USER_HOME$/dev/GIRT/inspera_girt/girt_system.py" />
+      <jump line="920" column="51" filename="$USER_HOME$/dev/GIRT/inspera_girt/girt_system.py" />
+      <jump line="998" column="42" filename="$USER_HOME$/dev/GIRT/inspera_girt/girt_system.py" />
+      <jump line="1062" column="61" filename="$USER_HOME$/dev/GIRT/inspera_girt/girt_system.py" />
+      <jump line="1064" column="61" filename="$USER_HOME$/dev/GIRT/inspera_girt/girt_system.py" />
+      <jump line="1116" column="61" filename="$USER_HOME$/dev/GIRT/inspera_girt/girt_system.py" />
+      <jump line="1159" column="70" filename="$USER_HOME$/dev/GIRT/inspera_girt/girt_system.py" />
+      <jump line="379" column="8" filename="$USER_HOME$/dev/GIRT/inspera_girt/girt_system.py" />
+      <jump line="396" column="30" filename="$USER_HOME$/dev/GIRT/inspera_girt/girt_system.py" />
+      <jump line="409" column="70" filename="$USER_HOME$/dev/GIRT/inspera_girt/girt_system.py" />
+      <jump line="415" column="57" filename="$USER_HOME$/dev/GIRT/inspera_girt/girt_system.py" />
+      <jump line="450" column="40" filename="$USER_HOME$/dev/GIRT/inspera_girt/girt_system.py" />
+      <jump line="451" column="49" filename="$USER_HOME$/dev/GIRT/inspera_girt/girt_system.py" />
+      <jump line="452" column="32" filename="$USER_HOME$/dev/GIRT/inspera_girt/girt_system.py" />
+      <jump line="454" column="40" filename="$USER_HOME$/dev/GIRT/inspera_girt/girt_system.py" />
+      <jump line="455" column="49" filename="$USER_HOME$/dev/GIRT/inspera_girt/girt_system.py" />
+      <jump line="456" column="32" filename="$USER_HOME$/dev/GIRT/inspera_girt/girt_system.py" />
+      <jump line="458" column="38" filename="$USER_HOME$/dev/GIRT/inspera_girt/girt_system.py" />
+      <jump line="610" column="54" filename="$USER_HOME$/dev/GIRT/inspera_girt/girt_system.py" />
+      <jump line="612" column="103" filename="$USER_HOME$/dev/GIRT/inspera_girt/girt_system.py" />
+      <jump line="224" column="0" filename="/home/bendik/PycharmProjects/GIRT/inspera_girt/data_loader.py" />
+      <jump line="262" column="25" filename="/home/bendik/PycharmProjects/GIRT/inspera_girt/data_loader.py" />
+      <jump line="22" column="12" filename="/home/bendik/PycharmProjects/GIRT/inspera_girt/data_loader.py" />
+      <jump line="275" column="23" filename="/home/bendik/PycharmProjects/GIRT/inspera_girt/data_loader.py" />
+      <jump line="0" column="0" filename="/home/bendik/PycharmProjects/GIRT/inspera_girt/data_loader.py" />
+      <jump line="1016" column="55" filename="/home/bendik/PycharmProjects/GIRT/inspera_girt/girt_system.py" />
+      <jump line="166" column="40" filename="/home/bendik/PycharmProjects/GIRT/inspera_girt/girt_system.py" />
+      <jump line="49" column="8" filename="/home/bendik/PycharmProjects/GIRT/inspera_girt/girt_system.py" />
+      <jump line="207" column="34" filename="/home/bendik/PycharmProjects/GIRT/inspera_girt/data_loader.py" />
+      <jump line="971" column="19" filename="/home/bendik/PycharmProjects/GIRT/inspera_girt/girt_system.py" />
+      <jump line="92" column="16" filename="/home/bendik/PycharmProjects/GIRT/inspera_girt/girt_system.py" />
+      <jump line="53" column="35" filename="/home/bendik/PycharmProjects/GIRT/inspera_girt/data_loader.py" />
+    </jumps>
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="&quot;" type="4">
+        <text>(</text>
+      </register>
+      <register name="*" type="4">
+        <text>becuase</text>
+      </register>
+      <register name="-" type="4">
+        <text>(</text>
+      </register>
+      <register name="/" type="4">
+        <text>collate_fn</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGRlZiBfX2xlbl9fKHNlbGYpOgogICAgICAgIHJldHVybiBsZW4oc2VsZi5zdHVkZW50X2lkcykKICAgICAgICAjcmV0dXJuIDEKCiAgICBkZWYgX19nZXRpdGVtX18oc2VsZiwgaWR4KToKICAgICAgICByZXR1cm4gc2VsZi50YXJnZXRfZGF0YVtpZHgsIDosIDosIDpdLnRvKHNlbGYuZGV2aWNlKSxcCiAgICAgICAgICAgIHNlbGYudGFyZ2V0X21hc2tbaWR4LCA6LCA6LCA6XS50byhzZWxmLmRldmljZSksXAogICAgICAgICAgICBzZWxmLnN0YXRpY19kYXRhW2lkeCBpZiBzZWxmLnN0YXRpY19kYXRhLnNpemUoKVswXSA+IDAgZWxzZSBOb25lXSxcCiAgICAgICAgICAgIHNlbGYuYW5jaG9yX3RhcmdldF9kYXRhW2lkeCBpZiBzZWxmLmFuY2hvcl90YXJnZXRfZGF0YS5zaXplKClbMF0gPiAwIGVsc2UgTm9uZV0udG8oc2VsZi5kZXZpY2UpLFwKICAgICAgICAgICAgc2VsZi5hbmNob3JfdGFyZ2V0X21hc2tbaWR4IGlmIHNlbGYuYW5jaG9yX3RhcmdldF9tYXNrLnNpemUoKVswXSA+IDAgZWxzZSBOb25lXS50byhzZWxmLmRldmljZSksXAogICAgICAgICAgICBzZWxmLmFuY2hvcl9zdGF0aWNfZGF0YVtpZHggaWYgc2VsZi5hbmNob3Jfc3RhdGljX2RhdGEuc2l6ZSgpWzBdID4gMCBlbHNlIE5vbmVdLnRvKHNlbGYuZGV2aWNlKSxcCiAgICAgICAgICAgIHNlbGYuc3R1ZGVudF9pZHNbaWR4XSxcCiAgICAgICAgICAgIHNlbGYuY2Vuc29yX2lkcyBpZiBzZWxmLmNlbnNvcl9pZHMgZWxzZSBbXQo=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAjIHJldHVybiAxCg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGRlZiBfX2dldGl0ZW1fXyhzZWxmLCBfKTogcmV0dXJuICgKICAgICAgICAgICAgc2VsZi50YXJnZXRfZGF0YS50byhzZWxmLmRldmljZSksCiAgICAgICAgICAgIHNlbGYudGFyZ2V0X21hc2sudG8oc2VsZi5kZXZpY2UpLAogICAgICAgICAgICBzZWxmLnN0YXRpY19kYXRhLAogICAgICAgICAgICBzZWxmLmFuY2hvcl90YXJnZXRfZGF0YS50byhzZWxmLmRldmljZSksCiAgICAgICAgICAgIHNlbGYuYW5jaG9yX3RhcmdldF9tYXNrLnRvKHNlbGYuZGV2aWNlKSwKICAgICAgICAgICAgc2VsZi5hbmNob3Jfc3RhdGljX2RhdGEudG8oc2VsZi5kZXZpY2UpLAogICAgICAgICAgICBzZWxmLnN0dWRlbnRfaWRzLAogICAgICAgICAgICBzZWxmLmNlbnNvcl9pZHMgaWYgc2VsZi5jZW5zb3JfaWRzIGVsc2UgW10sCiAgICAgICAgKQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAjIHJldHVybiAxCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbGVuKHNlbGYuc3R1ZGVudF9pZHMpCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAjIHJldHVybiAxCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CiAgICBkZWYgX19nZXRpdGVtX18oc2VsZiwgaWR4KToKICAgICAgICByZXR1cm4gKAogICAgICAgICAgICBzZWxmLnRhcmdldF9kYXRhW2lkeCwgOiwgOiwgOl0udG8oc2VsZi5kZXZpY2UpLAogICAgICAgICAgICBzZWxmLnRhcmdldF9tYXNrW2lkeCwgOiwgOiwgOl0udG8oc2VsZi5kZXZpY2UpLAogICAgICAgICAgICBzZWxmLnN0YXRpY19kYXRhW2lkeCBpZiBzZWxmLnN0YXRpY19kYXRhLnNpemUoKVswXSA+IDAgZWxzZSBOb25lXSwKICAgICAgICAgICAgc2VsZi5hbmNob3JfdGFyZ2V0X2RhdGFbaWR4IGlmIHNlbGYuYW5jaG9yX3RhcmdldF9kYXRhLnNpemUoKVswXSA+IDAgZWxzZSBOb25lXS50byhzZWxmLmRldmljZSksCiAgICAgICAgICAgIHNlbGYuYW5jaG9yX3RhcmdldF9tYXNrW2lkeCBpZiBzZWxmLmFuY2hvcl90YXJnZXRfbWFzay5zaXplKClbMF0gPiAwIGVsc2UgTm9uZV0udG8oc2VsZi5kZXZpY2UpLAogICAgICAgICAgICBzZWxmLmFuY2hvcl9zdGF0aWNfZGF0YVtpZHggaWYgc2VsZi5hbmNob3Jfc3RhdGljX2RhdGEuc2l6ZSgpWzBdID4gMCBlbHNlIE5vbmVdLnRvKHNlbGYuZGV2aWNlKSwKICAgICAgICAgICAgc2VsZi5zdHVkZW50X2lkc1tpZHhdLAogICAgICAgICAgICBzZWxmLmNlbnNvcl9pZHMgaWYgc2VsZi5jZW5zb3JfaWRzIGVsc2UgW10sCiAgICAgICAgKQo=</text>
+      </register>
+      <register name="8" type="8">
+        <text>.to(self.device)
+.to(self.device)</text>
+      </register>
+      <register name="9" type="8">
+        <text encoding="base64">W2lkeCBpZiBzZWxmLmFuY2hvcl90YXJnZXRfZGF0YS5zaXplKClbMF0gPiAwIGVsc2UgTm9uZV0udG8oc2VsZi5kZXZpY2UpCltpZHggaWYgc2VsZi5hbmNob3JfdGFyZ2V0X21hc2suc2l6ZSgpWzBdID4gMCBlbHNlIE5vbmVdLnRvKHNlbGYuZGV2aWNlKQpbaWR4IGlmIHNlbGYuYW5jaG9yX3N0YXRpY19kYXRhLnNpemUoKVswXSA+IDAgZWxzZSBOb25lXS50byhzZWxmLmRldmljZSk=</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-search>collate_fn</last-search>
+      <last-offset />
+      <last-pattern>collate_fn</last-pattern>
+      <last-replace>self.batch_size</last-replace>
+      <last-substitute>batch_size</last-substitute>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+  </component>
+</application>

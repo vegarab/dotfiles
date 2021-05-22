@@ -1,0 +1,75 @@
+pytorch.cuda.is_available()
+-. . -..- - / . -. - .-. -.--
+torch.cuda.is_available()
+-. . -..- - / . -. - .-. -.--
+outputs
+-. . -..- - / . -. - .-. -.--
+outputs.shape
+-. . -..- - / . -. - .-. -.--
+outputs.size
+-. . -..- - / . -. - .-. -.--
+outputs.size()
+-. . -..- - / . -. - .-. -.--
+outputs[0]
+-. . -..- - / . -. - .-. -.--
+outputs[0].size()
+-. . -..- - / . -. - .-. -.--
+model(**batch)
+-. . -..- - / . -. - .-. -.--
+logits.shape
+-. . -..- - / . -. - .-. -.--
+logits.softmax(0)
+-. . -..- - / . -. - .-. -.--
+logits.softmax(0).argmax()
+-. . -..- - / . -. - .-. -.--
+logits.softmax()
+-. . -..- - / . -. - .-. -.--
+logits.softmax()1
+-. . -..- - / . -. - .-. -.--
+logits.softmax(1)
+-. . -..- - / . -. - .-. -.--
+logits[0].argmax()
+-. . -..- - / . -. - .-. -.--
+logits.argmax()
+-. . -..- - / . -. - .-. -.--
+logits.argmax(1)
+-. . -..- - / . -. - .-. -.--
+logits.softmax().argmax(1)
+-. . -..- - / . -. - .-. -.--
+logits.softmax(0).argmax(1)
+-. . -..- - / . -. - .-. -.--
+logits.softmax(1).argmax(1)
+-. . -..- - / . -. - .-. -.--
+import torch
+-. . -..- - / . -. - .-. -.--
+a = torch.empty(10)
+-. . -..- - / . -. - .-. -.--
+a
+-. . -..- - / . -. - .-. -.--
+b = torch.empty(10)
+-. . -..- - / . -. - .-. -.--
+a.cuda()
+-. . -..- - / . -. - .-. -.--
+b.cuda()
+-. . -..- - / . -. - .-. -.--
+a * b
+-. . -..- - / . -. - .-. -.--
+exit()
+-. . -..- - / . -. - .-. -.--
+logits
+-. . -..- - / . -. - .-. -.--
+predictions.extend(list(pre))
+-. . -..- - / . -. - .-. -.--
+predictions.extend(list(pred))
+-. . -..- - / . -. - .-. -.--
+list(pred)
+-. . -..- - / . -. - .-. -.--
+predictions
+-. . -..- - / . -. - .-. -.--
+pred.item
+-. . -..- - / . -. - .-. -.--
+pred
+-. . -..- - / . -. - .-. -.--
+pred.item()
+-. . -..- - / . -. - .-. -.--
+pred.tolist()

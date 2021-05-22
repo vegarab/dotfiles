@@ -1,0 +1,446 @@
+<application>
+  <component name="VimHistorySettings">
+    <history>
+      <history-search>
+        <entry>tokenizer</entry>
+        <entry>get_parameter</entry>
+        <entry>response_ingested</entry>
+        <entry>irt_value</entry>
+        <entry>elemntwise</entry>
+        <entry>elementwise</entry>
+        <entry>section_level = True</entry>
+        <entry>dist</entry>
+        <entry>\%sql</entry>
+        <entry>%sql</entry>
+        <entry>sql</entry>
+        <entry>filter</entry>
+        <entry encoding="base64">Pj4=</entry>
+        <entry>===</entry>
+        <entry>COMMAND</entry>
+        <entry>No items could bef ound</entry>
+        <entry>No items could be found</entry>
+        <entry encoding="base64">XDxleGNlcHRpb25zXD4=</entry>
+        <entry>es</entry>
+        <entry>sink_branch_config</entry>
+        <entry>map</entry>
+        <entry>map(str</entry>
+        <entry>seleect</entry>
+        <entry>torch.save</entry>
+        <entry>#</entry>
+        <entry>init_script</entry>
+        <entry>aws_attributes</entry>
+        <entry>arn_aws_role</entry>
+        <entry>args</entry>
+        <entry>DEPENDENCIES</entry>
+        <entry>library_client</entry>
+        <entry>libraries</entry>
+        <entry>libraries = []</entry>
+        <entry>arn_aws</entry>
+        <entry>Removing libraries</entry>
+        <entry>arn</entry>
+        <entry>get_wheel</entry>
+        <entry>base_workspace_path</entry>
+        <entry>optimization</entry>
+        <entry>optimization_diagnostics</entry>
+        <entry>audio_stitching</entry>
+        <entry>make_final_output</entry>
+        <entry>lambda_timeout_handler</entry>
+        <entry>invocation_id</entry>
+        <entry>signal</entry>
+        <entry>email</entry>
+        <entry>model</entry>
+        <entry>sess</entry>
+        <entry>weights</entry>
+        <entry>num_layers</entry>
+      </history-search>
+      <history-cmd>
+        <entry>%s/.__cfmodule/.cfmodule/g</entry>
+        <entry>w]</entry>
+        <entry>%s/self.num_students/self.data.num_students/g</entry>
+        <entry>%s/self.num_censors/self.data.num_censors/g</entry>
+        <entry>%s/self.__static_data/self.static_data/g</entry>
+        <entry>%s/self.__target/self.target/g</entry>
+        <entry>178,187s/self.target_data/target_data_copy/g</entry>
+        <entry>149,190s/self.max_categories_per_item/max_categories_per_item/g</entry>
+        <entry>149,190s/self.max_categories/max_categories/g</entry>
+        <entry>%s/self.__max_categories_per_item/self.max_categories_per_item/g</entry>
+        <entry>861,1216s/self.item_ids/item_ids/g</entry>
+        <entry>321,330s/self.student_ids/student_ids</entry>
+        <entry>602,665s/batch_size/self.batch_size/</entry>
+        <entry>%s/&quot;tests&quot;, &quot;scenarios/loft&quot;/SCENARIO_PATH/g</entry>
+        <entry>%s/\&quot;tests\&quot;, \&quot;scenario\/loft\&quot;/SCENARIO_PATH/g</entry>
+        <entry>%s/\&quot;tests\&quot;\, \&quot;scenarios\/loft\&quot;\g</entry>
+        <entry>%s/\&quot;tests\&quot;\, \&quot;scenarios\/loft\&quot;/SCENARIO_PATH/g</entry>
+        <entry>%s/\&quot;tests\&quot;\, \&quot;scenarios\/constraints\&quot;/SCENARIO_PATH/g</entry>
+        <entry>%s/\&quot;tests\&quot;\, \&quot;scenarios\/item_banks\&quot;/ITEM_BANK_PATH/g</entry>
+        <entry>%s/\&quot;tests\&quot;\, \&quot;scenarios\/cat\&quot;/utc.SCENARIO.CAT/g</entry>
+        <entry>%s/SCENARIO_PATH/utc.SCENARIO.LOFT/g</entry>
+        <entry>%s/SCENARIO_PATH/utc.SCENARIO.CONSTRAINTS/g</entry>
+        <entry>%s/ITEM_BANK_PATH/utc.SCENARIO.ITEM_BANKS/g</entry>
+        <entry>%s/\&quot;tests\&quot;\, utc.SCENARIO.ABILITY/utc.SCENARIO.ABILITY/g</entry>
+        <entry>%s/__target_mask/target_mask/g</entry>
+        <entry>%s/__target_data/target_data/g</entry>
+        <entry>%s/__max_categories_per_item/max_categories_per_item/g</entry>
+        <entry>w4</entry>
+        <entry>{w</entry>
+        <entry>%s/__static_data/static_data/g</entry>
+        <entry>Lw</entry>
+        <entry>&quot;w</entry>
+        <entry>%s/NDArray/np.ndarray/g</entry>
+        <entry>%s/Float64/np.float/g</entry>
+        <entry>%s/atc_loft_output_schema/atc_output_schema/g</entry>
+        <entry>%s/loft_output_history_raw/atc_output_history_raw/g</entry>
+        <entry>%s/job.name/job[&quot;name&quot;]/g</entry>
+        <entry>%s/row_timestamp/result_timestamp/g</entry>
+        <entry>q</entry>
+        <entry>Wq</entry>
+        <entry>WE</entry>
+        <entry>wq</entry>
+        <entry>w\</entry>
+        <entry>%s/\%sql/\%\%sql/g</entry>
+        <entry>%s/%sql/%%sql/g</entry>
+        <entry>W\</entry>
+        <entry>qa</entry>
+        <entry>set clipboard+=unnamed</entry>
+        <entry>w</entry>
+        <entry>W</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/dev/rnd-research/object_detection/tensorflow/models/research/object_detection/exporter.py" timestamp="1617472730900">
+        <mark key="'" line="534" column="29" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1617023060229">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/ATC/inspera_atc/cat/lambda_handler.py" timestamp="1616593057322">
+        <mark key="'" line="254" column="39" />
+        <mark key="[" line="146" column="30" />
+        <mark key="]" line="146" column="35" />
+        <mark key="^" line="146" column="35" />
+        <mark key="." line="146" column="34" />
+      </file>
+      <file name="/Python Console" timestamp="1617471738209">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="32" />
+        <mark key="^" line="0" column="32" />
+        <mark key="." line="0" column="31" />
+      </file>
+      <file name="$USER_HOME$/dev/rnd-research/object_detection/tensorflow/models/research/object_detection/model_main.py" timestamp="1617481586208">
+        <mark key="'" line="94" column="51" />
+        <mark key="[" line="102" column="109" />
+        <mark key="]" line="102" column="122" />
+        <mark key="^" line="102" column="122" />
+        <mark key="." line="102" column="121" />
+      </file>
+      <file name="$USER_HOME$/dev/rnd-research/object_detection/create_frozen_graph.py" timestamp="1617096084048">
+        <mark key="'" line="8" column="23" />
+        <mark key="[" line="5" column="66" />
+        <mark key="]" line="5" column="66" />
+        <mark key="^" line="5" column="65" />
+        <mark key="." line="5" column="66" />
+      </file>
+      <file name="$USER_HOME$/dev/ATC/deploy_lambda.py" timestamp="1616597552988">
+        <mark key="a" line="611" column="0" />
+        <mark key="[" line="611" column="0" />
+        <mark key="]" line="611" column="1" />
+        <mark key="^" line="611" column="1" />
+        <mark key="." line="611" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/ATC/inspera_atc/utils/lambda_handler_utils.py" timestamp="1616593421328">
+        <mark key="e" line="564" column="75" />
+        <mark key="'" line="146" column="56" />
+        <mark key="[" line="564" column="111" />
+        <mark key="]" line="564" column="255" />
+        <mark key="^" line="564" column="255" />
+        <mark key="." line="564" column="254" />
+      </file>
+      <file name="$USER_HOME$/dev/ATC/inspera_atc/datahub.py" timestamp="1616584314832">
+        <mark key="'" line="336" column="25" />
+        <mark key="[" line="411" column="0" />
+        <mark key="]" line="411" column="0" />
+        <mark key="." line="411" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/rnd-research/object_detection/tensorflow/models/research/object_detection/model_main_tf2.py" timestamp="1617107285698">
+        <mark key="'" line="103" column="27" />
+      </file>
+      <file name="$USER_HOME$/dev/ATC/tests/test_cat_lambda_handler.py" timestamp="1616584003131">
+        <mark key="'" line="469" column="61" />
+      </file>
+      <file name="$USER_HOME$/dev/rnd-research/object_detection/tensorflow/models/research/object_detection/model_lib_v2.py" timestamp="1616774979287">
+        <mark key="'" line="450" column="18" />
+      </file>
+      <file name="$USER_HOME$/dev/rnd-research/object_detection/venv/lib/python3.8/site-packages/object_detection/model_lib.py" timestamp="1617474163003" />
+      <file name="$USER_HOME$/dev/rnd-research/object_detection/load_and_save.py" timestamp="1616776055669">
+        <mark key="'" line="11" column="26" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="22" column="44" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/ATC/schemas/AtcOutput.schema.json" timestamp="1616588580531">
+        <mark key="'" line="139" column="18" />
+      </file>
+      <file name="$USER_HOME$/dev/rnd-research/object_detection/tensorflow/models/research/object_detection/export_inference_graph.py" timestamp="1617018332290">
+        <mark key="'" line="194" column="21" />
+      </file>
+      <file name="$USER_HOME$/dev/rnd-research/object_detection/tf_text_graph_ssd.py" timestamp="1617096491002">
+        <mark key="[" line="234" column="4" />
+        <mark key="]" line="234" column="5" />
+        <mark key="." line="234" column="4" />
+        <mark key="^" line="234" column="5" />
+      </file>
+      <file name="$USER_HOME$/dev/CTT_IRT/deploy_databricks.py" timestamp="1616513943867">
+        <mark key="'" line="257" column="4" />
+        <mark key="[" line="271" column="0" />
+        <mark key="]" line="271" column="0" />
+        <mark key="." line="271" column="0" />
+        <mark key="^" line="424" column="41" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="367" column="4" filename="$USER_HOME$/dev/CTT_IRT/deploy_databricks.py" />
+      <jump line="380" column="4" filename="$USER_HOME$/dev/CTT_IRT/deploy_databricks.py" />
+      <jump line="439" column="16" filename="$USER_HOME$/dev/CTT_IRT/deploy_databricks.py" />
+      <jump line="592" column="76" filename="$USER_HOME$/dev/CTT_IRT/deploy_databricks.py" />
+      <jump line="267" column="4" filename="$USER_HOME$/dev/CTT_IRT/deploy_databricks.py" />
+      <jump line="770" column="0" filename="$USER_HOME$/dev/CTT_IRT/deploy_databricks.py" />
+      <jump line="190" column="26" filename="$USER_HOME$/dev/CTT_IRT/deploy_databricks.py" />
+      <jump line="187" column="4" filename="$USER_HOME$/dev/CTT_IRT/deploy_databricks.py" />
+      <jump line="588" column="47" filename="$USER_HOME$/dev/CTT_IRT/deploy_databricks.py" />
+      <jump line="763" column="56" filename="$USER_HOME$/dev/CTT_IRT/deploy_databricks.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/CTT_IRT/deploy_databricks.py" />
+      <jump line="519" column="11" filename="$USER_HOME$/dev/CTT_IRT/deploy_databricks.py" />
+      <jump line="522" column="69" filename="$USER_HOME$/dev/CTT_IRT/deploy_databricks.py" />
+      <jump line="616" column="15" filename="$USER_HOME$/dev/CTT_IRT/deploy_databricks.py" />
+      <jump line="619" column="85" filename="$USER_HOME$/dev/CTT_IRT/deploy_databricks.py" />
+      <jump line="720" column="27" filename="$USER_HOME$/dev/CTT_IRT/deploy_databricks.py" />
+      <jump line="766" column="12" filename="$USER_HOME$/dev/CTT_IRT/deploy_databricks.py" />
+      <jump line="737" column="8" filename="$USER_HOME$/dev/CTT_IRT/deploy_databricks.py" />
+      <jump line="345" column="12" filename="$USER_HOME$/dev/CTT_IRT/deploy_databricks.py" />
+      <jump line="218" column="23" filename="$USER_HOME$/dev/CTT_IRT/deploy_databricks.py" />
+      <jump line="269" column="4" filename="$USER_HOME$/dev/CTT_IRT/deploy_databricks.py" />
+      <jump line="534" column="0" filename="$USER_HOME$/dev/CTT_IRT/deploy_databricks.py" />
+      <jump line="531" column="28" filename="$USER_HOME$/dev/GIRT/deploy_databricks.py" />
+      <jump line="352" column="12" filename="$USER_HOME$/dev/GIRT/deploy_databricks.py" />
+      <jump line="414" column="24" filename="$USER_HOME$/dev/GIRT/deploy_databricks.py" />
+      <jump line="148" column="4" filename="$USER_HOME$/dev/GIRT/deploy_databricks.py" />
+      <jump line="424" column="40" filename="$USER_HOME$/dev/CTT_IRT/deploy_databricks.py" />
+      <jump line="435" column="24" filename="$USER_HOME$/dev/CTT_IRT/deploy_databricks.py" />
+      <jump line="603" column="28" filename="$USER_HOME$/dev/CTT_IRT/deploy_databricks.py" />
+      <jump line="327" column="0" filename="$USER_HOME$/dev/CTT_IRT/deploy_databricks.py" />
+      <jump line="373" column="12" filename="$USER_HOME$/dev/CTT_IRT/deploy_databricks.py" />
+      <jump line="153" column="8" filename="$USER_HOME$/dev/CTT_IRT/deploy_databricks.py" />
+      <jump line="145" column="66" filename="$USER_HOME$/dev/CTT_IRT/deploy_databricks.py" />
+      <jump line="772" column="0" filename="$USER_HOME$/dev/CTT_IRT/deploy_databricks.py" />
+      <jump line="547" column="20" filename="$USER_HOME$/dev/CTT_IRT/deploy_databricks.py" />
+      <jump line="639" column="20" filename="$USER_HOME$/dev/CTT_IRT/deploy_databricks.py" />
+      <jump line="541" column="58" filename="$USER_HOME$/dev/CTT_IRT/deploy_databricks.py" />
+      <jump line="295" column="69" filename="$USER_HOME$/dev/CTT_IRT/deploy_databricks.py" />
+      <jump line="294" column="51" filename="$USER_HOME$/dev/CTT_IRT/deploy_databricks.py" />
+      <jump line="257" column="4" filename="$USER_HOME$/dev/CTT_IRT/deploy_databricks.py" />
+      <jump line="336" column="25" filename="$USER_HOME$/dev/ATC/inspera_atc/datahub.py" />
+      <jump line="17" column="21" filename="$USER_HOME$/dev/ATC/schemas/AtcOutput.schema.json" />
+      <jump line="116" column="67" filename="$USER_HOME$/dev/ATC/schemas/AtcOutput.schema.json" />
+      <jump line="139" column="18" filename="$USER_HOME$/dev/ATC/schemas/AtcOutput.schema.json" />
+      <jump line="373" column="0" filename="$USER_HOME$/dev/ATC/inspera_atc/utils/lambda_handler_utils.py" />
+      <jump line="144" column="29" filename="$USER_HOME$/dev/ATC/inspera_atc/utils/lambda_handler_utils.py" />
+      <jump line="503" column="56" filename="$USER_HOME$/dev/ATC/inspera_atc/utils/lambda_handler_utils.py" />
+      <jump line="248" column="26" filename="$USER_HOME$/dev/ATC/inspera_atc/cat/lambda_handler.py" />
+      <jump line="237" column="17" filename="$USER_HOME$/dev/ATC/inspera_atc/cat/lambda_handler.py" />
+      <jump line="501" column="8" filename="$USER_HOME$/dev/ATC/inspera_atc/utils/lambda_handler_utils.py" />
+      <jump line="146" column="30" filename="$USER_HOME$/dev/ATC/inspera_atc/cat/lambda_handler.py" />
+      <jump line="253" column="34" filename="$USER_HOME$/dev/ATC/inspera_atc/cat/lambda_handler.py" />
+      <jump line="34" column="73" filename="$USER_HOME$/dev/ATC/inspera_atc/cat/lambda_handler.py" />
+      <jump line="118" column="11" filename="$USER_HOME$/dev/ATC/inspera_atc/utils/lambda_handler_utils.py" />
+      <jump line="117" column="42" filename="$USER_HOME$/dev/ATC/inspera_atc/utils/lambda_handler_utils.py" />
+      <jump line="17" column="7" filename="$USER_HOME$/dev/ATC/inspera_atc/cat/lambda_handler.py" />
+      <jump line="254" column="39" filename="$USER_HOME$/dev/ATC/inspera_atc/cat/lambda_handler.py" />
+      <jump line="542" column="8" filename="$USER_HOME$/dev/ATC/inspera_atc/utils/lambda_handler_utils.py" />
+      <jump line="4" column="7" filename="$USER_HOME$/dev/ATC/inspera_atc/utils/lambda_handler_utils.py" />
+      <jump line="146" column="56" filename="$USER_HOME$/dev/ATC/inspera_atc/utils/lambda_handler_utils.py" />
+      <jump line="349" column="30" filename="$USER_HOME$/dev/rnd-research/object_detection/tensorflow/models/research/object_detection/model_lib_v2.py" />
+      <jump line="363" column="4" filename="$USER_HOME$/dev/rnd-research/object_detection/tensorflow/models/research/object_detection/model_lib_v2.py" />
+      <jump line="373" column="49" filename="$USER_HOME$/dev/rnd-research/object_detection/tensorflow/models/research/object_detection/model_lib_v2.py" />
+      <jump line="374" column="25" filename="$USER_HOME$/dev/rnd-research/object_detection/tensorflow/models/research/object_detection/model_lib_v2.py" />
+      <jump line="376" column="43" filename="$USER_HOME$/dev/rnd-research/object_detection/tensorflow/models/research/object_detection/model_lib_v2.py" />
+      <jump line="390" column="9" filename="$USER_HOME$/dev/rnd-research/object_detection/tensorflow/models/research/object_detection/model_lib_v2.py" />
+      <jump line="391" column="27" filename="$USER_HOME$/dev/rnd-research/object_detection/tensorflow/models/research/object_detection/model_lib_v2.py" />
+      <jump line="393" column="30" filename="$USER_HOME$/dev/rnd-research/object_detection/tensorflow/models/research/object_detection/model_lib_v2.py" />
+      <jump line="435" column="4" filename="$USER_HOME$/dev/rnd-research/object_detection/tensorflow/models/research/object_detection/model_lib_v2.py" />
+      <jump line="445" column="14" filename="$USER_HOME$/dev/rnd-research/object_detection/tensorflow/models/research/object_detection/model_lib_v2.py" />
+      <jump line="450" column="18" filename="$USER_HOME$/dev/rnd-research/object_detection/tensorflow/models/research/object_detection/model_lib_v2.py" />
+      <jump line="28" column="26" filename="$USER_HOME$/dev/rnd-research/object_detection/load_and_save.py" />
+      <jump line="18" column="20" filename="$USER_HOME$/dev/rnd-research/object_detection/tensorflow/models/research/object_detection/exporter.py" />
+      <jump line="174" column="25" filename="$USER_HOME$/dev/rnd-research/object_detection/tensorflow/models/research/object_detection/exporter.py" />
+      <jump line="176" column="25" filename="$USER_HOME$/dev/rnd-research/object_detection/tensorflow/models/research/object_detection/exporter.py" />
+      <jump line="178" column="23" filename="$USER_HOME$/dev/rnd-research/object_detection/tensorflow/models/research/object_detection/exporter.py" />
+      <jump line="366" column="28" filename="$USER_HOME$/dev/rnd-research/object_detection/tensorflow/models/research/object_detection/exporter.py" />
+      <jump line="367" column="18" filename="$USER_HOME$/dev/rnd-research/object_detection/tensorflow/models/research/object_detection/exporter.py" />
+      <jump line="383" column="10" filename="$USER_HOME$/dev/rnd-research/object_detection/tensorflow/models/research/object_detection/exporter.py" />
+      <jump line="401" column="25" filename="$USER_HOME$/dev/rnd-research/object_detection/tensorflow/models/research/object_detection/exporter.py" />
+      <jump line="404" column="20" filename="$USER_HOME$/dev/rnd-research/object_detection/tensorflow/models/research/object_detection/exporter.py" />
+      <jump line="103" column="27" filename="$USER_HOME$/dev/rnd-research/object_detection/tensorflow/models/research/object_detection/model_main_tf2.py" />
+      <jump line="194" column="21" filename="$USER_HOME$/dev/rnd-research/object_detection/tensorflow/models/research/object_detection/export_inference_graph.py" />
+      <jump line="29" column="58" filename="$USER_HOME$/dev/rnd-research/object_detection/tf_text_graph_ssd.py" />
+      <jump line="242" column="4" filename="$USER_HOME$/dev/rnd-research/object_detection/tf_text_graph_ssd.py" />
+      <jump line="282" column="16" filename="$USER_HOME$/dev/rnd-research/object_detection/tf_text_graph_ssd.py" />
+      <jump line="306" column="19" filename="$USER_HOME$/dev/rnd-research/object_detection/tf_text_graph_ssd.py" />
+      <jump line="299" column="33" filename="$USER_HOME$/dev/rnd-research/object_detection/tf_text_graph_ssd.py" />
+      <jump line="119" column="35" filename="$USER_HOME$/dev/rnd-research/object_detection/tf_text_graph_ssd.py" />
+      <jump line="274" column="23" filename="$USER_HOME$/dev/rnd-research/object_detection/tf_text_graph_ssd.py" />
+      <jump line="250" column="54" filename="$USER_HOME$/dev/rnd-research/object_detection/tf_text_graph_ssd.py" />
+      <jump line="8" column="23" filename="$USER_HOME$/dev/rnd-research/object_detection/create_frozen_graph.py" />
+      <jump line="97" column="19" filename="$USER_HOME$/dev/rnd-research/object_detection/tensorflow/models/research/object_detection/model_main.py" />
+      <jump line="103" column="64" filename="$USER_HOME$/dev/rnd-research/object_detection/tensorflow/models/research/object_detection/model_main.py" />
+      <jump line="467" column="63" filename="$USER_HOME$/dev/rnd-research/object_detection/tensorflow/models/research/object_detection/exporter.py" />
+      <jump line="533" column="6" filename="$USER_HOME$/dev/rnd-research/object_detection/tensorflow/models/research/object_detection/exporter.py" />
+      <jump line="418" column="24" filename="$USER_HOME$/dev/rnd-research/object_detection/tensorflow/models/research/object_detection/exporter.py" />
+      <jump line="410" column="4" filename="$USER_HOME$/dev/rnd-research/object_detection/tensorflow/models/research/object_detection/exporter.py" />
+      <jump line="534" column="29" filename="$USER_HOME$/dev/rnd-research/object_detection/tensorflow/models/research/object_detection/exporter.py" />
+      <jump line="94" column="51" filename="$USER_HOME$/dev/rnd-research/object_detection/tensorflow/models/research/object_detection/model_main.py" />
+    </jumps>
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="&quot;" type="4">
+        <text>trottle_secs</text>
+      </register>
+      <register name="f" type="4">
+        <keys>
+          <key char="73" code="0" mods="0" />
+          <key char="34" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65" code="0" mods="0" />
+          <key char="34" code="0" mods="0" />
+          <key char="44" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+        </keys>
+      </register>
+      <register name="*" type="2">
+        <text encoding="base64">ZnJvbSBvYmplY3RfZGV0ZWN0aW9uLnV0aWxzIGltcG9ydCB2aXN1YWxpemF0aW9uX3V0aWxzIGFzIHZpel91dGlscwo=</text>
+      </register>
+      <register name="-" type="4">
+        <text>trottle_secs</text>
+      </register>
+      <register name="/" type="4">
+        <text>num_layers</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAjIEluc3RhbGwgZGVwZW5kZW5jaWVzCiAgICAgICAgZm9yIGRlcGVuZGVuY3kgaW4gZGVwZW5kZW5jaWVzLkRFUEVOREVOQ0lFUzoKCiAgICAgICAgICAgIGlmICJyZXF1aXJlZF9mb3Jfam9icyIgaW4gZGVwZW5kZW5jeVsyXS5rZXlzKCkgYW5kIHNldChqb2JzX3RvX2RlcGxveSkuaXNkaXNqb2ludCgKICAgICAgICAgICAgICAgIGRlcGVuZGVuY3lbMl1bInJlcXVpcmVkX2Zvcl9qb2JzIl0KICAgICAgICAgICAgKToKICAgICAgICAgICAgICAgIGNvbnRpbnVlCgogICAgICAgICAgICBpZiBkZXBlbmRlbmN5WzFdIGlzIG5vdCBOb25lIG9yICgKICAgICAgICAgICAgICAgICJkYXRhYnJpY2tzX2RlcGxveV9tZXRob2QiIGluIGRlcGVuZGVuY3lbMl0ua2V5cygpCiAgICAgICAgICAgICAgICBhbmQgZGVwZW5kZW5jeVsyXVsiZGF0YWJyaWNrc19kZXBsb3lfbWV0aG9kIl0gaW4gWyJ3aGVlbCJdCiAgICAgICAgICAgICk6CiAgICAgICAgICAgICAgICAjIEN1c3RvbSB3aGVlbCBidWlsdCBpbiBkb2NrZXIKICAgICAgICAgICAgICAgIGxpYnJhcnkgPSB7fQogICAgICAgICAgICAgICAgd2hlZWwgPSBnZXRfd2hlZWwoYmFzZV9kaXN0X3BhdGgsIGRlcGVuZGVuY3lbMF0pCiAgICAgICAgICAgICAgICBsaWJyYXJ5WyJ3aGwiXSA9IGJhc2VfZGJmc19wYXRoICsgb3MucGF0aC5iYXNlbmFtZSh3aGVlbCkKICAgICAgICAgICAgICAgIHdpdGggb3Blbih3aGVlbCwgInJiIikgYXMgaW5fZmlsZToKICAgICAgICAgICAgICAgICAgICB1cGxvYWRfdG9fZGJmcyhkYmZzX2NsaWVudCwgbGlicmFyeVsid2hsIl0sIGluX2ZpbGUucmVhZCgpKQogICAgICAgICAgICAgICAgbGlicmFyaWVzLmFwcGVuZChsaWJyYXJ5KQogICAgICAgICAgICBlbHNlOgogICAgICAgICAgICAgICAgIyBJbnN0YWxsIGZyb20gcHlwaQogICAgICAgICAgICAgICAgbGlicmFyeSA9IHsicHlwaSI6IHsicGFja2FnZSI6IGRlcGVuZGVuY3lbMF19fQogICAgICAgICAgICAgICAgbGlicmFyaWVzLmFwcGVuZChsaWJyYXJ5KQo=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIHByaW50KGdyYXBoX2RlZi5ub2RlWzBdLm9wKQo=</text>
+      </register>
+      <register name="q" type="4">
+        <text />
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ZnJvbSBvYmplY3RfZGV0ZWN0aW9uLnV0aWxzIGltcG9ydCB2aXN1YWxpemF0aW9uX3V0aWxzIGFzIHZpel91dGlscwo=</text>
+      </register>
+      <register name="r" type="4">
+        <keys>
+          <key char="73" code="0" mods="0" />
+          <key char="34" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65" code="0" mods="0" />
+          <key char="34" code="0" mods="0" />
+          <key char="44" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+        </keys>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ZnJvbSBvYmplY3RfZGV0ZWN0aW9uLnV0aWxzIGltcG9ydCBsYWJlbF9tYXBfdXRpbAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ZnJvbSBvYmplY3RfZGV0ZWN0aW9uLnV0aWxzIGltcG9ydCBjb25maWdfdXRpbAo=</text>
+      </register>
+      <register name="t" type="4">
+        <keys>
+          <key char="65535" code="27" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="34" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="61" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="34" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="58" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="44" code="0" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="73" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="108" code="0" mods="0" />
+        </keys>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ZnJvbSBvYmplY3RfZGV0ZWN0aW9uLnV0aWxzIGltcG9ydCBjb2xhYl91dGlscwo=</text>
+      </register>
+      <register name="u" type="4">
+        <keys>
+          <key char="65535" code="27" mods="0" />
+          <key char="117" code="0" mods="0" />
+        </keys>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">aW1wb3J0IG1hdHBsb3RsaWIKaW1wb3J0IG1hdHBsb3RsaWIucHlwbG90IGFzIHBsdAo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">aW1wb3J0IHJhbmRvbQppbXBvcnQgaW8KaW1wb3J0IGltYWdlaW8KaW1wb3J0IGdsb2IKaW1wb3J0IHNjaXB5Lm1pc2MKaW1wb3J0IG51bXB5IGFzIG5wCmZyb20gc2l4IGltcG9ydCBCeXRlc0lPCmZyb20gUElMIGltcG9ydCBJbWFnZSwgSW1hZ2VEcmF3LCBJbWFnZUZvbnQKZnJvbSBJUHl0aG9uLmRpc3BsYXkgaW1wb3J0IGRpc3BsYXksIEphdmFzY3JpcHQKZnJvbSBJUHl0aG9uLmRpc3BsYXkgaW1wb3J0IEltYWdlIGFzIElQeUltYWdlCg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">bW9kZWxfZGlyID0gJ21vZGVscy9yZXNlYXJjaC9vYmplY3RfZGV0ZWN0aW9uL3Rlc3RfZGF0YS9jaGVja3BvaW50LycK</text>
+      </register>
+      <register name="y" type="4">
+        <keys>
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="113" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+        </keys>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-search>num_layers</last-search>
+      <last-offset />
+      <last-pattern>num_layers</last-pattern>
+      <last-replace>%%sql</last-replace>
+      <last-substitute>%sql</last-substitute>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+  </component>
+</application>

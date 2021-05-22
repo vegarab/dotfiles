@@ -32,6 +32,7 @@
 !.config/Scripts/
 !.config/rofi/
 !.config/nvim/
+!.config/JetBrains/
 
 
 !.config/wall.png

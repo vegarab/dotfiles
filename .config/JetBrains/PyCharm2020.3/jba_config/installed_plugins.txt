@@ -1,0 +1,11 @@
+IdeaVIM
+Key Promoter X
+Org4Idea
+com.chrisrm.idea.MaterialThemeUI
+com.vincentp.gruvbox-theme
+com.jetbrains.codeWithMe
+org.toml.lang
+R4Intellij
+aws.toolkit
+ru.meanmail.plugin.requirements
+org.intellij.plugins.hcl

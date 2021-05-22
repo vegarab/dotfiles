@@ -1,0 +1,537 @@
+<project version="4">
+  <component name="FavoritesManager">
+    <favorites_list name="GIRT" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/new_tests/test_inspera_girt/test_girt_dataset.py" />
+        <option value="$PROJECT_DIR$/../CTT_IRT/docker_databricks/Dockerfile" />
+        <option value="$PROJECT_DIR$/../dataflow/deploy.py" />
+        <option value="$PROJECT_DIR$/../dataflow/dependencies.py" />
+        <option value="$PROJECT_DIR$/../CTT_IRT/inspera_data_ingestion/constants.py" />
+        <option value="$PROJECT_DIR$/../dataflow/inspera_dataflow/commons.py" />
+        <option value="$PROJECT_DIR$/../dataflow/inspera_dataflow/utils/_es_utils.py" />
+        <option value="$PROJECT_DIR$/../dataflow/notebooks/third_party_integrations/kikora/kikora_delta_lake_management.py" />
+        <option value="$PROJECT_DIR$/../CTT_IRT/inspera_data_ingestion/dataframe_utils.py" />
+        <option value="$PROJECT_DIR$/../CTT_IRT/inspera_ctt/ctt_distractor_estimation_utils.py" />
+        <option value="$PROJECT_DIR$/../CTT_IRT/inspera_ctt/ctt_question_estimation_utils.py" />
+        <option value="$PROJECT_DIR$/../CTT_IRT/inspera_ctt/ctt_question_set_estimation_utils.py" />
+        <option value="$PROJECT_DIR$/../CTT_IRT/inspera_irt/irt_utils.py" />
+        <option value="$PROJECT_DIR$/../CTT_IRT/inspera_logger/test_logger.py" />
+        <option value="$PROJECT_DIR$/../CTT_IRT/notebooks/CTT.py" />
+        <option value="$PROJECT_DIR$/../CTT_IRT/tests/test_common_utils/test_dataframe_utils.py" />
+        <option value="$PROJECT_DIR$/../CTT_IRT/tests/test_ctt/test_ctt_crunch.py" />
+        <option value="$PROJECT_DIR$/../CTT_IRT/tests/test_ctt/test_ctt_scenarios.py" />
+        <option value="$PROJECT_DIR$/../CTT_IRT/notebooks/IRT.py" />
+        <option value="$PROJECT_DIR$/../dataflow/notebooks/data_ingestion/data_ingestion_table_management.py" />
+        <option value="$PROJECT_DIR$/../test-databricks-connect/db-utils/__init__.py" />
+        <option value="$PROJECT_DIR$/../test-databricks-connect/db-utils/test-notebook.py" />
+        <option value="$PROJECT_DIR$/../test-databricks-connect/test-notebook.py" />
+        <option value="$PROJECT_DIR$/../test-databricks-connect/db_utils/__init__.py" />
+        <option value="$PROJECT_DIR$/../dataflow/setup.py" />
+        <option value="$PROJECT_DIR$/../dataflow/requirements.txt" />
+        <option value="$PROJECT_DIR$/../dataflow/.gitignore" />
+        <option value="$PROJECT_DIR$/../dataflow/dictate.yaml" />
+        <option value="$PROJECT_DIR$/../dataflow/notebooks/benchmark/benchmarking.ipynb" />
+        <option value="$PROJECT_DIR$/../dataflow/notebooks/data_ingestion/data_ingestion_table_management.ipynb" />
+        <option value="$PROJECT_DIR$/../dataflow/notebooks/item_bank/item_bank_table_management.ipynb" />
+        <option value="$PROJECT_DIR$/../dataflow/jupytext.toml" />
+        <option value="$PROJECT_DIR$/../dataflow/.pre-commit-config.yaml" />
+        <option value="$PROJECT_DIR$/../dataflow/pyproject.toml" />
+        <option value="$PROJECT_DIR$/../dataflow/notebooks/benchmark/benchmarking.py" />
+        <option value="$PROJECT_DIR$/../dataflow/notebooks/data_ingestion/es_irt_value.py" />
+        <option value="$PROJECT_DIR$/../dataflow/notebooks/data_ingestion/es_item_stats.py" />
+        <option value="$PROJECT_DIR$/../dataflow/notebooks/data_ingestion/es_mappings.py" />
+        <option value="$PROJECT_DIR$/../dataflow/notebooks/data_ingestion/es_streaming.py" />
+        <option value="$PROJECT_DIR$/../dataflow/notebooks/tests/content_response_data_ingestion_test.py" />
+        <option value="$PROJECT_DIR$/../dataflow/notebooks/tests/es_ingestion_test.py" />
+        <option value="$PROJECT_DIR$/../dataflow/notebooks/synthetic_data/es_psychometrics_data.py" />
+        <option value="$PROJECT_DIR$/../dataflow/notebooks/data_ingestion/es_utils.py" />
+        <option value="$PROJECT_DIR$/../ATC/inspera_atc/datahub.py" />
+        <option value="$PROJECT_DIR$/../dataflow/notebooks/copy_irt.py" />
+        <option value="$PROJECT_DIR$/../dataflow/inspera_dataflow/copy_irt_values.py" />
+        <option value="$PROJECT_DIR$/../CTT_IRT/init_scripts/IRT_API-stage_env_variables.sh" />
+        <option value="$PROJECT_DIR$/../CTT_IRT/init_scripts/IRT_API-dev_env_variables.sh" />
+        <option value="$PROJECT_DIR$/../CTT_IRT/init_scripts/IRT_API-prod_env_variables.sh" />
+        <option value="$PROJECT_DIR$/../CTT_IRT/dependencies.py" />
+        <option value="$PROJECT_DIR$/../CTT_IRT/deploy_databricks.py" />
+      </list>
+    </option>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" x="0" y="18" width="1920" height="1062" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="GIRT" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CTT_IRT" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" currentWorkingDirectory="$PROJECT_DIR$/../CTT_IRT" commandHistoryFileName="history-" />
+    </option>
+  </component>
+  <component name="TestHistory">
+    <history-entry file="pytest_for_test_mirt_and_girt_TestMirtGirt_test_benchmark_statistics_students - 2021.02.16 at 10h 13m 12s.xml">
+      <configuration name="pytest for test_mirt_and_girt.TestMirtGirt.test_benchmark_statistics_students" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_test_mirt_and_girt_TestMirtGirt_test_benchmark_statistics_students - 2021.02.16 at 10h 24m 53s.xml">
+      <configuration name="pytest for test_mirt_and_girt.TestMirtGirt.test_benchmark_statistics_students" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_test_mirt_and_girt_TestMirtGirt_test_benchmark_statistics_students - 2021.02.16 at 10h 34m 55s.xml">
+      <configuration name="pytest for test_mirt_and_girt.TestMirtGirt.test_benchmark_statistics_students" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_test_mirt_and_girt_TestMirtGirt_test_benchmark_statistics_students - 2021.02.16 at 10h 35m 20s.xml">
+      <configuration name="pytest for test_mirt_and_girt.TestMirtGirt.test_benchmark_statistics_students" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_test_mirt_and_girt_TestMirtGirt_test_benchmark_statistics_students - 2021.02.16 at 10h 38m 06s.xml">
+      <configuration name="pytest for test_mirt_and_girt.TestMirtGirt.test_benchmark_statistics_students" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_test_inspera_girt_test_girt_dataset_test_data_rescoring - 2021.03.02 at 12h 09m 37s.xml">
+      <configuration name="pytest for test_inspera_girt.test_girt_dataset.test_data_rescoring" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_test_inspera_girt_test_girt_dataset_test_data_rescoring - 2021.03.02 at 12h 09m 47s.xml">
+      <configuration name="pytest for test_inspera_girt.test_girt_dataset.test_data_rescoring" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_test_inspera_girt_test_girt_dataset_test_data_rescoring_with_spark - 2021.03.02 at 12h 10m 13s.xml">
+      <configuration name="pytest for test_inspera_girt.test_girt_dataset.test_data_rescoring_with_spark" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_test_inspera_girt_test_girt_dataset_test_data_rescoring_with_spark - 2021.03.02 at 12h 10m 24s.xml">
+      <configuration name="pytest for test_inspera_girt.test_girt_dataset.test_data_rescoring_with_spark" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_test_inspera_girt_test_girt_dataset_test_data_rescoring - 2021.03.02 at 12h 10m 33s.xml">
+      <configuration name="pytest for test_inspera_girt.test_girt_dataset.test_data_rescoring" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.553719" visible="true" weight="0.19157895" />
+      <window_info id="Structure" order="1" sideWeight="0.446281" side_tool="true" weight="0.20036429" />
+      <window_info id="Commit" order="2" weight="0.3292876" />
+      <window_info id="Pull Requests" order="3" sideWeight="0.4993395" weight="0.32947367" />
+      <window_info id="Learn" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" weight="0.16473684" />
+      <window_info id="aws.explorer" order="6" side_tool="true" weight="0.3298153" />
+      <window_info anchor="bottom" id="Version Control" order="0" weight="0.33299074" />
+      <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.5010526" side_tool="true" weight="0.3264887" />
+      <window_info anchor="bottom" id="Find" order="2" visible="true" weight="0.28160328" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.275154" />
+      <window_info anchor="bottom" id="TODO" order="4" weight="0.32875317" />
+      <window_info anchor="bottom" id="Problems View" order="5" sideWeight="0.49973616" weight="0.15519014" />
+      <window_info anchor="bottom" id="Debug" order="6" weight="0.42240494" />
+      <window_info anchor="bottom" id="Inspection Results" order="7" weight="0.32914045" />
+      <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.2936345" />
+      <window_info anchor="bottom" id="R Console" order="10" weight="0.3299075" />
+      <window_info anchor="bottom" id="Python Console" order="11" sideWeight="0.49894738" weight="0.2412731" />
+      <window_info anchor="bottom" id="R Jobs" order="12" />
+      <window_info anchor="bottom" id="Services" order="13" show_stripe_button="false" />
+      <window_info anchor="right" id="R Tools" order="0" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../dataflow/notebooks/data_ingestion/data_ingestion_utils.ipynb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="21" column="15" lean-forward="true" selection-start-line="21" selection-start-column="15" selection-end-line="21" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../dataflow/notebooks/data_ingestion/delete_item_bank.ipynb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="21" column="15" selection-start-line="21" selection-start-column="15" selection-end-line="21" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../dataflow/notebooks/data_ingestion/enemies_ingestion.ipynb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="23" column="3" selection-start-line="23" selection-start-column="3" selection-end-line="23" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../dataflow/notebooks/data_ingestion/es_irt_value.ipynb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="25" column="20" lean-forward="true" selection-start-line="25" selection-start-column="20" selection-end-line="25" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../dataflow/notebooks/data_ingestion/es_item_stats.ipynb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="17" column="20" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../dataflow/notebooks/data_ingestion/es_mappings.ipynb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="28" column="23" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../dataflow/notebooks/data_ingestion/es_streaming.ipynb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="28" column="23" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../dataflow/notebooks/data_ingestion/es_utils.ipynb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="30" column="15" selection-start-line="30" selection-start-column="15" selection-end-line="30" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../dataflow/notebooks/item_bank/item_bank_table_management.ipynb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="443" column="4" selection-start-line="443" selection-start-column="4" selection-end-line="443" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../dataflow/notebooks/synthetic_data/content_update.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../dataflow/notebooks/synthetic_data/content_update.ipynb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="19" column="2" selection-start-line="19" selection-start-column="2" selection-end-line="19" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../dataflow/notebooks/synthetic_data/es_psychometrics_data.ipynb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="19" column="17" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../dataflow/notebooks/synthetic_data/response_and_content_generation.ipynb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="21" column="12" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../dataflow/notebooks/synthetic_data/response_update.ipynb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="21" column="4" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../dataflow/notebooks/tests/content_response_data_ingestion_test.ipynb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="19" column="23" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../dataflow/notebooks/tests/SIT.ipynb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="18" column="15" selection-start-line="18" selection-start-column="15" selection-end-line="18" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../dataflow/notebooks/tests/SIT_management.ipynb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="18" column="15" selection-start-line="18" selection-start-column="15" selection-end-line="18" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../dataflow/notebooks/tests/test_delete_item_bank.ipynb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="20" column="17" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../dataflow/notebooks/tests/test_utils.ipynb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="26" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../dataflow/notebooks/tests/es_ingestion_test.ipynb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="17" column="15" selection-start-line="17" selection-start-column="15" selection-end-line="17" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../dataflow/notebooks/data_ingestion/content_response_stream.ipynb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../dataflow/jupytext.toml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../dataflow/notebooks/data_ingestion/data_ingestion_table_management.ipynb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="366" column="7" selection-start-line="366" selection-start-column="7" selection-end-line="366" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../dataflow/.pre-commit-config.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="29" column="59" selection-start-line="29" selection-start-column="59" selection-end-line="29" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../dataflow/poetry.lock">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="22" column="21" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../dataflow/pyproject.toml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="426">
+          <caret line="43" column="29" selection-start-line="43" selection-start-column="29" selection-end-line="43" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../dataflow/notebooks/tests/test_utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+          <folding>
+            <element signature="e#5#17#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../dataflow/notebooks/tests/SIT_management.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+          <folding>
+            <element signature="e#5#17#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../dataflow/notebooks/data_ingestion/enemies_ingestion.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="3" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
+          <folding>
+            <element signature="e#5#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../dataflow/notebooks/benchmark/benchmarking.ipynb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="972">
+          <caret line="72" column="6" selection-start-line="72" selection-start-column="6" selection-end-line="72" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../dataflow/notebooks/benchmark/benchmarking.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="30" column="35" selection-start-line="30" selection-start-column="35" selection-end-line="30" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../dataflow/notebooks/tests/es_ingestion_test.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../dataflow/notebooks/tests/content_response_data_ingestion_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="731" column="40" selection-start-line="731" selection-start-column="40" selection-end-line="731" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../dataflow/notebooks/synthetic_data/es_psychometrics_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-126">
+          <caret line="663" column="1" selection-start-line="663" selection-start-column="1" selection-end-line="663" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../dataflow/notebooks/data_ingestion/es_mappings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-126">
+          <caret line="508" column="1" selection-start-line="508" selection-start-column="1" selection-end-line="508" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../dataflow/notebooks/data_ingestion/es_utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3546">
+          <caret line="305" column="3" selection-start-line="305" selection-start-column="3" selection-end-line="305" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../dataflow/notebooks/data_ingestion/es_irt_value.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3492">
+          <caret line="194" column="1" selection-start-line="194" selection-start-column="1" selection-end-line="194" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../dataflow/notebooks/data_ingestion/es_item_stats.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3358">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ATC/inspera_atc/datahub.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3564">
+          <caret line="214" column="25" selection-start-line="214" selection-start-column="25" selection-end-line="214" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../dataflow/notebooks/third_party_integrations/kikora/kikora_delta_lake_management.py" />
+    <entry file="file://$PROJECT_DIR$/../dataflow/notebooks/data_ingestion/data_ingestion_table_management.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="692" column="12" selection-start-line="692" selection-start-column="12" selection-end-line="692" selection-end-column="12" />
+          <folding>
+            <element signature="e#5#74#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../dataflow/inspera_dataflow/copy_irt_values.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1170">
+          <caret line="72" selection-start-line="72" selection-end-line="72" />
+          <folding>
+            <element signature="e#0#27#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../dataflow/notebooks/copy_irt.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="882">
+          <caret line="50" column="20" selection-start-line="50" selection-start-column="20" selection-end-line="50" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../dataflow/notebooks/data_ingestion/es_streaming.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="179" column="50" selection-start-line="179" selection-start-column="50" selection-end-line="179" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../CTT_IRT/init_scripts/IRT_API-prod_env_variables.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="48" selection-start-line="7" selection-start-column="48" selection-end-line="7" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../CTT_IRT/init_scripts/IRT_API-dev_env_variables.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="45" selection-start-line="5" selection-start-column="45" selection-end-line="5" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../CTT_IRT/init_scripts/IRT_API-stage_env_variables.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="42" selection-start-line="4" selection-start-column="42" selection-end-line="4" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deploy_databricks.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="352" column="12" selection-start-line="352" selection-start-column="12" selection-end-line="352" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../CTT_IRT/MANIFEST.in">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../CTT_IRT/dependencies.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../CTT_IRT/deploy_databricks.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="314">
+          <caret line="756" column="33" selection-start-line="756" selection-start-column="33" selection-end-line="756" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

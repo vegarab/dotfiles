@@ -1,0 +1,101 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/dev/ability">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1ocG1HTj7mq6dTkdBmZ0VKrvOuC">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PC-202.7660.27" />
+              <option name="buildTimestamp" value="1605462066767" />
+              <option name="productionCode" value="PC" />
+              <option name="projectOpenTimestamp" value="1613578249030" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="/tmp/nlp-authorship-verification">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1pnfqA55lPaCnBxAt9fzh6k0Vvd">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PC-202.7660.27" />
+              <option name="buildTimestamp" value="1605462066777" />
+              <option name="productionCode" value="PC" />
+              <option name="projectOpenTimestamp" value="1615823962611" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/dev/dictate">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1peuGq8sinEoZNVj9CKY0cW9o5i">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PC-202.7660.27" />
+              <option name="buildTimestamp" value="1605462090205" />
+              <frame x="0" y="18" width="1920" height="1062" />
+              <option name="productionCode" value="PC" />
+              <option name="projectOpenTimestamp" value="1615997783177" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/dev/nlp-authorship-attribution">
+          <value>
+            <RecentProjectMetaInfo displayName="nlp-authorship-verification, msc-question-generation" projectWorkspaceId="1pn6D4tuV0gBxhlcNt4I0Y43Jzz">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PC-202.7660.27" />
+              <option name="buildTimestamp" value="1605462087860" />
+              <frame x="0" y="18" width="1920" height="1062" />
+              <option name="productionCode" value="PC" />
+              <option name="projectOpenTimestamp" value="1616507250477" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/dev/GIRT">
+          <value>
+            <RecentProjectMetaInfo displayName="GIRT, CTT_IRT..." projectWorkspaceId="1lxi38EBnu0FyEqC33sAhondx93">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PC-202.7660.27" />
+              <option name="buildTimestamp" value="1605462087860" />
+              <frame x="0" y="18" width="1920" height="1062" />
+              <option name="productionCode" value="PC" />
+              <option name="projectOpenTimestamp" value="1616507267733" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/dev/ATC">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1mmpdOKht87UXoFa1YNV7avjRLq">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PC-202.7660.27" />
+              <option name="buildTimestamp" value="1605462075183" />
+              <frame x="0" y="18" width="1920" height="1062" />
+              <option name="productionCode" value="PC" />
+              <option name="projectOpenTimestamp" value="1616774717741" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/dev/rnd-research/object_detection">
+          <value>
+            <RecentProjectMetaInfo opened="true" projectWorkspaceId="1qIkyJcLjvwOauJvQysk1ztfCXb">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PC-202.7660.27" />
+              <option name="buildTimestamp" value="1605462072312" />
+              <frame x="-3852" y="18" width="1920" height="1062" />
+              <option name="productionCode" value="PC" />
+              <option name="projectOpenTimestamp" value="1617471735397" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="recentPaths">
+      <list>
+        <option value="$USER_HOME$/dev/rnd-research/object_detection" />
+        <option value="$USER_HOME$/dev/ATC" />
+        <option value="$USER_HOME$/dev/GIRT" />
+        <option value="$USER_HOME$/dev/nlp-authorship-attribution" />
+        <option value="$USER_HOME$/dev/dictate" />
+        <option value="/tmp/nlp-authorship-verification" />
+        <option value="$USER_HOME$/dev/ability" />
+      </list>
+    </option>
+  </component>
+</application>

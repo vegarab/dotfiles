@@ -1,0 +1,109 @@
+import datasets
+-. . -..- - / . -. - .-. -.--
+dset = datasets.load_dataset("blog_authorship_corpus")
+-. . -..- - / . -. - .-. -.--
+dset = datasets.load_dataset("blog_authorship_corpus", split="train")
+-. . -..- - / . -. - .-. -.--
+dset = datasets.load_dataset("blog_authorship_corpus", split="train", ignore_verification=True)
+-. . -..- - / . -. - .-. -.--
+dset = datasets.load_dataset("blog_authorship_corpus", split="train", ignore_verifications=True)
+-. . -..- - / . -. - .-. -.--
+dset = datasets.load_dataset("imdb", split="train", ignore_verifications=True)
+-. . -..- - / . -. - .-. -.--
+dset = datasets.load_dataset("guardian_authorship", split="train", ignore_verifications=True)
+-. . -..- - / . -. - .-. -.--
+dset = datasets.load_dataset("guardian_authorship", 'cross_topic_1', split="train", ignore_verifications=True)
+-. . -..- - / . -. - .-. -.--
+dset = datasets.load_dataset("guardian_authorship", 'cross_topic_2', split="train", ignore_verifications=True)
+-. . -..- - / . -. - .-. -.--
+dset = datasets.load_dataset("guardian_authorship", 'cross_topic_3', split="train", ignore_verifications=True)
+-. . -..- - / . -. - .-. -.--
+dset = datasets.load_dataset("guardian_authorship", 'cross_genre_3', split="train", ignore_verifications=True)
+-. . -..- - / . -. - .-. -.--
+dset2 = datasets.load_dataset("guardian_authorship", 'cross_genre_2', split="train", ignore_verifications=True)
+-. . -..- - / . -. - .-. -.--
+dset + dset2
+-. . -..- - / . -. - .-. -.--
+import itertools
+-. . -..- - / . -. - .-. -.--
+for i in itertools.chain(dset, dset2):
+    print(i)
+    
+-. . -..- - / . -. - .-. -.--
+its = iterator.chain(dset, dset2)
+-. . -..- - / . -. - .-. -.--
+its = itertools.chain(dset, dset2)
+-. . -..- - / . -. - .-. -.--
+its
+-. . -..- - / . -. - .-. -.--
+dset
+-. . -..- - / . -. - .-. -.--
+dset[0]
+-. . -..- - / . -. - .-. -.--
+dset[0].author
+-. . -..- - / . -. - .-. -.--
+dset[0]["author"]
+-. . -..- - / . -. - .-. -.--
+for i in itertools.chain([1, 2, 3], [4, 5, 6]):
+    print(i)
+    
+-. . -..- - / . -. - .-. -.--
+exit()
+-. . -..- - / . -. - .-. -.--
+train["article"]
+-. . -..- - / . -. - .-. -.--
+import torch
+-. . -..- - / . -. - .-. -.--
+train = torch.load("data/train.pt")
+-. . -..- - / . -. - .-. -.--
+train
+-. . -..- - / . -. - .-. -.--
+train[0]
+-. . -..- - / . -. - .-. -.--
+train[0]["source_ids"]
+-. . -..- - / . -. - .-. -.--
+train["source_ids"]
+-. . -..- - / . -. - .-. -.--
+from torch.utils.data import DataLoader
+-. . -..- - / . -. - .-. -.--
+from preprocess import DataCollator
+-. . -..- - / . -. - .-. -.--
+loader = DataLoader(train, collate_fn=DataCollator())
+-. . -..- - / . -. - .-. -.--
+from transformers import BartTokenizer
+-. . -..- - / . -. - .-. -.--
+tokenizer = BartTokenizer.from_pretrained("facebook/bart-base")
+-. . -..- - / . -. - .-. -.--
+loader[0]
+-. . -..- - / . -. - .-. -.--
+loader
+-. . -..- - / . -. - .-. -.--
+for batch in loader:
+    print(batch)
+    
+-. . -..- - / . -. - .-. -.--
+loader = DataLoader(train, collate_fn=DataCollator(tokenizer))
+-. . -..- - / . -. - .-. -.--
+train_dataloader[1:]
+-. . -..- - / . -. - .-. -.--
+next(train_dataloader, None)
+-. . -..- - / . -. - .-. -.--
+for i in train_dataloader:
+    print(i)
+    
+-. . -..- - / . -. - .-. -.--
+train_dataloader.dataset["source_ids"]
+-. . -..- - / . -. - .-. -.--
+train_dataloader.dataset[0]["source_ids"]
+-. . -..- - / . -. - .-. -.--
+train_dataloader.dataset[2]
+-. . -..- - / . -. - .-. -.--
+train_dataloader
+-. . -..- - / . -. - .-. -.--
+train_dataloader.dataset
+-. . -..- - / . -. - .-. -.--
+train_dataloader.dataset[0]
+-. . -..- - / . -. - .-. -.--
+self.train_dataset
+-. . -..- - / . -. - .-. -.--
+self.train_dataset[0]

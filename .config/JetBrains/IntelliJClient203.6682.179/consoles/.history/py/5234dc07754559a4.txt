@@ -1,0 +1,385 @@
+self.model.modules()
+-. . -..- - / . -. - .-. -.--
+self.model.modules()[0]
+-. . -..- - / . -. - .-. -.--
+next(self.model.modules())
+-. . -..- - / . -. - .-. -.--
+for module in self.module.models(): print(module)
+
+-. . -..- - / . -. - .-. -.--
+for module in self.module.models():
+    print(type(module))
+    print(module)
+
+-. . -..- - / . -. - .-. -.--
+for module in self.model.models():
+    print(type(module))
+    print(module)
+
+-. . -..- - / . -. - .-. -.--
+for module in self.model.modules():
+    print(type(module))
+    print(module)
+
+-. . -..- - / . -. - .-. -.--
+for module in self.model.modules():
+    print('Type', type(module))
+    print('Object', module)
+    
+-. . -..- - / . -. - .-. -.--
+for module in self.model.named_modules():
+    print('Type', type(module))
+    print('Object', module)
+    
+-. . -..- - / . -. - .-. -.--
+self.model.__afmodules
+-. . -..- - / . -. - .-. -.--
+self.model.IRTModule_1
+-. . -..- - / . -. - .-. -.--
+for model in self.model:
+    print(model)
+    
+-. . -..- - / . -. - .-. -.--
+list(self.model._modules)
+-. . -..- - / . -. - .-. -.--
+for module in self.model._modules:
+    print(module)]
+    
+-. . -..- - / . -. - .-. -.--
+for module in self.model._modules:
+    print(module)
+    
+    
+-. . -..- - / . -. - .-. -.--
+if self.model.parameters():
+    
+    sd
+    ll
+    ...
+continue
+-. . -..- - / . -. - .-. -.--
+bool(self.model.parameters())
+-. . -..- - / . -. - .-. -.--
+self.model.parameters()
+-. . -..- - / . -. - .-. -.--
+next(self.model.parameters())
+-. . -..- - / . -. - .-. -.--
+for afmodule in self.model.__afmodules:
+    print(afmodule)
+    
+-. . -..- - / . -. - .-. -.--
+model
+-. . -..- - / . -. - .-. -.--
+self.model
+-. . -..- - / . -. - .-. -.--
+self.model.get_submodules()
+-. . -..- - / . -. - .-. -.--
+print(type(selectd_ability_factor))
+-. . -..- - / . -. - .-. -.--
+print(selected_ability_factors)
+-. . -..- - / . -. - .-. -.--
+print(self.mirt_model_dynamic_indices)
+-. . -..- - / . -. - .-. -.--
+_ = [0, 1, 2, 3]
+-. . -..- - / . -. - .-. -.--
+np.expand_dims(_, axis=2)
+-. . -..- - / . -. - .-. -.--
+torch.tensor([])
+-. . -..- - / . -. - .-. -.--
+print(self.mirt_model_factor_indices)
+-. . -..- - / . -. - .-. -.--
+import numpy as np
+-. . -..- - / . -. - .-. -.--
+np.zeros(50, 200)
+-. . -..- - / . -. - .-. -.--
+np.zeros((50, 200))
+-. . -..- - / . -. - .-. -.--
+data = np.zeros((50, 200))
+-. . -..- - / . -. - .-. -.--
+data[:, 1::3]
+-. . -..- - / . -. - .-. -.--
+data[:, ].shape
+-. . -..- - / . -. - .-. -.--
+data[:, 50].shape
+-. . -..- - / . -. - .-. -.--
+data[:, 50::50].shape
+-. . -..- - / . -. - .-. -.--
+data[:, 0::3].shape
+-. . -..- - / . -. - .-. -.--
+data[:, 1::3].shape
+-. . -..- - / . -. - .-. -.--
+data[:, 2::3].shape
+-. . -..- - / . -. - .-. -.--
+print(target_data_copy.shape)
+-. . -..- - / . -. - .-. -.--
+print(target_data.shape)
+-. . -..- - / . -. - .-. -.--
+print(num_categories)
+-. . -..- - / . -. - .-. -.--
+print(num_categories.data)
+-. . -..- - / . -. - .-. -.--
+print(num_categories[0])
+-. . -..- - / . -. - .-. -.--
+print(num_categories.shape)
+-. . -..- - / . -. - .-. -.--
+print(bool(self.nrm_mode))
+-. . -..- - / . -. - .-. -.--
+for c in range(0, num_categories):
+    print(c)
+
+-. . -..- - / . -. - .-. -.--
+self.max_categories_per_item
+-. . -..- - / . -. - .-. -.--
+self.max_categories_per_itemp[0]
+-. . -..- - / . -. - .-. -.--
+self.max_categories_per_item[0]
+-. . -..- - / . -. - .-. -.--
+num_categories
+-. . -..- - / . -. - .-. -.--
+print(self.max_categories_per_item.device)
+
+-. . -..- - / . -. - .-. -.--
+print(self.num_items.device)
+-. . -..- - / . -. - .-. -.--
+print(self.device)
+-. . -..- - / . -. - .-. -.--
+print(selected_target_data.shape)
+-. . -..- - / . -. - .-. -.--
+print(self.num_items)
+-. . -..- - / . -. - .-. -.--
+print(out.shape)
+-. . -..- - / . -. - .-. -.--
+print(selected_target_mask.shape)
+-. . -..- - / . -. - .-. -.--
+a.data
+-. . -..- - / . -. - .-. -.--
+-a
+-. . -..- - / . -. - .-. -.--
+a
+-. . -..- - / . -. - .-. -.--
+a_ = torch.tensor(a)
+-. . -..- - / . -. - .-. -.--
+a_.data
+-. . -..- - / . -. - .-. -.--
+a_.valuee
+-. . -..- - / . -. - .-. -.--
+a_.values[0]
+-. . -..- - / . -. - .-. -.--
+a_.values
+-. . -..- - / . -. - .-. -.--
+a_.squeeze()
+-. . -..- - / . -. - .-. -.--
+a_ =a_.squeeze()
+-. . -..- - / . -. - .-. -.--
+a_
+-. . -..- - / . -. - .-. -.--
+-a_
+-. . -..- - / . -. - .-. -.--
+self.target_data
+-. . -..- - / . -. - .-. -.--
+anchor_id_indices, anchor_ids = zip(*((i, id_i) for i, id_ in enumerate(item_ids) if id_ in anchor_ids))
+
+-. . -..- - / . -. - .-. -.--
+anchor_id_indices, anchor_ids = zip(*((i, id_) for i, id_ in enumerate(item_ids) if id_ in anchor_ids))
+-. . -..- - / . -. - .-. -.--
+self.target_data[:, anchor_id_indices]
+-. . -..- - / . -. - .-. -.--
+anchor_)ids
+-. . -..- - / . -. - .-. -.--
+anchor_ids
+-. . -..- - / . -. - .-. -.--
+item_ids
+-. . -..- - / . -. - .-. -.--
+set(self.anchor_ids).intersection(item_ids)
+
+-. . -..- - / . -. - .-. -.--
+any(set(self.anchor_ids).intersection(item_ids))
+-. . -..- - / . -. - .-. -.--
+any({0})
+-. . -..- - / . -. - .-. -.--
+any({1})
+-. . -..- - / . -. - .-. -.--
+bool({0})
+-. . -..- - / . -. - .-. -.--
+bool({1})
+-. . -..- - / . -. - .-. -.--
+np.expand_dims(expected, dim=2)
+-. . -..- - / . -. - .-. -.--
+np.expand_dims(expected, axis=2).shape
+-. . -..- - / . -. - .-. -.--
+girt_system_inst.data.target_data.squeeze()
+-. . -..- - / . -. - .-. -.--
+expected.shape
+-. . -..- - / . -. - .-. -.--
+girt_system_inst.data.target_data.shape
+-. . -..- - / . -. - .-. -.--
+girt_system_inst.data.target_data.squeeze().shape
+-. . -..- - / . -. - .-. -.--
+girt_system_inst.data.target_data.squeeze().numpy()
+-. . -..- - / . -. - .-. -.--
+girt_system_inst.data.target_data.squeeze().numpy() == expected.astype(int)
+-. . -..- - / . -. - .-. -.--
+girt_system_inst.data.target_data.squeeze().numpy() == np.ndarray(expected).astype(int)
+-. . -..- - / . -. - .-. -.--
+girt_system_inst.data.target_data.squeeze().numpy().astype(int) == np.ndarray(expected).astype(int)
+-. . -..- - / . -. - .-. -.--
+girt_system_inst.data.target_data.squeeze().numpy().astype(int)
+-. . -..- - / . -. - .-. -.--
+np.ndarray(expeted).astype(int)
+-. . -..- - / . -. - .-. -.--
+np.ndarray(expected).astype(int)
+-. . -..- - / . -. - .-. -.--
+np.ndarray(expected)
+-. . -..- - / . -. - .-. -.--
+expected.astype(int)
+-. . -..- - / . -. - .-. -.--
+target_data.squeeze()
+-. . -..- - / . -. - .-. -.--
+target_data.squeeze().numpy()
+-. . -..- - / . -. - .-. -.--
+expected
+-. . -..- - / . -. - .-. -.--
+np.expand_dims(expected, axis=2)
+-. . -..- - / . -. - .-. -.--
+target_data
+-. . -..- - / . -. - .-. -.--
+target_data.numpy()
+-. . -..- - / . -. - .-. -.--
+self.anchor_ids
+-. . -..- - / . -. - .-. -.--
+self.mirt_model_static_indices[i]
+-. . -..- - / . -. - .-. -.--
+static_data
+-. . -..- - / . -. - .-. -.--
+t = torch.tensor(10, 5)
+-. . -..- - / . -. - .-. -.--
+t = torch.ones(5, 10)
+-. . -..- - / . -. - .-. -.--
+5.unsqueeze(2)
+-. . -..- - / . -. - .-. -.--
+t.unsqueeze(2)
+-. . -..- - / . -. - .-. -.--
+t.unsqueeze(2).shape
+-. . -..- - / . -. - .-. -.--
+t.size
+-. . -..- - / . -. - .-. -.--
+t.size()
+-. . -..- - / . -. - .-. -.--
+t.shape
+-. . -..- - / . -. - .-. -.--
+t.size[0]
+-. . -..- - / . -. - .-. -.--
+t.size()[0]
+-. . -..- - / . -. - .-. -.--
+t = torch.empty(0)
+-. . -..- - / . -. - .-. -.--
+t[]
+
+
+
+
+q
+-. . -..- - / . -. - .-. -.--
+t[None]
+-. . -..- - / . -. - .-. -.--
+t[:]
+-. . -..- - / . -. - .-. -.--
+type(t)
+-. . -..- - / . -. - .-. -.--
+t.astype(float)
+-. . -..- - / . -. - .-. -.--
+t.dtype(float)
+-. . -..- - / . -. - .-. -.--
+t.dtype
+-. . -..- - / . -. - .-. -.--
+self.target_data[19, :, :, :]
+-. . -..- - / . -. - .-. -.--
+self.target_mask[19]
+-. . -..- - / . -. - .-. -.--
+self.static_data[None]
+-. . -..- - / . -. - .-. -.--
+class Iterator:
+    def __init__(self, data):
+        self.data=data
+    def __len__(self):
+        return len(self.data)
+    def __getitem__(self, idx):
+        return self.data[idx]
+    
+-. . -..- - / . -. - .-. -.--
+it = Iterator([1, 2, 3])
+-. . -..- - / . -. - .-. -.--
+it[0]
+-. . -..- - / . -. - .-. -.--
+it[:]
+-. . -..- - / . -. - .-. -.--
+self.dataloader[0]
+
+-. . -..- - / . -. - .-. -.--
+list(self.dataloader)
+
+-. . -..- - / . -. - .-. -.--
+l = list(self.dataloader)
+-. . -..- - / . -. - .-. -.--
+target_data[0]
+-. . -..- - / . -. - .-. -.--
+target_data.size
+-. . -..- - / . -. - .-. -.--
+target_data.size()
+-. . -..- - / . -. - .-. -.--
+target_data[0, :, :, :]
+-. . -..- - / . -. - .-. -.--
+target_data[0, :, :, :].unsqueeze(0).unsqueeze(0)
+-. . -..- - / . -. - .-. -.--
+target_data[0, :, :, :].squeeze(0)
+-. . -..- - / . -. - .-. -.--
+target_data[0, :, :, :].flatten()
+-. . -..- - / . -. - .-. -.--
+target_data[1, :, :, :].flatten()
+-. . -..- - / . -. - .-. -.--
+data_girt[0].flatten()
+-. . -..- - / . -. - .-. -.--
+data_girt[18].flatten()
+-. . -..- - / . -. - .-. -.--
+data_girt[19].flatten()
+-. . -..- - / . -. - .-. -.--
+s = ''.join(map(str, [1., 1., 0., 0., 0., 0., 1., 1., 1., 0., 0., 0., 1., 0., 1., 0., 0., 1.,
+        1., 1., 0., 0., 0., 0., 1., 1., 0., 0., 0., 1., 0., 1., 1., 1., 1., 0.,
+        1., 1., 0., 0., 1., 0., 0., 0., 0., 1., 1., 0., 0., 1., 0., 1., 0., 1.,
+        1., 0., 0., 1., 0., 1., 1., 0., 1., 0., 1., 0., 0., 0., 0., 0., 1., 0.,
+        0., 0., 1., 0., 1., 1., 0., 1., 0., 0., 1., 0., 0., 0., 0., 1., 0., 0.,
+        1., 0., 1., 0., 0., 0., 1., 0., 0., 0., 1., 1., 0., 1., 1., 1., 1., 0.,
+        1., 0., 0., 0., 0., 0., 1., 0., 0., 1., 1., 1., 1., 1., 1., 0., 0., 0.,
+        1., 0., 0., 1., 1., 0., 0., 0., 1., 0., 0., 0., 1., 1., 0., 1., 0., 1.,
+        0., 0., 1., 1., 0., 0., 0., 1., 1., 0., 0., 0., 1., 1., 0., 0., 0., 1.,
+        1., 0., 0., 1., 1., 0., 1., 1., 0., 0., 1., 1., 1., 0., 1., 0., 0., 1.,
+        0., 1., 0., 0., 1., 0., 1., 0., 0., 1., 0., 0., 0., 0., 0., 1., 1., 0.,
+        0., 1.]))
+-. . -..- - / . -. - .-. -.--
+s1 = ''.join(map(str, data_girt[19].flatten()))
+-. . -..- - / . -. - .-. -.--
+assert s == s1
+-. . -..- - / . -. - .-. -.--
+torch.version
+-. . -..- - / . -. - .-. -.--
+torch.__version__
+-. . -..- - / . -. - .-. -.--
+import torch
+-. . -..- - / . -. - .-. -.--
+t = torch.zeros(0)
+-. . -..- - / . -. - .-. -.--
+list(t)
+-. . -..- - / . -. - .-. -.--
+t = torch.ones(1)
+-. . -..- - / . -. - .-. -.--
+t
+-. . -..- - / . -. - .-. -.--
+t[0]
+-. . -..- - / . -. - .-. -.--
+type(t[0])
+-. . -..- - / . -. - .-. -.--
+t[0] is torch.Tensor
+-. . -..- - / . -. - .-. -.--
+isinstance(torch.Tensor, t[0])
+-. . -..- - / . -. - .-. -.--
+isinstance(t[0], torch.Tensor)

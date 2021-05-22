@@ -1,0 +1,85 @@
+squad = datasets.load_dataset("./datasets/squad")
+-. . -..- - / . -. - .-. -.--
+squad = datasets.load_dataset("./datasets/squad.py")
+-. . -..- - / . -. - .-. -.--
+datasets.load_dataset("./datasets/squad.py")
+-. . -..- - / . -. - .-. -.--
+cosmos = datasets.load_dataset("./datasets/cosmos.py")
+-. . -..- - / . -. - .-. -.--
+cosmos = datasets.load_dataset("./datasets/cosmos_qa.py")
+-. . -..- - / . -. - .-. -.--
+cosmos
+-. . -..- - / . -. - .-. -.--
+squad
+-. . -..- - / . -. - .-. -.--
+import datasets
+-. . -..- - / . -. - .-. -.--
+l = ["adasdasd", "basdbads"]
+-. . -..- - / . -. - .-. -.--
+list(map(str, l))
+-. . -..- - / . -. - .-. -.--
+"_".join(l)
+-. . -..- - / . -. - .-. -.--
+squad = datasets.load_dataset("./datasets/squad.py", split="train+test")
+-. . -..- - / . -. - .-. -.--
+list(map(str, c.Datasets))
+-. . -..- - / . -. - .-. -.--
+list(map(str, c.Datasets.values))
+-. . -..- - / . -. - .-. -.--
+from transformers import T5Tokenizer
+-. . -..- - / . -. - .-. -.--
+T5Tokenizer.from_pretrained("t5-base")
+-. . -..- - / . -. - .-. -.--
+T5Tokenizer.from_pretrained()
+-. . -..- - / . -. - .-. -.--
+T5Tokenizer().from_pretrained("t5-base")
+-. . -..- - / . -. - .-. -.--
+from transformers import AutoTokenizer
+-. . -..- - / . -. - .-. -.--
+tokenizer = AutoTokenizer.from_pretrained("t5-base")
+-. . -..- - / . -. - .-. -.--
+c.Datasets.list
+-. . -..- - / . -. - .-. -.--
+c.Models.list(0)
+-. . -..- - / . -. - .-. -.--
+c.Models().list()
+-. . -..- - / . -. - .-. -.--
+import src.constants as c
+-. . -..- - / . -. - .-. -.--
+c.Models.list()
+-. . -..- - / . -. - .-. -.--
+c.Datasets.list()
+-. . -..- - / . -. - .-. -.--
+from transformers import T5ForConditionalGeneration
+-. . -..- - / . -. - .-. -.--
+from transformers import AutoModel
+-. . -..- - / . -. - .-. -.--
+t5_auto = AutoModel.from_pretrained("t5-base")
+-. . -..- - / . -. - .-. -.--
+t5 = T5ForConditionalGeneration.from_pretrained("t5-base")
+-. . -..- - / . -. - .-. -.--
+t5
+-. . -..- - / . -. - .-. -.--
+t5_auto
+-. . -..- - / . -. - .-. -.--
+t5 == t5_auto
+-. . -..- - / . -. - .-. -.--
+from transformers import AutoModelWithLMHead
+-. . -..- - / . -. - .-. -.--
+t5_lm = AutoModelWithLMHead.from_pretrained("t5-base")
+-. . -..- - / . -. - .-. -.--
+from transformers import TFAutoModelForSeq2SeqLM
+-. . -..- - / . -. - .-. -.--
+t5_seq2seq = AutoModelWithLMHead.from_pretrained("t5-base")
+-. . -..- - / . -. - .-. -.--
+t5_seq2seq = TFAutoModelForSeq2SeqLM.from_pretrained("t5-base")
+-. . -..- - / . -. - .-. -.--
+from transformers import AutoModelForSeq2SeqLM
+-. . -..- - / . -. - .-. -.--
+t5_seq2seq = AutoModelForSeq2SeqLM.from_pretrained("t5-base")
+-. . -..- - / . -. - .-. -.--
+t5_seq2seq == t5
+-. . -..- - / . -. - .-. -.--
+bart = AutoModelForSeq2SeqLM.from_pretrained("facebook/bart-base")
+-. . -..- - / . -. - .-. -.--
+exit()

@@ -1,0 +1,135 @@
+<application>
+  <component name="AppInspectionProfilesVisibleTreeState">
+    <entry key="Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Buildout</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="NotRoamableUiSettings">
+    <option name="fontFace" value="Monaco Nerd Font Mono" />
+    <option name="fontScale" value="1.0" />
+    <option name="fontSize" value="11" />
+  </component>
+  <component name="ProjectPluginTrackerManager">
+    <option name="trackers">
+      <map>
+        <entry key="1lxi38EBnu0FyEqC33sAhondx93">
+          <value>
+            <ProjectPluginTrackerState />
+          </value>
+        </entry>
+        <entry key="1n6IL5VUb3c0pDWzeKKbrg8XtRY">
+          <value>
+            <ProjectPluginTrackerState />
+          </value>
+        </entry>
+        <entry key="1n6IUQLjwqZRbfmWAfSCtSvLF1b">
+          <value>
+            <ProjectPluginTrackerState />
+          </value>
+        </entry>
+        <entry key="1n6Ixc0MvW3cN6ZNq9fN9Py4ix3">
+          <value>
+            <ProjectPluginTrackerState />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="AFTER.DISTRACTION.MODE.ARE_GUTTER_ICONS_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.ARE_LINE_NUMBERS_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.EDITOR_TAB_PLACEMENT" value="0" />
+    <property name="AFTER.DISTRACTION.MODE.HIDE_TOOL_STRIPES" value="true" />
+    <property name="AFTER.DISTRACTION.MODE.IS_FOLDING_OUTLINE_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.IS_INDENT_GUIDES_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.IS_RIGHT_MARGIN_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.IS_WHITESPACES_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_BREADCRUMBS" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_MAIN_TOOLBAR" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_METHOD_SEPARATORS" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_NAVIGATION_BAR" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_STATUS_BAR" value="false" />
+    <property name="BEFORE.DISTRACTION.MODE.ARE_GUTTER_ICONS_SHOWN" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.ARE_LINE_NUMBERS_SHOWN" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.EDITOR_TAB_PLACEMENT" value="1" />
+    <property name="BEFORE.DISTRACTION.MODE.HIDE_TOOL_STRIPES" value="false" />
+    <property name="BEFORE.DISTRACTION.MODE.IS_FOLDING_OUTLINE_SHOWN" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.IS_INDENT_GUIDES_SHOWN" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.IS_RIGHT_MARGIN_SHOWN" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.IS_WHITESPACES_SHOWN" value="false" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_BREADCRUMBS" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_MAIN_TOOLBAR" value="false" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_METHOD_SEPARATORS" value="false" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_NAVIGATION_BAR" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_STATUS_BAR" value="true" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="ExternalToolDialog.advanced.expanded" value="true" />
+    <property name="InstalledPluginsSearchHistory" value="ideavim&#10;idea&#10;ide&#10;id&#10;code with me" />
+    <property name="KEYMAP" value="font&#10;Tab" />
+    <property name="MarketplacePluginsSearchHistory" value="ideavim&#10;gruvbo" />
+    <property name="NonModalCommitCustomization.IsApplied" value="true" />
+    <property name="PACKAGE_FILTER" value="q" />
+    <property name="PyCharm.InitialConfiguration" value="true" />
+    <property name="PyCharm.InitialConfiguration.V2" value="true" />
+    <property name="PyCharm.InitialConfiguration.V3" value="true" />
+    <property name="PyCharm.InitialConfiguration.V4" value="true" />
+    <property name="PyCharm.InitialConfiguration.V5" value="true" />
+    <property name="PyCharm.InitialConfiguration.V6" value="true" />
+    <property name="PyCharm.InitialConfiguration.V7" value="true" />
+    <property name="PythonUnitTestRunner.Splitter.Proportion" value="0.36276084" />
+    <property name="RunConfigurable.dividerProportion" value="0.3611442" />
+    <property name="SettingsSearchHistory" value="font&#10;fon&#10;environment&#10;run&#10;black" />
+    <property name="UITheme.relaunch" value="true" />
+    <property name="appcds.runOnSecondStart" value="IJC-203.6682.179-f15d4ecc0bf64499de1e607d44767f2969f9b4f05568772f2e30889c928b57a5" />
+    <property name="ask.about.ctrl.y.shortcut.v2" value="true" />
+    <property name="code.with.me.user.name" value="vegarab" />
+    <property name="experimentalFeature.terminal.shell.command.handling" value="false" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/.envs/loft/bin/python3.8&#10;/home/vegarab/.envs/loft&#10;/home/vegarab/bin&#10;/home/vegarab/.envs/loft/bin/python3.7&#10;/home/vegarab/dev/ATC&#10;/home/vegarab/dev/insanity&#10;/home/vegarab/dev/CTT_IRT&#10;/home/vegarab/.envs/girt/bin/python3.6&#10;/home/vegarab/.envs/girt&#10;/home/vegarab/.envs/girt/bin/black&#10;/home/vegarab/dev/GIRT" />
+    <property name="file.gist.reindex.count" value="34043" />
+    <property name="fileTypeChangedCounter" value="1" />
+    <property name="got.it.tooltip.cwm.invitation.notification" value="1" />
+    <property name="ide.memory.adjusted" value="true" />
+    <property name="ide.updates.previous.build.number" value="IJC-203.6682.179" />
+    <property name="ideavim.statistics.timestamp" value="1610626703650" />
+    <property name="lastSeenTip" value="neue-ChangeSorting.html" />
+    <property name="lastTimeTipsWereShown" value="1610636432940" />
+    <property name="last_opened_file_path" value="$USER_HOME$/.envs/loft/bin/python3.8" />
+    <property name="log.trace.categories" value="#com.jetbrains.rdserver.requests&#10;#com.jetbrains.rd.ide.document&#10;#com.jetbrains.rdserver.document&#10;#com.jetbrains.rdserver.editors&#10;#com.jetbrains.rdserver.actions&#10;#com.jetbrains.rdserver.requests&#10;#com.jetbrains.rd.ide.document&#10;#com.jetbrains.rdserver.document&#10;#com.jetbrains.rdserver.editors&#10;#com.jetbrains.rdserver.actions" />
+    <property name="org.jetbrains.r.editor.welcomeGuide" value="true" />
+    <property name="rdServer.welcomeCWMControl.1" value="true" />
+    <property name="seenTips" value="neue-partial_git_commit.html,neue-Spellchecker.html,neue-WideScreen.html,neue-EvaluateExpressionInEditor.html,neue-SearchEverywhere.html,neue-local_history.html,neue-FileStructurePopup.html,neue-RenameCssSelector.html,neue-ParameterInfo.html,neue-ChangeSorting.html" />
+    <property name="selected.color.option.type" value="IMAGES_WHITE_CELL_COLOR" />
+    <property name="tasks.pass.word.conversion.enforced" value="true" />
+    <property name="thinClient.ws" value="true" />
+  </component>
+  <component name="PyTestFrameworkService">
+    <option name="SDK_TO_PYTEST">
+      <map>
+        <entry key="$USER_HOME$/.envs/girt/bin/python3.6" value="true" />
+        <entry key="$USER_HOME$/.envs/loft/bin/python3.7" value="true" />
+        <entry key="$USER_HOME$/.envs/loft/bin/python3.8" value="true" />
+        <entry key="/usr/bin/python3.9" value="false" />
+      </map>
+    </option>
+    <option name="SDK_TO_NOSETEST">
+      <map>
+        <entry key="$USER_HOME$/.envs/loft/bin/python3.8" value="false" />
+      </map>
+    </option>
+    <option name="SDK_TO_TRIALTEST">
+      <map>
+        <entry key="$USER_HOME$/.envs/loft/bin/python3.8" value="false" />
+      </map>
+    </option>
+  </component>
+</application>

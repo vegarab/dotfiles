@@ -1,0 +1,77 @@
+from pathlib import Path
+import re
+
+
+BASE_DIR = Path('.')
+EXTENSIONS = {'.py'}
+
+for path in BASE_DIR.glob(r'**/*'):
+    if path.suffix in EXTENSIONS:
+        print(path)
+        
+-. . -..- - / . -. - .-. -.--
+from pathlib import Path
+import re
+
+
+BASE_DIR = Path('.')
+EXTENSIONS = {'.py'}
+
+for path in BASE_DIR.glob(r'**/*'):
+    print(path.suffixes)
+    
+-. . -..- - / . -. - .-. -.--
+from pathlib import Path
+import re
+
+
+BASE_DIR = Path('.')
+EXTENSIONS = {'.py'}
+
+for path in BASE_DIR.glob(r'**/*'):
+    print(path)
+    
+-. . -..- - / . -. - .-. -.--
+import re
+-. . -..- - / . -. - .-. -.--
+re.compile("notebooks/123.py")
+-. . -..- - / . -. - .-. -.--
+re.compile("notebooks/*.py")
+-. . -..- - / . -. - .-. -.--
+regex = re.compile("notebooks/*.py")
+-. . -..- - / . -. - .-. -.--
+re.match(regex, "notebooks/asd.py")
+-. . -..- - / . -. - .-. -.--
+regex = re.compile(r"notebooks/*.py")
+-. . -..- - / . -. - .-. -.--
+bool(re.match(regex, "notebooks/asd.py"))
+-. . -..- - / . -. - .-. -.--
+regex = re.compile("*.py")
+-. . -..- - / . -. - .-. -.--
+bool(re.match("*.py", "asd.py"))
+-. . -..- - / . -. - .-. -.--
+bool(re.match("*\.py", "asd.py"))
+-. . -..- - / . -. - .-. -.--
+bool(re.match("*/.py", "asd.py"))
+-. . -..- - / . -. - .-. -.--
+bool(re.match("d*.py", "asd.py"))
+-. . -..- - / . -. - .-. -.--
+bool(re.match("$.py", "asd.py"))
+-. . -..- - / . -. - .-. -.--
+bool(re.match(re.compile("$.py"), "asd.py"))
+-. . -..- - / . -. - .-. -.--
+for path in Path(".").glob("r'**/*.py"):
+    print(path)
+    
+-. . -..- - / . -. - .-. -.--
+for path in Path().glob("*.py"):
+    print(path) 
+    
+-. . -..- - / . -. - .-. -.--
+for path in Path().glob("/**/*.py"):
+    print(path) 
+    
+-. . -..- - / . -. - .-. -.--
+for path in Path().glob(r"./**/*.py"):
+    print(path) 
+    

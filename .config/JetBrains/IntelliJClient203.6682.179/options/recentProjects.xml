@@ -1,0 +1,58 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/dev/GIRT">
+          <value>
+            <RecentProjectMetaInfo displayName="GIRT, CTT_IRT..." projectWorkspaceId="1lxi38EBnu0FyEqC33sAhondx93">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PC-202.7660.27" />
+              <option name="buildTimestamp" value="1605462105393" />
+              <frame x="1920" y="22" width="3840" height="2138" />
+              <option name="productionCode" value="PC" />
+              <option name="projectOpenTimestamp" value="1610703829447" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/dev/ATC">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1mmpdOKht87UXoFa1YNV7avjRLq">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PC-202.7660.27" />
+              <option name="buildTimestamp" value="1605462105393" />
+              <frame x="-7692" y="22" width="3840" height="2138" />
+              <option name="productionCode" value="PC" />
+              <option name="projectOpenTimestamp" value="1610704009764" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/dotfiles/.config/JetBrains/IntelliJClient203.6682.179/thinProject">
+          <value>
+            <RecentProjectMetaInfo frameTitle="Connected to bendik's CTT_IRT – data_loader.py" projectWorkspaceId="1n6IUQLjwqZRbfmWAfSCtSvLF1b">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IJC-203.6682.179" />
+              <option name="buildTimestamp" value="1609343432488" />
+              <option name="eap" value="true" />
+              <frame x="1920" y="22" width="3840" height="2138" />
+              <option name="productionCode" value="IJC" />
+              <option name="projectOpenTimestamp" value="1610704128836" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/dotfiles/.config/JetBrains/IntelliJClient203.6682.179/thinProject1">
+          <value>
+            <RecentProjectMetaInfo frameTitle="Connected to bendik's CTT_IRT – data_loader.py" opened="true" projectWorkspaceId="1n6Ixc0MvW3cN6ZNq9fN9Py4ix3">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IJC-203.6682.179" />
+              <option name="buildTimestamp" value="1609343432488" />
+              <option name="eap" value="true" />
+              <frame x="1920" y="22" width="3840" height="2138" />
+              <option name="productionCode" value="IJC" />
+              <option name="projectOpenTimestamp" value="1610704360896" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</application>

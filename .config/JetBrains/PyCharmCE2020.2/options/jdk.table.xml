@@ -1,0 +1,226 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Python 3.6 (girt)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.12" />
+      <homePath value="$USER_HOME$/.envs/girt/bin/python3.6" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///usr/lib/python3.6" type="simple" />
+            <root url="file:///usr/lib/python3.6/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/.envs/girt/lib/python3.6/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.envs/girt/lib/python3.6/site-packages/tzlocal-2.0.0-py3.6.egg" type="simple" />
+            <root url="file://$USER_HOME$/.envs/girt/lib/python3.6/site-packages/rpy2-2.9.4-py3.6-linux-x86_64.egg" type="simple" />
+            <root url="file://$USER_HOME$/.envs/girt/lib/python3.6/site-packages/s3fs-0.4.0-py3.6.egg" type="simple" />
+            <root url="file://$USER_HOME$/.envs/girt/lib/python3.6/site-packages/boto3-1.12.21-py3.6.egg" type="simple" />
+            <root url="file://$USER_HOME$/.envs/girt/lib/python3.6/site-packages/pandas-1.0.1-py3.6-linux-x86_64.egg" type="simple" />
+            <root url="file://$USER_HOME$/.envs/girt/lib/python3.6/site-packages/pytz-2020.4-py3.6.egg" type="simple" />
+            <root url="file://$USER_HOME$/.envs/girt/lib/python3.6/site-packages/Jinja2-3.0.0a1-py3.6.egg" type="simple" />
+            <root url="file://$USER_HOME$/.envs/girt/lib/python3.6/site-packages/six-1.15.0-py3.6.egg" type="simple" />
+            <root url="file://$USER_HOME$/.envs/girt/lib/python3.6/site-packages/fsspec-0.8.4-py3.6.egg" type="simple" />
+            <root url="file://$USER_HOME$/.envs/girt/lib/python3.6/site-packages/s3transfer-0.3.3-py3.6.egg" type="simple" />
+            <root url="file://$USER_HOME$/.envs/girt/lib/python3.6/site-packages/jmespath-0.10.0-py3.6.egg" type="simple" />
+            <root url="file://$USER_HOME$/.envs/girt/lib/python3.6/site-packages/torch-1.4.0-py3.6-linux-x86_64.egg" type="simple" />
+            <root url="file://$USER_HOME$/.envs/girt/lib/python3.6/site-packages/numpy-1.18.1-py3.6-linux-x86_64.egg" type="simple" />
+            <root url="file://$USER_HOME$/.envs/girt/lib/python3.6/site-packages/inspera_girt-0.4.1-py3.6-linux-x86_64.egg" type="simple" />
+            <root url="file://$USER_HOME$/.cache/JetBrains/PyCharmCE2020.2/python_stubs/-547321235" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/dev/GIRT" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.9" />
+      <type value="Python SDK" />
+      <version value="Python 3.9.1" />
+      <homePath value="/usr/bin/python3.9" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///usr/lib/python3.9" type="simple" />
+            <root url="file:///usr/lib/python3.9/lib-dynload" type="simple" />
+            <root url="file:///usr/lib/python3.9/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.cache/JetBrains/PyCharmCE2020.2/python_stubs/-1247971760" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3.7" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.8 (loft)" />
+      <type value="Python SDK" />
+      <version value="Python 3.8.7" />
+      <homePath value="$USER_HOME$/.envs/loft/bin/python3.8" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///usr/lib/python3.8" type="simple" />
+            <root url="file:///usr/lib/python3.8/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/.envs/loft/lib/python3.8/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.cache/JetBrains/PyCharmCE2020.2/python_stubs/123650716" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3.7" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/dev/ATC" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.9 (nlp)" />
+      <type value="Python SDK" />
+      <version value="Python 3.9.2" />
+      <homePath value="$USER_HOME$/.envs/nlp/bin/python3.9" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///usr/lib/python3.9" type="simple" />
+            <root url="file:///usr/lib/python3.9/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/.envs/nlp/lib/python3.9/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.cache/JetBrains/PyCharmCE2020.2/python_stubs/-1799122916" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3.7" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.8 (loft) (2)" />
+      <type value="Python SDK" />
+      <version value="Python 3.8.7" />
+      <homePath value="$USER_HOME$/.envs/loft/bin/python3.8" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///usr/lib/python3.8" type="simple" />
+            <root url="file:///usr/lib/python3.8/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/.envs/loft/lib/python3.8/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/dev/ATC" type="simple" />
+            <root url="file://$USER_HOME$/.cache/JetBrains/PyCharmCE2020.2/python_stubs/123650716" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3.7" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.8 (object_detection)" />
+      <type value="Python SDK" />
+      <version value="Python 3.8.7" />
+      <homePath value="$USER_HOME$/dev/rnd-research/object_detection/venv/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///usr/lib/python3.8" type="simple" />
+            <root url="file:///usr/lib/python3.8/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/dev/rnd-research/object_detection/venv/lib/python3.8/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.cache/JetBrains/PyCharmCE2020.2/python_stubs/-2041680415" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3.7" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/dev/rnd-research/object_detection" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.8 (object_detection) (2)" />
+      <type value="Python SDK" />
+      <version value="Python 3.8.7" />
+      <homePath value="$USER_HOME$/dev/rnd-research/object_detection/venv/bin/python3.8" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///usr/lib/python3.8" type="simple" />
+            <root url="file:///usr/lib/python3.8/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/dev/rnd-research/object_detection/venv/lib/python3.8/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.cache/JetBrains/PyCharmCE2020.2/python_stubs/1625653180" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3.7" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/dev/rnd-research/object_detection" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (object_detection)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.9" />
+      <homePath value="$USER_HOME$/dev/rnd-research/object_detection/venv37/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///usr/lib/python3.7" type="simple" />
+            <root url="file:///usr/lib/python3.7/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/dev/rnd-research/object_detection/venv37/lib/python3.7/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.cache/JetBrains/PyCharmCE2020.2/python_stubs/-475130499" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3.7" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/dev/rnd-research/object_detection" />
+    </jdk>
+  </component>
+</application>

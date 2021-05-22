@@ -1,0 +1,182 @@
+<project version="4">
+  <component name="FileEditorManager">
+    <splitter split-orientation="horizontal" split-proportion="0.5">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/tests/test_loft_scenarios.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="1302">
+                  <caret line="79" column="35" selection-start-line="79" selection-start-column="35" selection-end-line="79" selection-end-column="35" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/tests/test_lambda_handler.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="398">
+                  <caret line="235" column="28" selection-start-line="235" selection-start-column="28" selection-end-line="235" selection-end-column="28" />
+                  <folding>
+                    <element signature="e#0#10#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/tests/test_loft_scenarios.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="490">
+                  <caret line="91" column="5" selection-start-line="91" selection-start-column="5" selection-end-line="91" selection-end-column="5" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/inspera_atc/loft/lambda_handler.py" />
+        <option value="$PROJECT_DIR$/inspera_atc/constants.py" />
+        <option value="$PROJECT_DIR$/inspera_loft_cat/lambda_handler.py" />
+      </list>
+    </option>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" x="-7692" y="22" width="3840" height="2138" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ATC" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ATC" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ATC" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ATC" type="462c0819:PsiDirectoryNode" />
+              <item name="inspera_loft_cat" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ATC" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ATC" type="462c0819:PsiDirectoryNode" />
+              <item name="inspera_loft_cat" type="462c0819:PsiDirectoryNode" />
+              <item name="models" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ATC" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ATC" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" commandHistoryFileName="history-1" />
+    </option>
+  </component>
+  <component name="TestHistory">
+    <history-entry file="pytest_in_test_lambda_handler_py - 2021.01.11 at 13h 24m 25s.xml">
+      <configuration name="pytest in test_lambda_handler.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_test_lambda_handler_test_metadata_extraction_with_b_0_parameter_stage - 2021.01.11 at 13h 25m 58s.xml">
+      <configuration name="pytest for test_lambda_handler.test_metadata_extraction_with_b_0_parameter_stage" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_test_lambda_handler_test_intermediary_fails_in_batching_dev - 2021.01.11 at 13h 30m 39s.xml">
+      <configuration name="pytest for test_lambda_handler.test_intermediary_fails_in_batching_dev" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_lambda_handler_py - 2021.01.11 at 13h 35m 28s.xml">
+      <configuration name="pytest in test_lambda_handler.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_test_lambda_handler_test_elasticsearch_with_item_stats_and_tt_history - 2021.01.11 at 13h 35m 44s.xml">
+      <configuration name="pytest for test_lambda_handler.test_elasticsearch_with_item_stats_and_tt_history" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_test_lambda_handler_test_intermediary_fails_in_batching_dev - 2021.01.11 at 13h 43m 48s.xml">
+      <configuration name="pytest for test_lambda_handler.test_intermediary_fails_in_batching_dev" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_test_lambda_handler_test_intermediary_fails_in_batching_dev - 2021.01.11 at 13h 50m 30s.xml">
+      <configuration name="pytest for test_lambda_handler.test_intermediary_fails_in_batching_dev" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_lambda_handler_py - 2021.01.11 at 13h 50m 43s.xml">
+      <configuration name="pytest in test_lambda_handler.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_test_lambda_handler_test_intermediary_fails_in_batching_dev - 2021.01.11 at 13h 52m 32s.xml">
+      <configuration name="pytest for test_lambda_handler.test_intermediary_fails_in_batching_dev" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_lambda_handler_py - 2021.01.11 at 13h 53m 31s.xml">
+      <configuration name="pytest in test_lambda_handler.py" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.020167626" />
+      <window_info id="Structure" order="1" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Commit" order="3" />
+      <window_info id="Pull Requests" order="4" />
+      <window_info id="aws.explorer" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="0" weight="0.32958436" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="2" visible="true" weight="0.32958436" />
+      <window_info anchor="bottom" id="Run" order="3" visible="true" weight="0.32942328" />
+      <window_info anchor="bottom" id="Problems View" order="4" />
+      <window_info anchor="bottom" id="Debug" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32958436" />
+      <window_info anchor="bottom" id="Python Console" order="9" />
+      <window_info anchor="bottom" id="Services" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="R Console" order="11" />
+      <window_info anchor="right" id="R Tools" order="0" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/inspera_atc/utils/verification_utils.py" />
+    <entry file="file://$USER_HOME$/.envs/loft/lib/python3.7/site-packages/_pytest/config/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/inspera_atc/utils/constraint_utils.py" />
+    <entry file="file://$PROJECT_DIR$/inspera_atc/models/atc_constraints.py" />
+    <entry file="file://$PROJECT_DIR$/inspera_atc/atc_solver.py" />
+    <entry file="file://$PROJECT_DIR$/inspera_atc/loft/lambda_handler.py" />
+    <entry file="file://$PROJECT_DIR$/inspera_atc/constants.py" />
+    <entry file="file://$PROJECT_DIR$/inspera_loft_cat/lambda_handler.py" />
+    <entry file="file://$PROJECT_DIR$/inspera_loft_cat/constants.py" />
+    <entry file="file://$PROJECT_DIR$/tests/test_lambda_handler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="398">
+          <caret line="235" column="28" selection-start-line="235" selection-start-column="28" selection-end-line="235" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/test_loft_scenarios.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="490">
+          <caret line="91" column="5" selection-start-line="91" selection-start-column="5" selection-end-line="91" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

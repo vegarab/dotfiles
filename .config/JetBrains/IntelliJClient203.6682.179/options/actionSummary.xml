@@ -1,0 +1,37 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="$Copy">
+      <i c="2" l="1610706863007" />
+    </e>
+    <e n="CWMThinClientShowPopupAction">
+      <i c="2" l="1610705435439" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="5" l="1610706365628" />
+    </e>
+    <e n="EditorEnter">
+      <i c="4" l="1610704762349" />
+    </e>
+    <e n="EditorPaste">
+      <i c="1" l="1610704123395" />
+    </e>
+    <e n="EditorTab">
+      <i c="5" l="1610704763704" />
+    </e>
+    <e n="ShowSettings">
+      <i c="1" l="1610704081471" />
+    </e>
+    <e n="com.intellij.openapi.actionSystem.EmptyAction$MyDelegatingAction">
+      <i c="333" l="1610706859108" />
+    </e>
+    <e n="com.intellij.openapi.ui.DialogWrapper$5">
+      <i c="1" l="1610704348516" />
+    </e>
+    <e n="com.jetbrains.rd.platform.codeWithMe.toolbar.CodeWithMeUsersGroupKt$createFollowAction$1">
+      <i c="1" l="1610705437735" />
+    </e>
+    <e n="com.maddyhome.idea.vim.ui.ex.ExShortcutKeyAction">
+      <i c="25" l="1610706367367" />
+    </e>
+  </component>
+</application>

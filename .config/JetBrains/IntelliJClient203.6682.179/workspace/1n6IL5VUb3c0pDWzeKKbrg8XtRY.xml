@@ -1,0 +1,130 @@
+<project version="4">
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="cwm-file:///home/bendik/PycharmProjects/GIRT/inspera_girt/data_loader.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="450">
+              <caret line="42" column="46" selection-start-line="42" selection-start-column="46" selection-end-line="42" selection-end-column="46" />
+              <folding>
+                <marker date="0" expanded="true" signature="0:383" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+                <marker date="0" expanded="true" signature="385:483" ph="import ..." />
+                <marker date="0" expanded="true" signature="530:11160" ph="..." />
+                <marker date="0" expanded="true" signature="535:641" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+                <marker date="0" expanded="true" signature="1189:5641" ph="..." />
+                <marker date="0" expanded="true" signature="1836:1944" ph="..." />
+                <marker date="0" expanded="true" signature="2922:3115" ph="..." />
+                <marker date="0" expanded="true" signature="3198:3397" ph="..." />
+                <marker date="0" expanded="true" signature="3453:4440" ph="..." />
+                <marker date="0" expanded="true" signature="4033:4440" ph="..." />
+                <marker date="0" expanded="true" signature="4479:4724" ph="..." />
+                <marker date="0" expanded="true" signature="4510:4644" ph="..." />
+                <marker date="0" expanded="true" signature="4738:4878" ph="..." />
+                <marker date="0" expanded="true" signature="4902:5282" ph="..." />
+                <marker date="0" expanded="true" signature="4933:5095" ph="..." />
+                <marker date="0" expanded="true" signature="5296:5611" ph="..." />
+                <marker date="0" expanded="true" signature="5789:10023" ph="..." />
+                <marker date="0" expanded="true" signature="5992:7120" ph="..." />
+                <marker date="0" expanded="true" signature="6005:6099" ph="..." />
+                <marker date="0" expanded="true" signature="6138:7120" ph="..." />
+                <marker date="0" expanded="true" signature="6155:6408" ph="..." />
+                <marker date="0" expanded="true" signature="6681:6827" ph="..." />
+                <marker date="0" expanded="true" signature="7235:7738" ph="..." />
+                <marker date="0" expanded="true" signature="7774:8136" ph="..." />
+                <marker date="0" expanded="true" signature="8743:9913" ph="..." />
+                <marker date="0" expanded="true" signature="8773:9248" ph="..." />
+                <marker date="0" expanded="true" signature="8790:8970" ph="..." />
+                <marker date="0" expanded="true" signature="9266:9837" ph="..." />
+                <marker date="0" expanded="true" signature="9283:9469" ph="..." />
+                <marker date="0" expanded="true" signature="10047:10102" ph="..." />
+                <marker date="0" expanded="true" signature="10135:10761" ph="..." />
+                <marker date="0" expanded="true" signature="10151:10761" ph="..." />
+                <marker date="0" expanded="true" signature="10784:11160" ph="..." />
+                <marker date="0" expanded="true" signature="10800:11160" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/../../../../../../bendik/PycharmProjects/GIRT/inspera_girt/data_loader.py" />
+    </changedPaths>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane" />
+    </panes>
+  </component>
+  <component name="ToolWindowManager">
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2497603" />
+      <window_info id="Structure" order="1" side_tool="true" />
+      <window_info id="Commit" order="2" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info anchor="bottom" id="Services" order="3" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+    </layout>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="4432" y="738" key="SettingsEditor" timestamp="1610704111253">
+      <screen x="1920" y="0" width="3840" height="2160" />
+    </state>
+    <state x="4432" y="738" key="SettingsEditor/1920.0.3840.2160/0.1488.1920.1080@1920.0.3840.2160" timestamp="1610704111253" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="cwm-file:///home/bendik/PycharmProjects/GIRT/inspera_girt/data_loader.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="42" column="46" selection-start-line="42" selection-start-column="46" selection-end-line="42" selection-end-column="46" />
+          <folding>
+            <marker date="0" expanded="true" signature="0:383" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="0" expanded="true" signature="385:483" ph="import ..." />
+            <marker date="0" expanded="true" signature="530:11160" ph="..." />
+            <marker date="0" expanded="true" signature="535:641" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="0" expanded="true" signature="1189:5641" ph="..." />
+            <marker date="0" expanded="true" signature="1836:1944" ph="..." />
+            <marker date="0" expanded="true" signature="2922:3115" ph="..." />
+            <marker date="0" expanded="true" signature="3198:3397" ph="..." />
+            <marker date="0" expanded="true" signature="3453:4440" ph="..." />
+            <marker date="0" expanded="true" signature="4033:4440" ph="..." />
+            <marker date="0" expanded="true" signature="4479:4724" ph="..." />
+            <marker date="0" expanded="true" signature="4510:4644" ph="..." />
+            <marker date="0" expanded="true" signature="4738:4878" ph="..." />
+            <marker date="0" expanded="true" signature="4902:5282" ph="..." />
+            <marker date="0" expanded="true" signature="4933:5095" ph="..." />
+            <marker date="0" expanded="true" signature="5296:5611" ph="..." />
+            <marker date="0" expanded="true" signature="5789:10023" ph="..." />
+            <marker date="0" expanded="true" signature="5992:7120" ph="..." />
+            <marker date="0" expanded="true" signature="6005:6099" ph="..." />
+            <marker date="0" expanded="true" signature="6138:7120" ph="..." />
+            <marker date="0" expanded="true" signature="6155:6408" ph="..." />
+            <marker date="0" expanded="true" signature="6681:6827" ph="..." />
+            <marker date="0" expanded="true" signature="7235:7738" ph="..." />
+            <marker date="0" expanded="true" signature="7774:8136" ph="..." />
+            <marker date="0" expanded="true" signature="8743:9913" ph="..." />
+            <marker date="0" expanded="true" signature="8773:9248" ph="..." />
+            <marker date="0" expanded="true" signature="8790:8970" ph="..." />
+            <marker date="0" expanded="true" signature="9266:9837" ph="..." />
+            <marker date="0" expanded="true" signature="9283:9469" ph="..." />
+            <marker date="0" expanded="true" signature="10047:10102" ph="..." />
+            <marker date="0" expanded="true" signature="10135:10761" ph="..." />
+            <marker date="0" expanded="true" signature="10151:10761" ph="..." />
+            <marker date="0" expanded="true" signature="10784:11160" ph="..." />
+            <marker date="0" expanded="true" signature="10800:11160" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
