@@ -6,6 +6,7 @@ call plug#begin('~/.vim/plugged')
 
 Plug 'neoclide/coc.nvim', {'branch': 'release'}
 
+Plug 'dracula/vim', { 'as': 'dracula' }
 Plug 'morhetz/gruvbox'
 Plug 'airblade/vim-gitgutter'
 Plug 'scrooloose/nerdtree'
@@ -26,7 +27,16 @@ let g:ctrlp_cmd = 'CtrlPMixed'
 set pyxversion=3
 
 let g:vimtex_view_method = 'mupdf'
-let g:tex_flavor = 'latex'
+let g:tex_flavor = 'xelatex'
+let g:vimtex_compiler_latexmk = { 
+        \ 'executable' : 'latexmk',
+        \ 'options' : [ 
+        \   '-xelatex',
+        \   '-file-line-error',
+        \   '-synctex=1',
+        \   '-interaction=nonstopmode',
+        \ ],
+        \}
 
 let g:airline#extensions#tabline#enabled = 1
 
@@ -51,8 +61,9 @@ set encoding=utf-8
 set background=dark
 
 "colorscheme wal
-colorscheme gruvbox
-let g:gruvbox_contrast_dark="hard"
+"colorscheme gruvbox
+colorscheme dracula
+"let g:gruvbox_contrast_dark="hard"
 hi Normal ctermbg=None
 
 autocmd VimResized * wimcmd = 
