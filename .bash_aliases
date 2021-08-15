@@ -1,9 +1,18 @@
 # personal aliases
 
-alias venv='source venv/bin/activate'
+alias venv='source .venv/bin/activate'
+
+alias vloft='source ~/.envs/loft/bin/activate'
+alias vgirt='source ~/.envs/girt/bin/activate'
+alias vability='source ~/.envs/ability/bin/activate'
+alias vnlp='source ~/.envs/nlp/bin/activate'
+alias vdataflow='source ~/.envs/dataflow/bin/activate'
+alias vcv='source ~/.envs/cv/bin/activate'
+alias vsqw='source ~/.envs/sqw/bin/activate'
 
 alias sshagent25='ssh agent25@agent25.tinusf.com'
 alias sshtk='ssh -i /home/vegarab/.ssh/id_rsa_gcloud vegar.andreas@35.228.238.45'
+alias sshcv='ssh -i /home/vegarab/.ssh/ad-hoc-deep-learning-p2xlarge-key-pair.pem ubuntu@ec2-34-241-127-0.eu-west-1.compute.amazonaws.com'
 
 # Google Calendar
 alias gc='gcalcli'
