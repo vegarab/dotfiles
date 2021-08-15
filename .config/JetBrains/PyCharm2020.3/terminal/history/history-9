@@ -1,0 +1,1000 @@
+status
+git status
+git merge master
+git rebase master
+git log
+git reset HEAD~1
+git status
+git diff
+git status
+git push --force
+git status
+git add CHANGELOG.md inspera_atc pyproject.toml 
+git status
+git stash
+git status
+git checkout CAT-68-test-prefix
+git log
+git rebase -i master
+git reflog
+git checkout HEAD@{3}
+it checkout CAT-68-test-prefix
+git status
+git reset HEAD~12
+git pull
+git pull origin CAT-68-test-prefix
+git rebase --abort
+git reflog
+git checkout master
+git status
+git add .
+git stash
+git status
+git checkout master
+git pull
+git branch -D CAT-68-test-prefix
+git pull
+git status
+git fetch
+git checkout CAT-68-test-prefix
+git pull
+git log
+git rebase -i master
+git log
+git rebase -i master
+git log
+git push --force
+git rebase -i master
+git push --force
+git checkout master
+git pull
+git checkout CAT-68-test-prefix
+git status
+mypy
+git add tests/test_cat_lambda_handler.py 
+git status
+git commit --amend
+git status
+git add tests/test_cat_lambda_handler.py 
+git commit --amend
+git push --force
+git checkout master
+mypy
+git status
+git add inspera_atc
+git checkout -b CAT-unused-fields
+git status
+git commit -v
+git status
+git add schemas/
+git commit -v
+git push --set-upstream origin CAT-unused-fields
+git checkout master
+git status
+git add .
+git stash
+git checkout master
+git checkout CAT-68-test-prefix
+git checkout master
+git pull
+cls
+git pull
+git log
+ls
+git status
+cz bump --changelog
+git reset HEAD~1
+git branch -d 2.6.0
+git tag -d 2.6.0
+git tag | grep 2.6.0
+git tag -d 2.6.0+cat1.1.0+ae2.0.1
+git tag -d 2.6.0+cat1.2.0+ae2.2.0
+git status
+git add .
+git stash
+git status
+cz bump --changelog
+python post_bump.py --help
+vim CHANGELOG.md 
+git add CHAn
+git add CHANGELOG.md 
+python post_bump.py --cat-incr minor --ae-incr patch
+git log
+git push
+git log
+git push --tag 2.6.0
+git push --help
+git log
+git push origin 2.6.0 2.6.0+cat1.1.0+ae2.0.1,
+git push origin 2.6.0 2.6.0+cat1.1.0+ae2.0.1
+git log
+z exercise
+vlucid
+ll
+feh exercise4.png 
+htop
+ps aux | grep pycharm
+pkill -9 325749
+ps aux | grep pycharm
+pkill -9 7396
+ps aux | grep pycharm
+pkill -9 4228
+pkill -9 4028
+pkill -9 4228
+ps aux | grep pycharm
+kill 3296
+kill -p 4028
+kill -9 4028
+pkill 4028
+ps aux | grep pycharm
+pkill 7396
+killall /usr/bin/pycharm
+ps aux | grep pycharm
+killall -r pycharm
+ps aux | grep pycharm
+killall -r *pycharm*
+ps aux | grep pycharm
+htop
+xrandr
+xrandr --help
+xrandr --output --auto
+xrandr --output DP-2 --auto
+xrandr --output DP-2 --panning 1920x1080
+z atc
+ll
+vim setup.cfg 
+ll
+vim .xprofile 
+setxkbmap -model pc104 -layout us -variant altgr-intl -option caps:swapescape
+vim .xprofile 
+xinput --set-prop 8 'libinput Accel Speed' -1.0
+xinput --set-prop 11 'libinput Accel Speed' -1.0
+killall slack
+z exercise
+vlucid
+git status
+git add figs/
+git commit -m "exercise_5 figures"
+git status
+git add exercise.ipynb 
+git commit -m "add exercise_6 questions"
+git status
+git add utils.py 
+git commit -m "add missing docstring"
+git log
+git rebase -i
+git log
+git rebase -i HEAD~12
+git rebase -i HEAD@~12
+git rebase -i @HEAD~12
+git log
+git rebase -i HEAD~12
+git rebase -i HEAD~11
+git log
+jupyter notebook
+git status
+git add .
+git commit -m "formatting"
+git log
+git rebase -i HEAD~4
+git log
+git status
+ll
+pip install jupytext
+ll
+jupytext --sync exercise.ipynb 
+jupytext --in exercise.ipynb --out execise.py
+jupytext --from exercise.ipynb --to execise.py
+jupytext --from exercise.ipynb -o execise.py
+ll
+vim exercise.py
+z exercise
+vim exercise.ipynb 
+z exercise
+git status
+git add exercise.ipynb 
+git add utils.py 
+git commit -m "metrics implementation"
+git status
+git add figs/
+git commit -m "updated example figures"
+vlucid
+jupyter notebooks
+jupyter notebook
+git status
+git add .
+git commit -m "add commentary"
+git status
+git add exercise.p
+git add exercise.py 
+git commit -m "add .py export of ipynb"
+git status
+ll
+jupytext --input exercise.ipynb -o exercise_out.py
+jupytext --from exercise.ipynb -o exercise_out.py
+ll
+git remote origin add-url git@github.com:vegarab/lucidtech_exercise.git
+git remote add origin git@github.com:vegarab/lucidtech_exercise.git
+git push origin master
+git status
+git add exercise.ipynb 
+git commit -m "update ex6 formatting"
+git log
+git rebase -i HEAD~5
+git push --force
+git push --set-upstream origin master --force
+git status
+git add .
+git commit -m "msg"
+git rebase -i HEAD~4
+git rebase -i HEAD~5
+git push --force
+git status
+git diff
+git status
+git diff
+git status
+git checkout exercise.ipynb 
+git status
+git add .
+git commit -m "fix typing"
+git push
+git status
+git add .
+git commit --amend
+git push --force
+git status
+git log
+git status
+git add README.md 
+git commit -m "docs: update README instructions"
+gitp ush 
+git push
+cd dl
+cd
+cd dl
+ll
+rm lucidtech_exercise-master.zip 
+htop
+cd .aws/
+ll
+vim config 
+vim credentials 
+xrandr --output DP-2 --panning 1920x1080
+xinout
+xinput
+z atc
+vloft
+git status
+git pull
+git checkout terraform
+git pull
+git checkout terraform_fix
+git pull
+git branch -d terraform
+got branch -m terraform
+git branch -m terraform
+git push --set-upstream origin terraform
+git push --set-upstream origin terraform --force
+git checkout master
+git pull
+git stash pop
+git status
+git add CHANGELOG.md 
+git status
+git stash
+git branch
+git checkout RND-839-stage-tests
+git log
+git reset HEAD~1
+git status
+git diff tests/test_loft_
+git diff tests/test_loft_lambda_handler.py 
+git status
+git add tests/
+cz commit
+git status
+git diff
+git reset
+git status
+git diff
+git log
+git status
+git diff
+git status
+git commit -v
+git status
+aws
+aws s3
+ll
+git log
+git status
+git add tests/
+git commit -v
+git status
+git log
+git rebase -i HEAD~2
+git status
+git log
+git status
+git add tests/
+git commit --amend
+git rebase --continue
+git log
+ll
+cd tmp
+ll
+mkdir loft_constraints 
+aws s3 cp --recursive s3://stage-inspera-rnd/loft_testing/loft_constraints loft_constraints
+aws
+aws help
+aws --profile atc-stage-test-user
+aws help
+aws --profile stage_test_user s3 cp --recursive s3://stage-inspera-rnd/loft_testing/loft_constraints loft_constraints
+cd ..
+git push --set-upstream origin RND-839-stage-tests
+git status
+git diff
+git status
+git checkout tests/scenarios/loft/s21.json 
+git status
+git add tests/
+git commit -v
+git push
+z girt
+vim requirements.txt
+z atc
+vloft
+git checkout RND-839-stage-tests
+mypy
+git sttus
+git status
+git add .
+git status
+git reset
+git status
+git add tests/scenarios/
+git status
+git commit -m "tmp"
+git rebase -i HEAD~3
+git status
+git push --force
+mypy
+cd docs/
+ll
+cd ..
+ll
+cd dl/
+ll
+startx
+sudo reboot
+z girt
+vgirt
+git branch | grep PCM
+git checkout RND-835_implement_PCM
+git status
+git checkout inspera_girt/girt_system.py 
+git checkout RND-835_implement_PCM
+ipython
+python
+pip install ipython
+ipython
+pip install IPython
+ipython
+python
+git status
+git diff
+git status
+git add .
+git stash
+git log
+git reset HEAD~1
+git status
+git add .
+git stash
+htop
+vim .xprofile 
+nput --set-prop 13 'libinput Accel Speed' -0.4
+xinput --set-prop 13 'libinput Accel Speed' 1.0
+xinput --set-prop 13 'libinput Accel Speed' 0.0
+xinput --set-prop 13 'libinput Accel Speed' -0.2
+xinput --set-prop 13 'libinput Accel Speed' -0.4
+xinput
+vim .xprofile
+nput --set-prop 15 'libinput Accel Speed' -1.0
+xinput --set-prop 15 'libinput Accel Speed' -1.4
+xinput --set-prop 17 'libinput Accel Speed' -1.4
+xinput --set-prop 25 'libinput Accel Speed' -1.4
+xinput --set-prop 25 'libinput Accel Speed' -1.0
+xinput --set-prop 26 'libinput Accel Speed' -1.0
+htop
+startx
+killall slack
+vim .xprofile 
+setxkbmap -model pc104 -layout us -variant altgr-intl -option caps:swapescape
+scrot -s
+killall slack
+sudo rebot
+sudo reboot
+xinput
+vim tmp
+vim niels
+startx
+vim .xprofile 
+xinput --set-prop 15 'libinput Accel Speed' -1.0
+xinput --set-prop 13 'libinput Accel Speed' -1.0
+vgirt
+pip install black
+z girt
+git diff
+git status
+git diff
+git status
+git add inspera_girt/girt_system.py 
+git add inspera_girt/girt_item_module.py 
+git status
+git add inspera_girt/hypergraph.py 
+git status
+git add inspera_girt/hypergraph.py 
+git statu
+git status
+git commit -m "feat: add PCM decomposition of b_jk"
+git push
+killall slack
+git diff
+sudo reboot
+xinput
+startx
+vim .xprofile 
+xinput --set-prop 15 'libinput Accel Speed' -1.0
+xinput --set-prop 13 'libinput Accel Speed' -1.0
+xinput
+startx]
+startx
+vim .xprofile 
+xinput --set-prop 15 'libinput Accel Speed' -1.0
+xinput --set-prop 13 'libinput Accel Speed' -1.0
+vim
+htop
+htop
+z girt
+git status
+git diff new_tests/
+git log
+zatc
+z atc
+vloft
+git status
+git checkout master
+git checkout terraform
+git pull
+cd ..
+cd rnd-research/
+git status
+git pull
+git branch
+git merge ability-estimate
+git merge object_detection
+zgirt
+z girt
+vgirt
+git pull
+git checkout tmp-835-bendik
+git checkout origin/tmp-835-bendik
+git checkout temp-835-bendik
+git checkout new_tests/
+git checkout temp-835-bendik
+git status
+git diff
+git status
+diff
+git diff
+git status
+git log
+git pull
+git add inspera_girt/girt_item_module.py 
+git stash
+git pull
+git log
+xinput
+vim .xprofile 
+xinput --set-prop 15 'libinput Accel Speed' -1.0
+xinput --set-prop 25 'libinput Accel Speed' -1.0
+vim .xprofile 
+setxkbmap -model pc104 -layout us -variant altgr-intl -option caps:swapescape
+killall slack
+python
+killall slack
+vim .xprofile 
+nput --set-prop 15 'libinput Accel Speed' -1.0
+innput --set-prop 13 'libinput Accel Speed' -1.0
+xinput --set-prop 13 'libinput Accel Speed' -1.0
+killall slack
+python
+100/15
+python
+killall slack
+z girt
+git checkout RND-835_implement_PCM
+git pull
+git rebase -i master
+git status
+git add new_tests/test_mirt_and_girt/test_mirt_and_girt.py 
+git rebase --continue
+git status
+git add .
+git rebase --continue
+git status
+git add .
+git rebase --continue
+git status
+git add .
+git rebase --continue
+git status
+git add .
+git rebase --continue
+git status
+git add .
+git rebase --continue
+git status
+git add .
+git rebase --continue
+git log
+git push --set-upstream origin RND-836-PCM
+git push origin RND-836-PCM
+git checkout -b RND-836-PCM
+git log
+git push --set-upstream origin RND-836-PCM
+git rebase -i master
+git status
+git add .
+git log
+git commit --amend
+git rebase master
+git rebase -i master
+git log
+git status
+git rebase -i master
+git log
+git push --force
+vgirt
+pre-commit install
+pip install pre-commit
+pre-commit install
+git status
+git add .
+git log
+git commit -m "tmp"
+git status
+git commit -m "tmp" --no-verify
+git rebase -i master
+git push --force
+python
+killall firefox
+python
+killall slack
+git checkout tests/test_distributed_girt.py 
+git status
+git iff
+git diff
+git status
+git add .
+git checkout -b RND-836-PCM-tests
+git status
+git commit -v
+git status
+git push --set-upstream origin RND-836-PCM-tests
+git status
+git diff
+git status
+git add new_tests/test_mirt_and_girt/test_mirt_and_girt_utils.py 
+git status
+git commit --amend
+git status
+git add new_tests/test_mirt_and_girt/
+git status
+git commit --amend
+git status
+git add new_tests/
+git status
+git commit -v
+git status
+git push --force
+git status
+ipython
+htop
+cd
+vim vidar
+vim vidar 
+z girt
+git log
+startx
+git status
+zgirt
+z girt
+vgirt
+git status
+git diff
+git status
+git add new_tests/
+git status
+git add new_tests/
+git commit -v
+git status
+git diff new_tests/
+git add new_tests/
+git commiut -v
+git commit -v
+git push
+cd dl
+mv EA_-_Vegar_Andreas_Bergum_\(1\)\(1\).pdf EA_-_Vegar_Andreas_Bergum_signed.pdf
+sudo reboot
+startx
+z girt
+git status
+git diff
+git status
+git add new_tests/
+git commit -v
+git log
+git status
+git diff
+git status
+git add new_tests/
+git commit -v
+git pus
+git push
+git checkout RND-836-PCM
+git checkout RND-836-PCM-tests
+git status
+git add new_tests/
+git stash
+git checkout RND-836-PCM-tests
+git revert 4a6ce53 
+git status
+git log
+git reset HEAD~1
+git status
+git log
+git status
+git checkout inspera_girt
+git checkout new_tests/
+git status
+git log
+git revert 4a6ce53b5ef8e034d6d9814cdab5dcc20b5ad500
+git reset --hard HEAD~1
+git log
+git checkout master
+git status
+git diff
+git checkout RND-836-PCM-tests
+git checkout new_tests/
+git checkout RND-836-PCM-tests
+git status
+git diff
+git status
+git diff new_tests/
+git status
+git add new_tests/
+git commit -v
+git log
+git status
+git push
+sudo shutdown
+sudo shutdown -h now
+cd dl
+ll
+mv Share_Option_Agreement_VAB.docx\(1\).pdf Share_Option_Agreement_VAB_signed.pdf
+mupdf Share_Option_Agreement_VAB_signed.pdf 
+vim .xprofile 
+xinput
+xinput --set-prop 15 'libinput Accel Speed' -1.0
+xinput --set-prop 13 'libinput Accel Speed' -1.0
+git status
+z girt
+git status
+z CTT
+git checkout 24bbfb265a3f747f8cf66b1c823fc3e35db2699d
+git switch -c v0.5.5
+git status
+git add .
+git commit -m "build: GIRT@RND-836-PCM-tests"
+git push
+git push --set-upstream origin v0.5.5
+git cherry-pick 
+c0a00e7 
+git cherry-pick c0a00e7
+git cherry-pick f573b88 
+git push
+z dev
+git clone git@github.com:inspera/recalibration-exercise
+mkdir asd
+ll
+cd
+cd dev/
+git clone git@github.com:inspera/recalibration-exercise
+cls
+ll
+cd recalibration-exercise/
+ll
+cd dev/
+cd recalibration-exercise/
+git pull
+git stastus
+git log
+git status
+git rebase -i HEAD~36
+git rebase -i @HEAD~36
+git rebase -i @HEAD~35
+git rebase -i HEAD~35
+git log
+git rebase -i HEAD~1
+git log
+z girt
+git log
+z recalibration
+ll
+git status
+git log
+git push --force
+vim .gitignore
+git status
+git add .gitignore 
+git commit -m "build: add gitignore"
+git status
+git push
+startx
+killall slack
+cd dl
+rm oppsigelsesbrev.pdf 
+firefox oppsigelsesbrev.pdf 
+vim .xprofile 
+xinput
+xinput --set-prop 15 'libinput Accel Speed' -1.0
+xinput --set-prop 13 'libinput Accel Speed' -1.0
+z girt
+git status
+git add .
+git checkout RND-836-PCM-test
+git checkout RND-836-PCM-tests
+git add .
+git stash
+git checkout RND-836-PCM-tests
+git merge RND-836-PCM
+git rebase RND-836-PCM
+git log
+git pull --hard
+git pull --force
+git log
+git reset HEAD~12
+git add .
+git stash
+git pull
+git checkout RND-836-PCM
+git pull
+git checkout RND-836-PCM-tests
+git merge RND-836-PCM
+git add .
+git commit
+git rebase RND-836-PCM
+git add .
+git rebase --continue
+git push --force
+git status
+git diff new_tests/test_mirt_and_girt/test_mirt_and_girt_utils.py 
+git status
+git add new_tests/test_mirt_and_girt/test_mirt_and_girt_utils.py 
+git commit -m "fix merge"
+git status
+git diff
+git status
+git add .
+git stash
+git stash pop
+git status
+git checkout inspera_girt
+git stash pop
+git status
+git add .
+git stash
+git status
+git stash pop
+git checkout inspera_girt
+git stash pop
+git add .
+git stash
+git status
+git add .
+git commit -m "fix: disable cuda"
+git status
+git add .
+git commit -m "fix: disable cuda"
+git status
+git stash pop
+git status
+git add .
+git status
+git push
+git rebase -i RND-836-PCM
+git add .
+git stash
+git rebase -i RND-836-PCM
+git push --force
+git stash pop
+git status
+git add .
+git stash
+git status
+git diff
+git checkout new_tests
+git status
+git stash pop
+git status
+git add .
+cd
+scrot -s
+z girt
+git status
+git commit -v
+z CTT
+git status
+git diff
+git status
+git add .
+git commit -v
+git push
+z girt
+git status
+git push
+z CTT
+git log
+vim dependencies.py 
+git staus
+git status
+git add .
+git commit -m "rebase"
+git rebase -i HEAD~5
+git push --force
+htop
+neofetch
+nvidia-smi
+neofetch
+fdisk -l
+sudo fdisk -l
+ipython
+git pull
+z GIRT
+git pull
+z atc
+vloft
+git checkout RND-839-stage-tests
+git pull
+git status
+git add tests/scenarios/
+git status
+git commit -v
+git status
+git add tests
+git commit -v
+git log
+git rebase -i HEAD~4
+git push --force
+z girt
+vgirt
+git status
+git diff
+git status
+git log
+git status
+git add inspera_girt/girt_item_module.py 
+git commit -m "max cat"
+git status
+git add inspera_girt
+git commit -v
+git status
+git log
+git rebase -i HEAD~4
+git rebase --abort
+git reflog
+git log
+git push
+git pull --rebase
+git push
+git rebase master
+git log
+git rebase -i HEAD~3
+git log
+git push --force
+cd
+cd dl
+vim stdout
+vim stdout--2021-07-16--11-00 
+xinput
+cd atc_testing_bank 
+ll
+z atc
+ll
+htop
+z research
+git status
+cd ..
+ll
+mkdir author_assist
+cd author_assist/
+ll
+vim .xprofile 
+xinput --set-prop 15 'libinput Accel Speed' -0.4
+cd .envs/
+virtualenv --python=/usr/bin/python3.8 sqw
+bra
+ll
+cd ..
+pip install poetry
+z atc
+ll
+ll
+z author
+cd ..
+cd rnd-research/author_assist/
+ll
+git checkout -b author-assist
+ll
+git status
+vswq
+vsqw
+pip install poetry
+cd ..
+rm -rf author_assist/
+poetry new author_assist
+ll
+cd author_assist/
+ll
+cd ..
+ll
+git status
+cd author_assist/
+ll
+cd author_assist/
+ll
+cd ..
+vim pyproject.toml 
+ll
+cat README.rst 
+cd tests/
+ll
+cd ..
+rm -rf tests/
+ll
+rm README.rst 
+ll
+vim pyproject.toml 
+ll
+mv author_assist/ inspera_author
+ll
+vim pyproject.toml 
+poetry remove pytest
+cat pyproject.toml b
+poetry remove -d pytest
+poetry remove -D pytest
+cat pyproject.toml 
+ll
+z research
+ll
+cd ..
+ll
+cat .gitignore 
+z atc
+ll
+vim
+ll
+vim .pre-commit-config.yaml 
+z atc
+ll
+cat .pre-commit-config.yaml 
+ll
+cat setup.cfg 
+ll
+cat pyproject.toml 
+vim pyproject.toml 
+python inspera_author/train.py --do_train --do_eval --remove_unused_columns false --per_device_train_batch_size 4 --per_device_eval_batch_size 4 --eval_steps 300 --evaluation_strategy steps --logging_steps 50 --logging_first_step
+python inspera_author/train.py --do_train --do_eval --remove_unused_columns false --per_device_train_batch_size 4 --per_device_eval_batch_size 4 --eval_steps 300 --evaluation_strategy steps --logging_steps 50 --loggi\

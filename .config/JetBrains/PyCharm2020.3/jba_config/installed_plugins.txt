@@ -9,3 +9,6 @@ R4Intellij
 aws.toolkit
 ru.meanmail.plugin.requirements
 org.intellij.plugins.hcl
+com.koxudaxi.poetry
+cn.jxzhang.plugin.json-formatter
+com.mallowigi

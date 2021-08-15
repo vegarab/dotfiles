@@ -14,7 +14,6 @@
             <root url="file://$USER_HOME$/.envs/girt/lib/python3.6/site-packages/tzlocal-2.0.0-py3.6.egg" type="simple" />
             <root url="file://$USER_HOME$/.envs/girt/lib/python3.6/site-packages/rpy2-2.9.4-py3.6-linux-x86_64.egg" type="simple" />
             <root url="file://$USER_HOME$/.envs/girt/lib/python3.6/site-packages/s3fs-0.4.0-py3.6.egg" type="simple" />
-            <root url="file://$USER_HOME$/.envs/girt/lib/python3.6/site-packages/pandas-1.0.1-py3.6-linux-x86_64.egg" type="simple" />
             <root url="file://$USER_HOME$/.envs/girt/lib/python3.6/site-packages/pytz-2020.4-py3.6.egg" type="simple" />
             <root url="file://$USER_HOME$/.envs/girt/lib/python3.6/site-packages/Jinja2-3.0.0a1-py3.6.egg" type="simple" />
             <root url="file://$USER_HOME$/.envs/girt/lib/python3.6/site-packages/six-1.15.0-py3.6.egg" type="simple" />
@@ -22,7 +21,8 @@
             <root url="file://$USER_HOME$/.envs/girt/lib/python3.6/site-packages/jmespath-0.10.0-py3.6.egg" type="simple" />
             <root url="file://$USER_HOME$/.envs/girt/lib/python3.6/site-packages/torch-1.4.0-py3.6-linux-x86_64.egg" type="simple" />
             <root url="file://$USER_HOME$/.envs/girt/lib/python3.6/site-packages/numpy-1.18.1-py3.6-linux-x86_64.egg" type="simple" />
-            <root url="file://$USER_HOME$/.envs/girt/lib/python3.6/site-packages/inspera_girt-0.4.1-py3.6-linux-x86_64.egg" type="simple" />
+            <root url="file://$USER_HOME$/.envs/girt/lib/python3.6/site-packages/boto3-1.12.21-py3.6.egg" type="simple" />
+            <root url="file://$USER_HOME$/.envs/girt/lib/python3.6/site-packages/pandas-1.2.3-py3.6-linux-x86_64.egg" type="simple" />
             <root url="file://$USER_HOME$/.cache/JetBrains/PyCharm2020.3/python_stubs/-547321235" type="simple" />
             <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" type="simple" />
             <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/3" type="simple" />
@@ -141,6 +141,104 @@
         </sourcePath>
       </roots>
       <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.9 (lucid)" />
+      <type value="Python SDK" />
+      <version value="Python 3.9.2" />
+      <homePath value="$USER_HOME$/.envs/lucid/bin/python3.9" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///usr/lib/python3.9" type="simple" />
+            <root url="file:///usr/lib/python3.9/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/.envs/lucid/lib/python3.9/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.cache/JetBrains/PyCharm2020.3/python_stubs/-1451934913" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/3.9" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/3.7" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/dev/exercise" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.8 (girt)" />
+      <type value="Python SDK" />
+      <version value="Python 3.8.7" />
+      <homePath value="$USER_HOME$/.envs/girt/bin/python3.8" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///usr/lib/python3.8" type="simple" />
+            <root url="file:///usr/lib/python3.8/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/.envs/girt/lib/python3.8/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.envs/girt/lib/python3.8/site-packages/tzlocal-2.0.0-py3.8.egg" type="simple" />
+            <root url="file://$USER_HOME$/.envs/girt/lib/python3.8/site-packages/rpy2-2.9.4-py3.8-linux-x86_64.egg" type="simple" />
+            <root url="file://$USER_HOME$/.envs/girt/lib/python3.8/site-packages/s3fs-0.4.0-py3.8.egg" type="simple" />
+            <root url="file://$USER_HOME$/.envs/girt/lib/python3.8/site-packages/boto3-1.12.21-py3.8.egg" type="simple" />
+            <root url="file://$USER_HOME$/.envs/girt/lib/python3.8/site-packages/numpy-1.18.1-py3.8-linux-x86_64.egg" type="simple" />
+            <root url="file://$USER_HOME$/.envs/girt/lib/python3.8/site-packages/pandas-1.2.3-py3.8-linux-x86_64.egg" type="simple" />
+            <root url="file://$USER_HOME$/.envs/girt/lib/python3.8/site-packages/mpi4py-3.0.3-py3.8-linux-x86_64.egg" type="simple" />
+            <root url="file://$USER_HOME$/.envs/girt/lib/python3.8/site-packages/horovod-0.22.1-py3.8-linux-x86_64.egg" type="simple" />
+            <root url="file://$USER_HOME$/.envs/girt/lib/python3.8/site-packages/pytz-2021.1-py3.8.egg" type="simple" />
+            <root url="file://$USER_HOME$/.envs/girt/lib/python3.8/site-packages/Jinja2-3.0.1-py3.8.egg" type="simple" />
+            <root url="file://$USER_HOME$/.envs/girt/lib/python3.8/site-packages/six-1.16.0-py3.8.egg" type="simple" />
+            <root url="file://$USER_HOME$/.envs/girt/lib/python3.8/site-packages/fsspec-2021.6.1-py3.8.egg" type="simple" />
+            <root url="file://$USER_HOME$/.envs/girt/lib/python3.8/site-packages/s3transfer-0.3.7-py3.8.egg" type="simple" />
+            <root url="file://$USER_HOME$/.envs/girt/lib/python3.8/site-packages/jmespath-0.10.0-py3.8.egg" type="simple" />
+            <root url="file://$USER_HOME$/.envs/girt/lib/python3.8/site-packages/cffi-1.14.5-py3.8-linux-x86_64.egg" type="simple" />
+            <root url="file://$USER_HOME$/.envs/girt/lib/python3.8/site-packages/PyYAML-5.4.1-py3.8-linux-x86_64.egg" type="simple" />
+            <root url="file://$USER_HOME$/.envs/girt/lib/python3.8/site-packages/psutil-5.8.0-py3.8-linux-x86_64.egg" type="simple" />
+            <root url="file://$USER_HOME$/.envs/girt/lib/python3.8/site-packages/cloudpickle-1.6.0-py3.8.egg" type="simple" />
+            <root url="file://$USER_HOME$/.envs/girt/lib/python3.8/site-packages/pycparser-2.20-py3.8.egg" type="simple" />
+            <root url="file://$USER_HOME$/.cache/JetBrains/PyCharm2020.3/python_stubs/-547321233" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/3.7" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.8 (sqw)" />
+      <type value="Python SDK" />
+      <version value="Python 3.8.7" />
+      <homePath value="$USER_HOME$/.envs/sqw/bin/python3.8" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///usr/lib/python3.8" type="simple" />
+            <root url="file:///usr/lib/python3.8/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/.envs/sqw/lib/python3.8/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.cache/JetBrains/PyCharm2020.3/python_stubs/82715458" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/3.7" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/dev/rnd-research/author_assist" />
     </jdk>
   </component>
 </application>

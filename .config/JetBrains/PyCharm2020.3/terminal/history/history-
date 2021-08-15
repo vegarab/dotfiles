@@ -1,7 +1,3 @@
-ll
-cat loft/bin/activate
-vim girt/bin/activate
-vgirt
 cd .ssh/
 ll
 cat config 
@@ -998,3 +994,7 @@ cd CTT_IRT/
 ll
 pytest tests/test_irt/test_girt_wrapper.py 
 pytest tests/test_irt/test_girt_wrapper.py -x
+htop
+z girt
+git status
+git diff

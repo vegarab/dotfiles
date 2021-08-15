@@ -96,39 +96,63 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
-        <entry key="$USER_HOME$/dev/GIRT">
+        <entry key="$USER_HOME$/dev/exercise">
           <value>
-            <RecentProjectMetaInfo displayName="GIRT, Module: 'CTT_IRT'..." frameTitle="GIRT – IRT.py [CTT_IRT]" projectWorkspaceId="1lxi38EBnu0FyEqC33sAhondx93">
+            <RecentProjectMetaInfo frameTitle="exercise – README.md" projectWorkspaceId="1twj3861al7n2IOvjTzJfsaf1Pr">
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="PY-203.7717.81" />
-              <option name="buildTimestamp" value="1616674823468" />
-              <frame x="0" y="18" width="1920" height="1062" />
+              <option name="buildTimestamp" value="1616674833710" />
+              <frame x="1920" y="22" width="3840" height="2138" />
               <option name="productionCode" value="PY" />
-              <option name="projectOpenTimestamp" value="1620647458167" />
+              <option name="projectOpenTimestamp" value="1624051490441" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
-        <entry key="$USER_HOME$/dev/qaas_nlp">
+        <entry key="$USER_HOME$/dev/recalibration-exercise">
           <value>
-            <RecentProjectMetaInfo displayName="qaas_nlp, Module: 'msc-question-generation'..." frameTitle="qaas_nlp – train.py [qaas_nlp]" projectWorkspaceId="1sU3k3BqH0d21XWsPDFMtuY5v2o">
+            <RecentProjectMetaInfo displayName="recalibration-exercise, Module: 'GIRT'" frameTitle="recalibration-exercise – README.md [recalibration-exercise]" projectWorkspaceId="1vLIQPb71qs5VCMbkahLhZVrsiy">
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="PY-203.7717.81" />
-              <option name="buildTimestamp" value="1616674817646" />
+              <option name="buildTimestamp" value="1616674847923" />
+              <frame x="4032" y="22" width="1722" height="1063" />
+              <option name="productionCode" value="PY" />
+              <option name="projectOpenTimestamp" value="1626334956612" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/dev/rnd-research/author_assist">
+          <value>
+            <RecentProjectMetaInfo frameTitle="author_assist – constants.py" projectWorkspaceId="1vcmPI5VF2T7mvvM0o63XOlzgHX">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PY-203.7717.81" />
+              <option name="buildTimestamp" value="1616674853944" />
               <frame x="0" y="18" width="1920" height="1062" />
               <option name="productionCode" value="PY" />
-              <option name="projectOpenTimestamp" value="1621063897701" />
+              <option name="projectOpenTimestamp" value="1626869725291" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/dev/GIRT">
+          <value>
+            <RecentProjectMetaInfo displayName="GIRT, Module: 'recalibration-exercise'..." frameTitle="GIRT – model_converter.py [CTT_IRT]" projectWorkspaceId="1lxi38EBnu0FyEqC33sAhondx93">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PY-203.7717.81" />
+              <option name="buildTimestamp" value="1616674856706" />
+              <frame x="0" y="18" width="1920" height="1062" />
+              <option name="productionCode" value="PY" />
+              <option name="projectOpenTimestamp" value="1628665489848" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
         <entry key="$USER_HOME$/dev/ATC">
           <value>
-            <RecentProjectMetaInfo displayName="ATC, Module: 'data-platform-infrastructure'..." frameTitle="ATC – datahub.py [ATC]" opened="true" projectWorkspaceId="1mmpdOKht87UXoFa1YNV7avjRLq">
+            <RecentProjectMetaInfo displayName="ATC, Module: 'data-platform-infrastructure'..." frameTitle="ATC – ability/lambda_handler.py [ATC]" opened="true" projectWorkspaceId="1mmpdOKht87UXoFa1YNV7avjRLq">
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="PY-203.7717.81" />
-              <option name="buildTimestamp" value="1616674817646" />
-              <frame x="0" y="18" width="1920" height="1062" />
+              <option name="buildTimestamp" value="1616674833337" />
+              <frame x="1056" y="21" width="858" height="1053" />
               <option name="productionCode" value="PY" />
-              <option name="projectOpenTimestamp" value="1621321332670" />
+              <option name="projectOpenTimestamp" value="1628670777918" />
             </RecentProjectMetaInfo>
           </value>
         </entry>

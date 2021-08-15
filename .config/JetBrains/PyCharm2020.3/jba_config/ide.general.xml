@@ -6,7 +6,6 @@
     <option name="widgets">
       <map>
         <entry key="AwsSettingsPanel" value="false" />
-        <entry key="CwmWireStatsWidgetFactory" value="false" />
         <entry key="Encoding" value="false" />
         <entry key="GridPosition" value="false" />
         <entry key="LineSeparator" value="false" />
@@ -14,7 +13,6 @@
         <entry key="ReadOnlyAttribute" value="false" />
         <entry key="TypeScriptInfo" value="false" />
         <entry key="com.intellij.psi.codeStyle.statusbar.CodeStyleStatusBarWidget" value="false" />
-        <entry key="mtStatusBar" value="false" />
       </map>
     </option>
   </component>
