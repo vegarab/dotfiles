@@ -173,7 +173,7 @@
           <ShortCut>'Ctrl+Alt+Shift+O'</ShortCut>
           <Description>Main Menu</Description>
           <Count>1</Count>
-          <Hit>2</Hit>
+          <Hit>3</Hit>
         </Item>
       </Statistic>
       <Statistic Action="Move Tab to New Window">
@@ -716,7 +716,7 @@
           <IdeaActionID>ShowSettings</IdeaActionID>
           <ShortCut>'Ctrl+Alt+S'</ShortCut>
           <Description>Settings...</Description>
-          <Count>52</Count>
+          <Count>53</Count>
           <Hit>3</Hit>
         </Item>
       </Statistic>

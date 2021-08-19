@@ -1,0 +1,557 @@
+sum(irtmodule_parameters.data.grad)
+-. . -..- - / . -. - .-. -.--
+sum(irtmodule_parameter.data.grad)
+-. . -..- - / . -. - .-. -.--
+sum(irtmodule_parameter.grad)
+-. . -..- - / . -. - .-. -.--
+pickle.dump(girt_difficulties, open("tmp/girt_difficulties.pt"))
+-. . -..- - / . -. - .-. -.--
+pickle.dump(girt_difficulties, open("tmp/girt_difficulties.pt", 'wb'))
+-. . -..- - / . -. - .-. -.--
+pwd
+-. . -..- - / . -. - .-. -.--
+dir
+-. . -..- - / . -. - .-. -.--
+pickle.dump(girt_difficulties, open("girt_difficulties.pt", 'wb'))
+-. . -..- - / . -. - .-. -.--
+pickle.dump(girt_difficulties, open("/tmp/girt_difficulties.pt", 'wb'))
+-. . -..- - / . -. - .-. -.--
+pickle.dump(girt_difficulties, open("/tmp/girt_difficulties_no_shift_no_norm.pt", 'wb'))
+-. . -..- - / . -. - .-. -.--
+girt_diff_no_shift = pickle.load(open("/tmp/girt_difficulties_no_shift_no_norm.pt", 'rb'))
+-. . -..- - / . -. - .-. -.--
+girt_diff_no_shift - girt_difficulties
+-. . -..- - / . -. - .-. -.--
+_.mean()
+-. . -..- - / . -. - .-. -.--
+mean(_)
+-. . -..- - / . -. - .-. -.--
+np.asarray(girt_diff_no_shift) - np.asarray(girt_difficulties)
+-. . -..- - / . -. - .-. -.--
+np.mean(_)
+-. . -..- - / . -. - .-. -.--
+pickle.dump(girt_difficulties, open("/tmp/girt_difficulties_w_shift_no_norm.pt", 'wb'))
+-. . -..- - / . -. - .-. -.--
+pickle.dump(girt_difficulties, open("/tmp/girt_difficulties_w_shift_no_norm_no_cum.pt", 'wb'))
+-. . -..- - / . -. - .-. -.--
+import pickle
+-. . -..- - / . -. - .-. -.--
+girt_diff_no_cum = pickle.load(open("/tmp/girt_difficulties_no_shift_no_norm_no_cum.pt", 'rb'))
+-. . -..- - / . -. - .-. -.--
+girt_diff_no_cum = pickle.load(open("/tmp/girt_difficulties_w_shift_no_norm_no_cum.pt", 'rb'))
+-. . -..- - / . -. - .-. -.--
+np.asarray(girt_diff_no_cum) - np.asarray(girt_difficulties)
+-. . -..- - / . -. - .-. -.--
+self.input_logistic.shape
+-. . -..- - / . -. - .-. -.--
+t = torch.zeros(1, 2, 3, 4)
+-. . -..- - / . -. - .-. -.--
+hape
+-. . -..- - / . -. - .-. -.--
+t.shape
+-. . -..- - / . -. - .-. -.--
+t.view(0, -1, 3)
+-. . -..- - / . -. - .-. -.--
+t.reshape(0, -1, 3)
+-. . -..- - / . -. - .-. -.--
+self.__irtmodules
+-. . -..- - / . -. - .-. -.--
+self._GirtSystem__irtmodules
+-. . -..- - / . -. - .-. -.--
+self._GIRTSystem__irtmodules
+-. . -..- - / . -. - .-. -.--
+self._GIRTSystem__irtmodules.frozen
+-. . -..- - / . -. - .-. -.--
+self._GIRTSystem__irtmodules[0].frozen
+-. . -..- - / . -. - .-. -.--
+self._GIRTSystem__irtmodules[0].fixed
+-. . -..- - / . -. - .-. -.--
+self._GIRTSystem__irtmodules[1].fixed
+-. . -..- - / . -. - .-. -.--
+self._GIRTSystem__irtmodules[1].frozen
+-. . -..- - / . -. - .-. -.--
+learning_mode
+-. . -..- - / . -. - .-. -.--
+d = torch.ones([5, 3*4])
+-. . -..- - / . -. - .-. -.--
+d.reshape([5, 3, 4])
+-. . -..- - / . -. - .-. -.--
+d = _
+-. . -..- - / . -. - .-. -.--
+torch.sum(d, dim=1)
+-. . -..- - / . -. - .-. -.--
+torch.sum(torch.sum(d, dim=2), dim=1)
+-. . -..- - / . -. - .-. -.--
+torch.sum(d, dim=2)
+-. . -..- - / . -. - .-. -.--
+b = self.get_bias_2pl(0)
+-. . -..- - / . -. - .-. -.--
+self.get_b_j() - self.get_d_k()
+-. . -..- - / . -. - .-. -.--
+self.get_b_j() - self.get_d_k().grad
+-. . -..- - / . -. - .-. -.--
+(self.get_b_j() - self.get_d_k()).grad
+-. . -..- - / . -. - .-. -.--
+(self.get_b_j() - self.get_d_k())
+-. . -..- - / . -. - .-. -.--
+self.get_b_j()
+-. . -..- - / . -. - .-. -.--
+_.grad
+-. . -..- - / . -. - .-. -.--
+self.get_b_j().grad
+-. . -..- - / . -. - .-. -.--
+self.get_b_j()[0].grad
+-. . -..- - / . -. - .-. -.--
+self.get_d_k().grad
+-. . -..- - / . -. - .-. -.--
+self.get_d_k()[0].grad
+-. . -..- - / . -. - .-. -.--
+d = torch.ones(3, 4)
+-. . -..- - / . -. - .-. -.--
+d.sum(dim=1)
+-. . -..- - / . -. - .-. -.--
+self.get_d_k(0)
+-. . -..- - / . -. - .-. -.--
+self.get_d_k(0).reshape(self.num_items, self.max_categories)
+-. . -..- - / . -. - .-. -.--
+self.get_d_k(0).reshape(self.num_items, self.max_categories).sum(dim=1)
+-. . -..- - / . -. - .-. -.--
+self.get_d_k(0).reshape(self.num_items, self.max_categories).sum(dim=1) ** 2
+-. . -..- - / . -. - .-. -.--
+self.num_items
+-. . -..- - / . -. - .-. -.--
+torch.sum(torch.ones([1,2]))
+-. . -..- - / . -. - .-. -.--
+self.d_k_0
+-. . -..- - / . -. - .-. -.--
+self.d_k_0.grad
+-. . -..- - / . -. - .-. -.--
+self.b_j_0.grad
+-. . -..- - / . -. - .-. -.--
+b = self.b_j_0 - self.d_j_0
+-. . -..- - / . -. - .-. -.--
+b = self.b_j_0 - self.d_k_0
+-. . -..- - / . -. - .-. -.--
+b = torch.tensor(self.b_j_0 - self.d_k_0, requires_grad=True)
+-. . -..- - / . -. - .-. -.--
+b = torch.tensor(torch.sub(self.b_j_0 - self.d_k_0), requires_grad=True)
+-. . -..- - / . -. - .-. -.--
+b = torch.tensor(torch.sub(self.b_j_0, self.d_k_0), requires_grad=True)
+-. . -..- - / . -. - .-. -.--
+self.b2pl_0.grad
+-. . -..- - / . -. - .-. -.--
+self.b2pl_0
+-. . -..- - / . -. - .-. -.--
+d = girt_system_inst.d_k_0
+-. . -..- - / . -. - .-. -.--
+d =getattr("d_k_0", girt_system_inst)
+-. . -..- - / . -. - .-. -.--
+d =getattr(girt_system_inst, "d_k_0")
+-. . -..- - / . -. - .-. -.--
+d = girt_system_inst._GIRTSystem__d_k_0
+-. . -..- - / . -. - .-. -.--
+d = girt_system_inst._GIRTSystem_d_k_0
+-. . -..- - / . -. - .-. -.--
+d.reshape(girt_module_inst.num_items, girt_module_inst.max_categories).sum(dim=1) ** 2
+-. . -..- - / . -. - .-. -.--
+torch.sum(d.reshape(girt_module_inst.num_items, girt_module_inst.max_categories).sum(dim=1) ** 2)
+-. . -..- - / . -. - .-. -.--
+d_k
+-. . -..- - / . -. - .-. -.--
+loss += d_k
+-. . -..- - / . -. - .-. -.--
+loss ** 5
+-. . -..- - / . -. - .-. -.--
+torch.randn([5])
+-. . -..- - / . -. - .-. -.--
+torch.randn([5]).shape
+-. . -..- - / . -. - .-. -.--
+d_j = torch.randn([num_items * num_cat])
+-. . -..- - / . -. - .-. -.--
+b_j = torch.randn([num_items])
+-. . -..- - / . -. - .-. -.--
+d_j = d_j.reshape(num_items, num_cat)
+-. . -..- - / . -. - .-. -.--
+b_j.T d_j
+-. . -..- - / . -. - .-. -.--
+b_j.T - d_j
+-. . -..- - / . -. - .-. -.--
+b_j- d_j
+-. . -..- - / . -. - .-. -.--
+d_j.shape
+-. . -..- - / . -. - .-. -.--
+b_j.T * d_j
+-. . -..- - / . -. - .-. -.--
+b_j * d_j
+-. . -..- - / . -. - .-. -.--
+b_j.shape
+-. . -..- - / . -. - .-. -.--
+b_j
+-. . -..- - / . -. - .-. -.--
+b_j * torch.ones(num_items, 1)
+-. . -..- - / . -. - .-. -.--
+(b_j * torch.ones(num_items, 1)).T
+-. . -..- - / . -. - .-. -.--
+(b_j * torch.ones(num_items, 1)).T - d_j
+-. . -..- - / . -. - .-. -.--
+b_j * torch.ones(num_cat, 1)).T
+-. . -..- - / . -. - .-. -.--
+b_j * torch.ones(num_cat, 1).T
+-. . -..- - / . -. - .-. -.--
+b_j * torch.ones([num_cat, 1])
+-. . -..- - / . -. - .-. -.--
+(b_j * torch.ones([num_cat, 1])).T
+-. . -..- - / . -. - .-. -.--
+(b_j * torch.ones([num_cat, 1])).T - d_j
+-. . -..- - / . -. - .-. -.--
+(b_j * torch.ones([num_cat, 1])).T.reshape(-1) - toch.randn(num_items, num_cat)
+-. . -..- - / . -. - .-. -.--
+(b_j * torch.ones([num_cat, 1])).T.reshape(-1) - torch.randn(num_items*num_cat)
+-. . -..- - / . -. - .-. -.--
+torch.sum(d_k)
+-. . -..- - / . -. - .-. -.--
+loss
+-. . -..- - / . -. - .-. -.--
+d_k // item_module.num_items
+-. . -..- - / . -. - .-. -.--
+d.reshape(girt_module_inst.num_items, girt_module_inst.max_categories).sum(dim=1)
+-. . -..- - / . -. - .-. -.--
+torch.sum(_)
+-. . -..- - / . -. - .-. -.--
+d[:,0] = 0.0
+-. . -..- - / . -. - .-. -.--
+d[:, 0] = torch.zeros(num_cat)
+-. . -..- - / . -. - .-. -.--
+d[:, 0] = torch.zeros(num_items)
+-. . -..- - / . -. - .-. -.--
+d[:, 0] = torch.zeros(num_items, requires_grad=False)
+-. . -..- - / . -. - .-. -.--
+d.requires_grad
+-. . -..- - / . -. - .-. -.--
+torch.sum(d.reshape(girt_module_inst.num_items, girt_module_inst.max_categories).sum(dim=1))
+-. . -..- - / . -. - .-. -.--
+1 / 2 * 2
+-. . -..- - / . -. - .-. -.--
+ 1/ (2*2)
+-. . -..- - / . -. - .-. -.--
+torch.randn(5,5, requires_grad=True)
+-. . -..- - / . -. - .-. -.--
+a = _
+-. . -..- - / . -. - .-. -.--
+b = torch.randn(5,5, requires_grad=True)
+-. . -..- - / . -. - .-. -.--
+a * b
+-. . -..- - / . -. - .-. -.--
+loss = (a * b).sum() - 10
+-. . -..- - / . -. - .-. -.--
+loss.backwards()
+-. . -..- - / . -. - .-. -.--
+a = torch.randn(5,5, requires_grad=True)
+-. . -..- - / . -. - .-. -.--
+b = torch.randn(5,5, requires_grad=False)
+-. . -..- - / . -. - .-. -.--
+out = a * b
+-. . -..- - / . -. - .-. -.--
+loss = out.sum() - 10
+-. . -..- - / . -. - .-. -.--
+loss.backward()
+-. . -..- - / . -. - .-. -.--
+a.grad
+-. . -..- - / . -. - .-. -.--
+b.grad
+-. . -..- - / . -. - .-. -.--
+torch.randn(num_items, num_cat)
+-. . -..- - / . -. - .-. -.--
+d = torch.randn(num_items, num_cat)
+-. . -..- - / . -. - .-. -.--
+d * _filter
+-. . -..- - / . -. - .-. -.--
+filter_[0, :] = 0.0
+-. . -..- - / . -. - .-. -.--
+d * filter_
+-. . -..- - / . -. - .-. -.--
+filter.shape
+-. . -..- - / . -. - .-. -.--
+d.shape
+-. . -..- - / . -. - .-. -.--
+d @ filter_
+-. . -..- - / . -. - .-. -.--
+f = torch.ones([num_items * num_cat, 1])
+-. . -..- - / . -. - .-. -.--
+f = torch.ones(um_items * num_cat)
+-. . -..- - / . -. - .-. -.--
+f = torch.ones(num_items * num_cat)
+-. . -..- - / . -. - .-. -.--
+f.shape
+-. . -..- - / . -. - .-. -.--
+d = torch.randn(num_items * num_categories)
+-. . -..- - / . -. - .-. -.--
+d = torch.randn(num_items * num_cat)
+-. . -..- - / . -. - .-. -.--
+num_cat
+-. . -..- - / . -. - .-. -.--
+d.reshape(num_items, num_cat)
+-. . -..- - / . -. - .-. -.--
+d.reshape(num_items, num_cat).T
+-. . -..- - / . -. - .-. -.--
+d.reshape(num_items, num_cat).T * filter_
+-. . -..- - / . -. - .-. -.--
+self.d_k_0.shape
+-. . -..- - / . -. - .-. -.--
+d.reshape(girt_module_inst.num_items, girt_module_inst.max_categories).sum()
+-. . -..- - / . -. - .-. -.--
+d.reshape(girt_module_inst.num_items, girt_module_inst.max_categories)
+-. . -..- - / . -. - .-. -.--
+girt_module_inst.max_categories
+-. . -..- - / . -. - .-. -.--
+g = girt_module_inst
+-. . -..- - / . -. - .-. -.--
+g.num_items
+-. . -..- - / . -. - .-. -.--
+d.reshape(30, 3)
+-. . -..- - / . -. - .-. -.--
+d.reshape(3, 30)
+-. . -..- - / . -. - .-. -.--
+d.reshape(30, 3).T
+-. . -..- - / . -. - .-. -.--
+num_items = 5
+-. . -..- - / . -. - .-. -.--
+num_cat = 3
+-. . -..- - / . -. - .-. -.--
+b = torch.randn([num_items * num_cat])
+-. . -..- - / . -. - .-. -.--
+b.unsqueeze(dim=1).unsqueeze(dim=2)
+-. . -..- - / . -. - .-. -.--
+self.get_b_j(0)
+-. . -..- - / . -. - .-. -.--
+self.get_b_j(0).shape
+-. . -..- - / . -. - .-. -.--
+b = self.get_b_j(0)
+-. . -..- - / . -. - .-. -.--
+torch.ones([self.max_categories, 1])
+-. . -..- - / . -. - .-. -.--
+torch.ones([self.max_categories, 1]).shape
+-. . -..- - / . -. - .-. -.--
+b.shape
+-. . -..- - / . -. - .-. -.--
+ones = torch.ones([self.max_categories, 1]).shape
+-. . -..- - / . -. - .-. -.--
+ones * b
+-. . -..- - / . -. - .-. -.--
+ones
+-. . -..- - / . -. - .-. -.--
+ones = torch.ones([self.max_categories, 1])
+-. . -..- - / . -. - .-. -.--
+b * ones
+-. . -..- - / . -. - .-. -.--
+d = girt_module_inst.d_j_0
+-. . -..- - / . -. - .-. -.--
+b
+-. . -..- - / . -. - .-. -.--
+d = girt_module_inst.d_k_0
+-. . -..- - / . -. - .-. -.--
+mirt_difficulties
+-. . -..- - / . -. - .-. -.--
+len(mirt_difficulties)
+-. . -..- - / . -. - .-. -.--
+len(girt_difficulties)
+-. . -..- - / . -. - .-. -.--
+len(mirt_items)
+-. . -..- - / . -. - .-. -.--
+len(girt_difficulties_)
+-. . -..- - / . -. - .-. -.--
+len(girt_items)
+-. . -..- - / . -. - .-. -.--
+d
+-. . -..- - / . -. - .-. -.--
+import torch
+-. . -..- - / . -. - .-. -.--
+filter_ = torch.ones([num_cat, 1])
+-. . -..- - / . -. - .-. -.--
+filter_.shape
+-. . -..- - / . -. - .-. -.--
+filter_ = torch.ones(num_cat * num_items)
+-. . -..- - / . -. - .-. -.--
+filter_[0:num_items] = 0.0
+-. . -..- - / . -. - .-. -.--
+filter_
+-. . -..- - / . -. - .-. -.--
+_.shape
+-. . -..- - / . -. - .-. -.--
+girt_module_inst.b2pl_0.shape
+-. . -..- - / . -. - .-. -.--
+girt_module_inst.b2pl_0
+-. . -..- - / . -. - .-. -.--
+girt_module_inst.get_bias_2pl(0)
+-. . -..- - / . -. - .-. -.--
+torch.stack([torch.zeros(num_items, requires_grad=False), torch.ones([num_cat-1, num_items])])
+-. . -..- - / . -. - .-. -.--
+torch.stack([torch.zeros([1, num_items], requires_grad=False), torch.ones([num_cat-1, num_items])])
+-. . -..- - / . -. - .-. -.--
+mirt_items
+-. . -..- - / . -. - .-. -.--
+girt_items
+-. . -..- - / . -. - .-. -.--
+mirt_items[:2]
+-. . -..- - / . -. - .-. -.--
+girt_items[:2]
+-. . -..- - / . -. - .-. -.--
+parameters = [param.cpu() for param in parameters]
+-. . -..- - / . -. - .-. -.--
+self.__use_cuda
+-. . -..- - / . -. - .-. -.--
+enumerated_inputs
+-. . -..- - / . -. - .-. -.--
+parameters.grads
+-. . -..- - / . -. - .-. -.--
+parameters.grad
+-. . -..- - / . -. - .-. -.--
+parameters[1].grad
+-. . -..- - / . -. - .-. -.--
+params = [param.cpu() for param in parameters]
+-. . -..- - / . -. - .-. -.--
+params = [param.to("cpu") for param in parameters]
+-. . -..- - / . -. - .-. -.--
+params.grad
+-. . -..- - / . -. - .-. -.--
+params = [param.to("cpu", requires_grad=True) for param in parameters]
+-. . -..- - / . -. - .-. -.--
+params = [torch.tensor(param, required_grad=True).to("cpu") for param in parameters]
+-. . -..- - / . -. - .-. -.--
+params = [torch.tensor(param, requires_grad=True).to("cpu") for param in parameters]
+-. . -..- - / . -. - .-. -.--
+params[0].grad
+-. . -..- - / . -. - .-. -.--
+parameters
+-. . -..- - / . -. - .-. -.--
+params
+-. . -..- - / . -. - .-. -.--
+params[0]
+-. . -..- - / . -. - .-. -.--
+params[1]
+-. . -..- - / . -. - .-. -.--
+params[1].cpu()
+-. . -..- - / . -. - .-. -.--
+params[1].cpu().grad
+-. . -..- - / . -. - .-. -.--
+params[1].grad
+-. . -..- - / . -. - .-. -.--
+parameters[0]
+-. . -..- - / . -. - .-. -.--
+parameters[0].grad
+-. . -..- - / . -. - .-. -.--
+parameters[0].cpu().grad
+-. . -..- - / . -. - .-. -.--
+parameters[0].requires_grad
+-. . -..- - / . -. - .-. -.--
+parameters[0].cpu().requires_grad
+-. . -..- - / . -. - .-. -.--
+param[0].grads.fill_(parameters[0].grads)
+-. . -..- - / . -. - .-. -.--
+params[0].grads.fill_(parameters[0].grads)
+-. . -..- - / . -. - .-. -.--
+params[0].grads.fill_(parameters[0].grad)
+-. . -..- - / . -. - .-. -.--
+params[0].grad.fill_(parameters[0].grad)
+-. . -..- - / . -. - .-. -.--
+num_students = len(student_ids)
+-. . -..- - / . -. - .-. -.--
+print(len(student_ids))
+-. . -..- - / . -. - .-. -.--
+print(len(item_ids))
+-. . -..- - / . -. - .-. -.--
+self.max_categories
+-. . -..- - / . -. - .-. -.--
+target_data[target_data == [1.0, 0.0]]
+-. . -..- - / . -. - .-. -.--
+target_data[target_data == [1.0, 1.0]]
+-. . -..- - / . -. - .-. -.--
+target_data[target_data == 1.0]
+-. . -..- - / . -. - .-. -.--
+target_data[:target_data == [1.0, 0.0]]
+-. . -..- - / . -. - .-. -.--
+target_data[:target_data == [1.0, 1.0]]
+-. . -..- - / . -. - .-. -.--
+target_data[:, target_data == [1.0, 1.0]]
+-. . -..- - / . -. - .-. -.--
+target_data[:]
+-. . -..- - / . -. - .-. -.--
+target_data[:,]
+-. . -..- - / . -. - .-. -.--
+target_data[0,:]
+-. . -..- - / . -. - .-. -.--
+target_data[:,1]
+-. . -..- - / . -. - .-. -.--
+target_data.shape
+-. . -..- - / . -. - .-. -.--
+target_data[:,:,12]
+-. . -..- - / . -. - .-. -.--
+target_data[:,:,0]
+-. . -..- - / . -. - .-. -.--
+target_data[:,12,:]
+-. . -..- - / . -. - .-. -.--
+target_data[:,12,:,:]
+-. . -..- - / . -. - .-. -.--
+target_data[12,:,:,:]
+-. . -..- - / . -. - .-. -.--
+target_data[:,:,12,:]
+-. . -..- - / . -. - .-. -.--
+target_data[:,:,1,:]
+-. . -..- - / . -. - .-. -.--
+target_data[:,:,0,:]
+-. . -..- - / . -. - .-. -.--
+target_data[:,:,0,:].shape
+-. . -..- - / . -. - .-. -.--
+target_data[0,0,:].shape
+-. . -..- - / . -. - .-. -.--
+target_data[0,0,:]
+-. . -..- - / . -. - .-. -.--
+target_data[0,:,0]
+-. . -..- - / . -. - .-. -.--
+target_mask.min()
+
+-. . -..- - / . -. - .-. -.--
+target_mask.min(dim=1)
+
+-. . -..- - / . -. - .-. -.--
+target_mask.min(dim=1)
+-. . -..- - / . -. - .-. -.--
+target_mask.min(1)
+-. . -..- - / . -. - .-. -.--
+target_mask.min()
+-. . -..- - / . -. - .-. -.--
+target_mask.min(0)
+-. . -..- - / . -. - .-. -.--
+self.target_mask[self.target_mask == 1.0]
+-. . -..- - / . -. - .-. -.--
+self.target_mask[self.target_mask == 0.0]
+-. . -..- - / . -. - .-. -.--
+self.target_mask.min()
+-. . -..- - / . -. - .-. -.--
+self.target_mask.shape
+-. . -..- - / . -. - .-. -.--
+self.target_mask.sum()
+-. . -..- - / . -. - .-. -.--
+target_mask
+-. . -..- - / . -. - .-. -.--
+target_data
+-. . -..- - / . -. - .-. -.--
+self.target_mask
+-. . -..- - / . -. - .-. -.--
+self.target_data
+-. . -..- - / . -. - .-. -.--
+self.target_data[0]
+-. . -..- - / . -. - .-. -.--
+self.target_data[0, 0]
+-. . -..- - / . -. - .-. -.--
+self.target_mask[0, 0]
+-. . -..- - / . -. - .-. -.--
+self.target_mask[0, 1]
+-. . -..- - / . -. - .-. -.--
+self.target_data[0, 1]
+-. . -..- - / . -. - .-. -.--
+self.max_categories_per_item[0, 0]
+-. . -..- - / . -. - .-. -.--
+self.max_categories_per_item[0]
+-. . -..- - / . -. - .-. -.--
+self.max_categories_per_item[1]

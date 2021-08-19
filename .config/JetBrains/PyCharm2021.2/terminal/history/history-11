@@ -1,0 +1,1000 @@
+ll
+rm '\' 
+ll
+git clone github.com:weiliu89/caffe
+git clone git@github.com:weiliu89/caffe
+cd caffe/
+ll
+git checkout ssd
+cp Makefile.config.example Makefile.config
+vim Makefile.config
+ncsdk
+z envs
+ll
+virtualenv cv --python /usr/bin/python3.6
+bra
+cd /usr/include/
+ll
+ls | grep python
+cd /usr/lib/python3.6/
+ll
+z
+cd
+z envs
+ll
+cd cv/
+ll
+cd lib/
+ll
+cd python3.6/
+ll
+z
+vcv
+bra
+cd /usr/include/
+ll
+ls | grep python
+cd python3.9
+ll
+cd ..
+ll
+z envs
+ll
+cd cv
+ll
+cd lib/
+ll
+cd ..
+cd bin/
+ll
+cd python3.6 
+ll
+cd ..
+ll
+cd lib/
+ll
+htop
+echo %CAFFE_ROOT
+echo $CAFFE_ROOT
+vcv
+echo $CAFFE_ROOT
+echo $PYTHONPATH
+z caffe
+ll
+vim Makefile.config
+make -j8
+vim Makefile.config
+pacman -Ss libopencv
+pacman -Ss opencv
+packer -Ss opencv
+pacman -S python-pytest python-pytest-cov python-pytest-flake8 python-pytest-localserver python-pooch
+sudo pacman -S python-pytest python-pytest-cov python-pytest-flake8 python-pytest-localserver python-pooch
+sudo pacman -S python-pytest python-pytest-cov python-pytest-flake8 python-pytest-localserver
+cd /dev/
+ll
+ls | grep cam
+ls | grep web
+webcam
+bra
+bra
+vcv
+pip install numpy
+z envs
+cd cv/
+ll
+cd lib/
+ll
+cd python3.6/
+l
+ll
+cd ..
+cd bi
+ll
+cd ..
+cd
+z object
+ll
+git clone -b v2.05.00.02 --single-branch https://github.com/movidius/ncsdk.git
+ll
+cd ncsdk/
+ll
+make install
+packer -Ss ncsdk
+packer -S ncsdk
+ll
+cd ..
+ll
+cd caffe/
+ll
+git remote get-url origin
+packer -S caffe-git
+packer -S caffe
+pacman -Ss blas
+pacman -S openblas
+sudo pacman -S openblas
+packes -S caffe
+packer -S caffe
+ll
+packer -S caffe
+rm /tmp/packerbuild-1000/caffe
+rm /tmp/packerbuild-1000/caffe -rf
+packer -S caffe
+echo $PYTHON_INCLUDES
+echo $PYTHON_LIB
+deactivate
+echo $PYTHON_INCLUDES
+echo $PYTHON_LIB
+python-config
+export PYTHON_INCLUDE=/usr/include/python2.7/
+packer -S caffe
+export PYTHON_INCLUDE=/usr/include/python3.6m/
+packer -S caffe
+echo CAFFE_HOME
+echo $CAFFE_HOME
+cd ..
+ll
+cd ncsdk/
+ll
+vcv
+make install
+packer -S ncsdk
+deactivate
+packer -S ncsdk
+deactivate
+packer -S ncsdk
+pacman -Ss python-pooch
+packer -S python-pooch
+packer -S ncsdk
+pacman -Q python-pooch
+packer -S python-ppooch
+packer -S python-pooch
+packer -S ncsdk
+pacman -S python-setuptools
+sudo pacman -S python-setuptools
+z caffel
+cd ../caffe/
+ll
+cd ..
+mv caffe/ ~/.local/src/
+z src
+cd ..
+ll
+cd caffe/
+ll
+make -j8
+pacman -Ss opencv2
+paker -Ss opencv2
+packer -Ss opencv2
+packer -S opencv2
+opencv2
+pacman -Q | grep opencv
+ll
+cd /tmp/packerbuild-1000/
+ll
+cd opencv2/
+ll
+cd opencv2
+ll
+pacman -U opencv2-samples-2.4.13.6-1-x86_64.pkg.tar.zst 
+sudo pacman -U opencv2-samples-2.4.13.6-1-x86_64.pkg.tar.zst 
+sudo pacman -U opencv2-2.4.13.6-1-x86_64.pkg.tar.zst 
+sudo pacman -U opencv2-samples-2.4.13.6-1-x86_64.pkg.tar.zst 
+pacman -Q | grep opencv
+z caffe
+make -j8
+ll
+vim Makefile.config
+vim Makefile.config
+export CAFFE_ROOT=/home/vegarab/.local/src/caffe
+make -j8
+z tmp
+cd packerbuild-1000/
+ll
+cd opencv2/
+ll
+cd opencv2n
+cd opencv2
+ll
+pacman -U opencv2-samples-2.4.13.6-1-x86_64.pkg.tar.zst 
+sudo pacman -U opencv2-samples-2.4.13.6-1-x86_64.pkg.tar.zst 
+ll
+rm opencv2-*
+packer -S opencv2
+rm -rf src/opencv-samples/
+ll
+packer -S opencv2
+pacman -S opencv
+sudo pacman -S opencv
+packer -Ss caffe
+packer -S caffe
+z caffe
+ll
+caffe
+make runtest -j8
+make runtest -j8
+z SSD
+ll
+python demo.py 
+vim demo.py 
+vim deploy.prototxt 
+vim test.sh 
+./train.sh 
+ll
+mv examples/ examples
+mv examples/ example
+./train
+./train.sh 
+cd example/
+ll
+cd ..
+ll
+cd example/
+ll
+cd ..
+z caffe
+ll
+cmake .. -DBLAS="open" -Dpython_version=3 -DCUDA_HOST_COMPILER=/usr/bin/g++-5
+cmake . -DBLAS="open" -Dpython_version=3 -DCUDA_HOST_COMPILER=/usr/bin/g++-5
+make
+pacman -Ss cudnn
+pacman -S cudnn
+sudo pacman -S cudnn
+make
+cmake . -DBLAS="open" -Dpython_version=3
+cmake . -DBLAS="open" -Dpython_version=3 -DCUDA_HOST_COMPILER=/usr/bin/g++-5
+cd .ssh
+ll
+vi id_rsa.pub 
+vim id_rsa
+startx]
+startx
+echo $CAFFE_ROOT
+python
+killall slack
+python
+pacman -Ss python-tifffile
+packer -S python-tifffile
+python
+cd dl
+ll
+mv MobileNetSSD_deploy.caffemodel ../dev/object-detection/MobileNet-SSD/
+z SSD
+ll
+z SSD
+cd 
+cd dev/object-detection/MobileNet-SSD/
+ll
+mkdir examples
+mv MobileNetSSD_deploy.caffemodel examples/
+cd create_lmdb/code
+ll
+vim labelmap.prototxt 
+vim create_data.sh 
+cd ..
+ll
+python demo.py 
+ll
+python demo.py 
+vim deploy.prototxt 
+git branch
+packer -Ss caffe
+packer -Ss caffe | grep SSD
+packer -Ss caffe | grep ssd
+packer -S caffe-git
+z src
+cd ..
+ll
+cd caffe/
+cmake .. -DBLAS="open" -Dpython_version=3 -DCUDA_HOST_COMPILER=/usr/bin/g++-5
+ll
+make
+make -j8
+z caffe
+cmake . -DBLAS="open" -Dpython_version=3 -DCUDA_HOST_COMPILER=/usr/bin/g++-5
+cudnn
+pacman -Q cudnn\
+pacman -Q cudnn
+cd CMake
+cd CMakeFiles/
+ll
+cat CMakeError.log 
+sudo reboot
+cd .ssh/
+ll
+vim id_rsa.pub 
+uname
+uname -a
+uname
+uname -h
+uname --help
+uname -s
+unama -o
+uname -o
+uname -v
+uname -r
+uname -s
+uname -n
+uname -o
+uname -a
+python
+ll
+cd dl
+ll
+mv ad-hoc-deep-learning-p2xlarge-key-pair.pem ../.ssh
+cd ..
+ll
+cd .ssh/
+ll
+chmod 400 ad-hoc-deep-learning-p2xlarge-key-pair.pem 
+ll
+cat ad-hoc-deep-learning-p2xlarge-key-pair.pem 
+cat vpc-dev-key.pem 
+python
+vnlp
+python
+nvidia-smi
+prmor --output mypubkey.gpg --export your.name@yourdomain.coMYTHOn
+prmor --output mypubkey.gpg --export vegar.andreas.bergum@gmail.com
+gpg --armor --output mypubkey.gpg --export vegar.andreas.bergum@gmail.com
+gpg --send-keys
+gpg --list-secret-keys
+gpg
+gpg --h
+gpg --help
+gpg --list-keys
+ll
+cd .ssh
+ll
+vim id_rsa
+cd 
+bra
+sshcv
+cd .ssh
+ll
+bra
+z caffe
+cmake . -DBLAS="open" -Dpython_version=3 -DCUDA_HOST_COMPILER=/usr/bin/g++-5
+pacman -Q | grep nvidia
+pacman -S nvidia-lts cuda cudnn
+sudo pacman -S nvidia-lts cuda cudnn
+sudo pacman -S nvidia-lts
+pacman -Rs nvidia-utils
+sudo pacman -Rs nvidia-utils
+sudo pacman -Syu
+cmake . -DBLAS="open" -Dpython_version=3 -DCUDA_HOST_COMPILER=/usr/bin/g++-5
+ll
+cd src/
+ll
+cd caffe/
+ll
+sshcv
+sshcv
+ll
+sshcv
+bra
+sshcv
+bra
+cd dl
+ll
+vim make_config.txt 
+z SSD
+ll
+vcv
+python demo.py 
+deactivate
+python demo.py 
+sshcv
+shhcv
+sshcv
+bra
+startx
+sshcv
+bra
+pacman -Q cuda
+pacman -Q cudnn
+pacman -Q nvidia
+shutodwn
+shutdown
+shutdown -c
+shutdown -h
+shutdown -c
+shutdown --help
+killall slack
+sudo reboot
+sshcv
+z ctt
+ll
+vim
+cd /var/cache/pacman/pkg/
+ll
+ls | grep pycharm
+pacman -U pycharm-community-edition-2020.2.3-4-x86_64.pkg.tar.zst 
+sudo pacman -U pycharm-community-edition-2020.2.3-4-x86_64.pkg.tar.zst 
+vim 
+vim
+vim .envs/girt/bin/activate
+z rnd-research
+git checkout master
+git checkout -b master
+git push --set-upstream origin master
+ll
+z atc
+git checkout master
+git pull
+git checkout develop
+git pull
+z dataflow
+ll
+cp .gitignore ../rnd-research/
+cp jupytext.toml ../rnd-research/
+cp .pre-commit-config.yaml ../rnd-research/
+ll
+z research
+ll
+vim .pre-commit-config.yaml 
+git status
+jupytext --sync */notebooks/**/*.ipynb
+vcv
+pip install jupytext
+jupytext --sync */notebooks/**/*.ipynb
+git status
+git add .
+git status
+vim .gitignore 
+git sttus
+git status
+git reset
+git status
+git add .gitignore 
+git add .pre-commit-config.yaml 
+git add jupytext.toml 
+git status
+git commit -m "build: setup gitignore, pre-commit and jupytext"
+git status
+git add object_detection/
+git commit -m "feat: notebooks for OD TF samples"
+git status
+ll
+cd ability/
+ll
+cd notebooks/
+ll
+cd ..
+ll
+git status
+git add .
+git commit -m "ability: jupytext notebook"
+git push --set-upstream origin object_detection
+ll
+dc
+cd
+cd .envs/
+ll
+rm -rf cv
+virtualenv --python=/usr/bin/python3.7 cv
+vcv
+pip install black jupytext
+z research
+ll
+cd object_detection/
+ll
+cd dl
+vim eager_few_shot_tflite.ipynb
+killall slack
+vim inference_tf2.ipynb
+z ctt
+git checkout master
+git pull
+git checkout fix_dep
+git status
+git add .
+git commit -m "build: fix init script deploy setup"
+git push
+git log
+git status
+git add .
+git status
+git reset
+git diff
+git status
+git add .
+git commit -m "build: support defining arn aws role in job clusters"
+git push
+git status
+git add .
+git commit -m "build: define requried libraries for new job clusters"
+git push
+vim ~/.envs/girt/bin/activate
+cd
+killall slack
+slack
+vim
+cd tmp
+vim filter.json
+z rnd-research
+ll
+mkdir object_detection
+cd object_detection/
+ll
+mkdir notebooks
+cd notebooks/
+cd
+cd dl
+ll
+mv eager_few_shot_tflite\(1\).ipynb ../dev/rnd-research/object_detection/notebooks/eager_few_shot_tflite.ipynb
+mv inference_tf2\(1\).ipynb ../dev/rnd-research/object_detection/notebooks/inference_tf2.ipynb
+cd
+z rnd-research
+ll
+cd object_detection/
+cd notebooks/
+ll
+git status
+cd ..
+git add .
+git checkout -b object_detection
+git status
+ll
+cd object_detection/
+ll
+cd ..
+ll
+touch README.md
+vim README.md
+git status
+git add .
+git commit -m "docs: initial readme"
+ll
+cd object_detection/
+ll
+vim requirements.txt
+git status
+git add .
+git commit -m "build: object detection requirements.txt"
+git push 
+ll
+z atc
+git checkout RND-680-taxonomy-kikora
+cd
+cd tmp
+vim trigger.json
+git status
+z atc
+git status
+git add .
+git checkout develop
+git status
+git checkout -b RND-742-timeout-signal
+git add .
+git commit -m "fix(RND-747): timeout signal no longer interrupts later lambdas"
+git push --set-upstream origin RND-742-timemout-signal
+git push --set-upstream origin RND-742-timeout-signal
+ncds
+ncdf
+ll
+killall slack
+bra
+sshcv
+pacman -Ss openssh
+systemctl status sshd
+sudo systemctl enable sshd
+systemctl start sshd
+z object
+ll
+gitp ull
+git pull
+cd ..
+ll
+vim .gitignore 
+git add .
+git commit -m "ci: gitignore tf2 dataset files":
+git push
+ll
+z object
+sshcv
+z object
+ll
+vim
+git status
+git add .
+git commit -m "build: cleanup files after model download"
+git push
+ll
+sshcv
+bra
+sshcv
+bra
+sshcv
+ssh -i .ssh/ad-hoc-deep-learning-p2xlarge-key-pair.pem ubuntu@ ec2-34-252-4-49.eu-west-1.compute.amazonaws.com
+ssh -i .ssh/ad-hoc-deep-learning-p2xlarge-key-pair.pem ubuntu@ec2-34-252-4-49.eu-west-1.compute.amazonaws.com
+sshcv
+sshcv
+ll
+sshcv
+bra
+sshcv
+sshcv
+systemctl status sshd
+cd .ssh
+ll
+vim github
+z object
+git sttus
+git status
+git add .
+git status
+cd ..
+git status
+git add .
+git commit -m "build: download model:
+git commit -m "build: download model"
+git push
+z ssh
+vim github 
+z object
+git status
+ll
+chmod +x download_model.sh 
+git add .
+git commit --amend
+git push --force
+git status
+git add .
+git commit --ammend
+git commit --amend
+git push --force
+z ssh
+vim github 
+cd
+cd tmp
+ll
+vim test.sh
+bash test.sh 
+vim test.sh 
+bash test.sh 
+vim test.sh 
+bash test.sh 
+vim test.sh
+bash test.sh 
+python
+killall slack
+python
+28/22
+python
+killall slack
+python
+killall slack
+sshcv
+vim .ssh/github 
+z ssd
+ll
+cd ouput_model/
+ll
+cat /proc/cpuinfo 
+sshcv
+cd dev/
+ll
+cd rnd-research/
+ll
+git pull
+virtualenv --python=/usr/bin/python3.8 venv
+source venv/bin/activate
+ll
+cd object_detection/
+ll
+./setup.sh 
+ll
+./download_ssd_model.sh 
+ll
+vim README.md 
+python create_coco_tf_record.py         --data-dir=/home/ubuntu/data/coco         --split=val2017         --output-tfrecord-path=data/val2017-filtered-remapped.tfrecord         --output-label-map-path=data/label_map_filtered_remapped.pbtxt         --filter-classes person keyboard mouse "cell phone" tv laptop book         --remap-labels-for-filter
+pip uninstall pycocotools
+pip install pycocotools
+python create_coco_tf_record.py         --data-dir=/home/ubuntu/data/coco         --split=val2017         --output-tfrecord-path=data/val2017-filtered-remapped.tfrecord         --output-label-map-path=data/label_map_filtered_remapped.pbtxt         --filter-classes person keyboard mouse "cell phone" tv laptop book         --remap-labels-for-filter
+pip freeze | grep numpy
+sshcv
+pip freeze | grep nunmpy
+pip freeze | grep numpy
+pip uninstall numpy
+pip instally numpy
+pip install numpy
+python create_coco_tf_record.py         --data-dir=/home/ubuntu/data/coco         --split=val2017         --output-tfrecord-path=data/val2017-filtered-remapped.tfrecord         --output-label-map-path=data/label_map_filtered_remapped.pbtxt         --filter-classes person keyboard mouse "cell phone" tv laptop book         --remap-labels-for-filter
+ll
+vim create_coco_tf_record.py 
+python create_coco_tf_record.py         --data-dir=data/coco         --split=val2017         --output-tfrecord-path=data/val2017-filtered-remapped.tfrecord         --output-label-map-path=data/label_map_filtered_remapped.pbtxt         --filter-classes person keyboard mouse "cell phone" tv laptop book         --remap-labels-for-filter
+ll
+cd data/
+ll
+cd ..
+ll
+cd models/
+ll
+cd ..
+ll
+git pull
+git status
+ll
+cd ..
+ll
+vim .gitignore 
+git add .
+cd object_detection/
+git status
+vim README.md 
+ll
+vim export.sh
+ll
+chmox +x export.sh 
+chmod +x export.sh 
+cp pipeline.example.config models/ssd_mobilenet_v2/pipeline.config
+./export.sh 
+vim export.sh 
+./export.sh 
+vim export.sh 
+./export.sh 
+vim export.sh 
+./export.sh 
+vim export.sh 
+./export.sh 
+ll
+cd models/ssd_mobilenet_v2/ouput_model/
+ll
+cd checkpoint/
+ll
+cd ..
+ll
+cd saved_model/
+ll
+cd assets/
+ll
+cd .
+cd ..
+cd variables/
+ll
+cd ..
+ll
+cd ..
+ll
+cd ..
+git status
+git add .
+git commit -m "feat: export object detection model to pb-executable"
+git push
+ll
+vim README.md 
+git status
+git add README.md 
+git commit -m "docs: add train and eval instructions to README"
+git push
+wget https://raw.githubusercontent.com/opencv/opencv/master/samples/dnn/tf_text_graph_common.py
+ll
+wget https://raw.githubusercontent.com/opencv/opencv/master/samples/dnn/tf_text_graph_ssd.py
+git status
+ll
+python tf_text_graph_ssd.py --input models/ssd_mobilenet_v2/ouput_model/saved_model/saved_model.pb --config /path/to/example.config --output /path/to/graph.pbtxt
+python tf_text_graph_ssd.py --input models/ssd_mobilenet_v2/output_model/saved_model/saved_model.pb --config models/ssd_mobilenet_v2/output_model/pipeline.config --output models/ssd_mobilenet_v2/output_model/saved_model/graph.pbtxt
+ll
+mv models/ssd_mobilenet_v2/ouput_model/ models/ssd_mobilenet_v2/output_model
+vim export.sh 
+git status
+vim README.md 
+git status
+git add .
+git commit -m "feat: add OpenCV export scripts"
+git push
+ll
+vim README.md 
+python tf_text_graph_ssd.py --input models/ssd_mobilenet_v2/output_model/saved_model/saved_model.pb --config models/ssd_mobilenet_v2/output_model/pipeline.config --output models/ssd_mobilenet_v2/output_model/saved_model/graph.pbtxt
+source venv/bin/activate
+python tf_text_graph_ssd.py --input models/ssd_mobilenet_v2/output_model/saved_model/saved_model.pb --config models/ssd_mobilenet_v2/output_model/pipeline.config --output models/ssd_mobilenet_v2/output_model/saved_model/graph.pbtxt
+python
+pip install tensorflow==1.15.0
+pip install tensorflow==1.14.0
+ll
+jupyter notebook
+pip install jupyter
+python
+jupyter notebook
+cat /proc/cpuinfo 
+z object
+ll
+vim tf_text_graph_ssd.py 
+vim README.md 
+python tf_text_graph_ssd.py --input models/ssd_mobilenet_v2/output_model/saved_model/saved_model.pb --config models/ssd_mobilenet_v2/output_model/pipeline.config --output models/ssd_mobilenet_v2/output_model/saved_model/graph.pbtxt
+cd models/ssd_mobilenet_v2/output_model/saved_model/
+ll
+vim saved_model.pb 
+cd ..
+cdc..
+cd ../..
+ll
+python tf_text_graph_ssd.py --input /home/vegarab/dev/rnd-research/object_detection/models/ssd_mobilenet_v2/output_model/saved_model/saved_model.pb --config models/ssd_mobilenet_v2/output_model/pipeline.config --output models/ssd_mobilenet_v2/output_model/saved_model/graph.pbtxt
+source venv37/bin/activate
+python tf_text_graph_ssd.py --input /home/vegarab/dev/rnd-research/object_detection/models/ssd_mobilenet_v2/output_model/saved_model/saved_model.pb --config models/ssd_mobilenet_v2/output_model/pipeline.config --output models/ssd_mobilenet_v2/output_model/saved_model/graph.pbtxt
+python tf_text_graph_ssd.py --input /asdhome/vegarab/dev/rnd-research/object_detection/models/ssd_mobilenet_v2/output_model/saved_model/saved_model.pb --config models/ssd_mobilenet_v2/output_model/pipeline.config --output models/ssd_mobilenet_v2/output_model/saved_model/graph.pbtxt
+python tf_text_graph_ssd.py --input /home/vegarab/dev/rnd-research/object_detection/models/ssd_mobilenet_v2/output_model/saved_model/saved_model.pb --config models/ssd_mobilenet_v2/output_model/pipeline.config --output models/ssd_mobilenet_v2/output_model/saved_model/graph.pbtxt
+ll
+vim export.sh 
+cd models/
+ll
+cd ssd_mobilenet_v2/
+ll
+cd ..
+vim export.sh 
+./export.sh 
+deactivate
+source venv/bin/activate
+./export.sh 
+ls models/ssd_mobilenet_v2/final_model/
+./export.sh 
+python
+./export.sh 
+vim tensorflow/models/research/object_detection/export_inference_graph.py 
+ll
+./export.sh 
+deactivate
+source venv37/
+source venv37/bin/activate
+ll
+cd tensorflow/models/research/object_detection/
+pip install .
+ll
+vf ..
+ll
+cd ..
+ll
+pip install .
+pip freeze | grep tensorflow
+pip installtensorflow==1.15.5
+pip install tensorflow==1.15.5
+cd ../..
+cd ..
+./export.sh 
+deactivate
+source venv/bin/activate
+./export.sh 
+cd models/re
+cd tensorflow/models/research/
+ll
+pip install .
+cd ..
+./export.sh 
+cd ..
+./export.sh 
+vim export.sh 
+./export.sh 
+lpl
+ll
+vim models/ssd_mobilenet_v2/pipeline.config 
+./export.sh 
+vim models/ssd_mobilenet_v2/pipeline.config 
+vim README.md 
+python tf_text_graph_ssd.py --input models/ssd_mobilenet_v2/output_model/saved_model/saved_model.pb --config models/ssd_mobilenet_v2/output_model/pipeline.config --output models/ssd_mobilenet_v2/output_model/saved_model/graph.pbtxt
+deactivate
+source venv37/bin/activate
+python tf_text_graph_ssd.py --input models/ssd_mobilenet_v2/output_model/saved_model/saved_model.pb --config models/ssd_mobilenet_v2/output_model/pipeline.config --output models/ssd_mobilenet_v2/output_model/saved_model/graph.pbtxt
+python tf_text_graph_ssd.py --input models/ssd_mobilenet_v2/saved_model/saved_model.pb --config models/ssd_mobilenet_v2/output_model/pipeline.config --output models/ssd_mobilenet_v2/output_model/saved_model/graph.pbtxt
+vim export_graph.py
+ll
+vim frozen_graph.pb 
+cd notebooks/
+ll
+cd ..
+ll
+cd U
+ll
+vim export_graph1.py
+vim export_graph.py 
+z object
+cd models/ssd_mobilenet_v2/
+ll
+cd final_model/
+ll
+vim checkpoint 
+cat /proc/cpuinfo 
+z object
+vim export.sh 
+source venv/bin/activate
+./export.sh 
+python export_graph.py 
+ll
+vim README.md 
+python tf_text_graph_ssd.py --input models/ssd_mobilenet_v2/output_model/saved_model/saved_model.pb --config models/ssd_mobilenet_v2/output_model/pipeline.config --output models/ssd_mobilenet_v2/output_model/saved_model/graph.pbtxt
+python tf_text_graph_ssd.py --input frozen_graph.pb --config models/ssd_mobilenet_v2/output_model/pipeline.config --output graph.pbtxt
+deactivate
+source venv37/bin/activate
+python tf_text_graph_ssd.py --input frozen_graph.pb --config models/ssd_mobilenet_v2/output_model/pipeline.config --output graph.pbtxt
+python export_graph1.py 
+ll
+vim frozen_graph.pbtxt 
+cls
+python export_graph.py 
+vim export_graph.py 
+deactivate
+source venv/bin/activate
+python export_graph.py 
+ll
+python export_graph.py 
+ll
+vim export.sh 
+ll
+cd models/ssd_mobilenet_v2/
+l
+ll
+cd output_model_new/
+ll
+cd ..
+ll
+rm -rf output_model_new/
+cd ..
+./export.sh 
+vim export.sh 
+./export.sh 
+ll
+vim export.sh 
+./export.sh 
+ll
+vim export.sh 
+./export.sh 
+vim export.sh 
+./export.sh 
+ll
+cd tensorflow/models/research/
+ll
+cd oj
+cd bo
+cd object_detection/
+ll
+vim exporter.py 
+cd ..
+pip install .
+cd ..
+ll
+cd ..
+ll
+./export.sh 
+ll
+jupyter notebook
+z object
+vim test.py
+z research
+cd tensorflow/models/research/object_detection/
+ll
+vim exporter.py
+cd ../..  
+vim test.py
+sourm          ojalskdjaL:KSjd      
+asd\[asp
+lda
+sdasd
+cls
+mv test.py ../..
+cd ..
+ll
+source venv/bin/activate
+python test.py 
+deactivate
+source venv37/bin/activate
+python test.py 
+ls models/ssd_mobilenet_v2/final_model/
+vim test.py 
+python test.py 
+vim test.plly  
+ll
+python test.py     
+python test.pyl     
+python test.py
+deactivate
+sourve venv/bin/activate  
+source venv/bin/activate
+python test.py 
+vim test.py 
+ll
+cat test.py 
+python test.py 
+vim test.py 
+ipython
+deactivate
+source venv37/bin/activate
+ipython
+pip install ipython

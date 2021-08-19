@@ -1,0 +1,17 @@
+import os
+-. . -..- - / . -. - .-. -.--
+os.environ["LAMBDA_REGION"]
+-. . -..- - / . -. - .-. -.--
+DataSource
+-. . -..- - / . -. - .-. -.--
+DataSource.stats
+-. . -..- - / . -. - .-. -.--
+source
+-. . -..- - / . -. - .-. -.--
+query_body
+-. . -..- - / . -. - .-. -.--
+__version__
+-. . -..- - / . -. - .-. -.--
+import sys
+-. . -..- - / . -. - .-. -.--
+sys.version_info

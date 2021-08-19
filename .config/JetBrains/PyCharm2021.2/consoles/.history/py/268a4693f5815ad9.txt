@@ -1,0 +1,77 @@
+glue = datasets.get_dataset_infos("glue")
+-. . -..- - / . -. - .-. -.--
+glue.keys()
+-. . -..- - / . -. - .-. -.--
+glue["qqp"].keys()
+-. . -..- - / . -. - .-. -.--
+glue["qqp"][0]
+-. . -..- - / . -. - .-. -.--
+glue["qqp"]
+-. . -..- - / . -. - .-. -.--
+glue = datasets.get_dataset_infos("glue", "qqp")
+-. . -..- - / . -. - .-. -.--
+glue = datasets.get_dataset("glue", "qqp")
+-. . -..- - / . -. - .-. -.--
+glue = datasets.load_dataset("glue", "qqp")
+-. . -..- - / . -. - .-. -.--
+glue
+-. . -..- - / . -. - .-. -.--
+glue.info
+-. . -..- - / . -. - .-. -.--
+qqp_info = datasets.get_dataset_infos("qqp")
+-. . -..- - / . -. - .-. -.--
+qqp_info = datasets.get_dataset_infos("glue")
+-. . -..- - / . -. - .-. -.--
+qqp_info = datasets.get_dataset_infos("glue")["qqp"]
+-. . -..- - / . -. - .-. -.--
+qqp_info
+-. . -..- - / . -. - .-. -.--
+qqp_iag_news = datasets.load_dataset("ag_news")
+-. . -..- - / . -. - .-. -.--
+ag_news["validation"]
+-. . -..- - / . -. - .-. -.--
+ag_news["val"]
+-. . -..- - / . -. - .-. -.--
+torch.load("data/ag_news/test.pt")
+-. . -..- - / . -. - .-. -.--
+import torch
+-. . -..- - / . -. - .-. -.--
+data = torch.load("data/ag_news/test.pt")
+-. . -..- - / . -. - .-. -.--
+data
+-. . -..- - / . -. - .-. -.--
+data[0]
+-. . -..- - / . -. - .-. -.--
+import datasets
+-. . -..- - / . -. - .-. -.--
+ag_news = datasets.load_dataset("ag_news")
+-. . -..- - / . -. - .-. -.--
+ag_news
+-. . -..- - / . -. - .-. -.--
+ag_news["test"]
+-. . -..- - / . -. - .-. -.--
+ag_news["test"][0]
+-. . -..- - / . -. - .-. -.--
+from transformers import AutoTokenizer
+-. . -..- - / . -. - .-. -.--
+tokenizer = AutoTokenizer.from_pretrained("bert-base-cased")
+-. . -..- - / . -. - .-. -.--
+tokenizer.tokenize("Hello world")
+-. . -..- - / . -. - .-. -.--
+tokenizer.encode("Hello world")
+-. . -..- - / . -. - .-. -.--
+tokenizer.decode([101, 102])
+-. . -..- - / . -. - .-. -.--
+tokenizer.decode([100, 101, 102, 103])
+-. . -..- - / . -. - .-. -.--
+tokenizer.decode([99, 100, 101, 102, 103])
+-. . -..- - / . -. - .-. -.--
+tokenizer.decode([99, 100, 101, 102, 103, 104, 105, 106])
+-. . -..- - / . -. - .-. -.--
+stsb = datasets.load_dataset("glue", "stsb")
+-. . -..- - / . -. - .-. -.--
+stsb
+-. . -..- - / . -. - .-. -.--
+qqp = datasets.load_dataset("glue", "qqp")
+-. . -..- - / . -. - .-. -.--
+qqp

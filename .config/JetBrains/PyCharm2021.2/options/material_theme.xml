@@ -1,0 +1,16 @@
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="compactStatusBar" value="true" />
+    <option name="compactDropdowns" value="true" />
+    <option name="isCompactStatusBar" value="true" />
+    <option name="pristineConfig" value="false" />
+    <option name="upperCaseButtons" value="false" />
+    <option name="useMaterialFont2" value="true" />
+    <option name="settingsSelectedTab" value="5" />
+    <option name="tabsHeight" value="37" />
+    <option name="accentColor" value="ff79c5" />
+    <option name="selectedTheme" value="DRACULA" />
+    <option name="userId" value="3b5a1b04:178ac3defb4:-8000" />
+    <option name="version" value="5.5.0" />
+  </component>
+</application>

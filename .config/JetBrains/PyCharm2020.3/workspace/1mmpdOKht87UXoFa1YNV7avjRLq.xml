@@ -29,7 +29,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/inspera_atc/datahub.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3552">
+            <state relative-caret-position="834">
               <caret line="148" column="8" selection-start-line="148" selection-start-column="8" selection-end-line="148" selection-end-column="8" />
             </state>
           </provider>
@@ -38,17 +38,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/inspera_atc/ability/lambda_handler.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="272" column="24" selection-start-line="272" selection-start-column="24" selection-end-line="272" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/inspera_atc/ability/models/lambda_io.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4464">
-              <caret line="186" selection-start-line="186" selection-end-line="186" />
+            <state relative-caret-position="546">
+              <caret line="234" selection-start-line="234" selection-end-line="234" />
             </state>
           </provider>
         </entry>
@@ -56,7 +47,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/inspera_atc/diagnostics.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2568">
+            <state relative-caret-position="834">
               <caret line="107" column="8" selection-start-line="107" selection-start-column="8" selection-end-line="107" selection-end-column="8" />
             </state>
           </provider>
@@ -136,7 +127,6 @@
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1" />
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -182,6 +172,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="ServiceViewManager">
@@ -236,7 +227,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="576500000" />
+    <option name="totallyTimeSpent" value="577833000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -248,6 +239,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
+    <editor active="true" />
     <layout>
       <window_info id="Structure" order="0" sideWeight="0.4039874" side_tool="true" weight="0.19349681" />
       <window_info id="Favorites" order="1" side_tool="true" />
@@ -256,7 +248,7 @@
       <window_info id="aws.explorer" order="4" sideWeight="0.25845146" side_tool="true" weight="0.23882979" />
       <window_info id="Learn" order="5" />
       <window_info id="R Remote Host" order="6" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="7" sideWeight="0.5960126" visible="true" weight="0.20469083" />
+      <window_info content_ui="combo" id="Project" order="7" sideWeight="0.5960126" visible="true" weight="0.16311301" />
       <window_info anchor="bottom" id="Version Control" order="0" weight="0.30745015" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.33630952" />
       <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3095488" />
@@ -378,9 +370,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="741" y="186" key="RollbackChangesDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1628847245330" />
-    <state x="60" y="193" width="1380" height="700" key="SettingsEditor" timestamp="1628750568123">
+    <state x="60" y="193" width="1380" height="700" key="SettingsEditor" timestamp="1629094192994">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
+    <state x="60" y="193" key="SettingsEditor/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1629094192994" />
     <state x="60" y="193" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1628750568123" />
     <state x="3147" y="601" width="1380" height="700" key="SettingsEditor/1920.0.3840.2160/0.1488.1920.1080@1920.0.3840.2160" timestamp="1624271412804" />
     <state x="3600" y="530" key="VCS.ChangeListViewerDialog" timestamp="1624263925821">
@@ -711,29 +704,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/inspera_atc/datahub.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3552">
+        <state relative-caret-position="834">
           <caret line="148" column="8" selection-start-line="148" selection-start-column="8" selection-end-line="148" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/inspera_atc/ability/models/lambda_io.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4464">
-          <caret line="186" selection-start-line="186" selection-end-line="186" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/inspera_atc/diagnostics.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2568">
+        <state relative-caret-position="834">
           <caret line="107" column="8" selection-start-line="107" selection-start-column="8" selection-end-line="107" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inspera_atc/ability/models/lambda_io.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="834">
+          <caret line="186" selection-start-line="186" selection-end-line="186" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/inspera_atc/ability/lambda_handler.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="272" column="24" selection-start-line="272" selection-start-column="24" selection-end-line="272" selection-end-column="24" />
+        <state relative-caret-position="546">
+          <caret line="234" selection-start-line="234" selection-end-line="234" />
         </state>
       </provider>
     </entry>

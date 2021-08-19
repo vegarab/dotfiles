@@ -15,6 +15,9 @@
     <e n="$Undo">
       <i c="1" l="1622810169655" />
     </e>
+    <e n="About">
+      <i c="1" l="1629094197097" />
+    </e>
     <e n="ActivateDebugToolWindow">
       <i c="11" l="1624969515933" />
     </e>
@@ -454,7 +457,7 @@
       <i c="2" l="1622460939731" />
     </e>
     <e n="ShowSettings">
-      <i c="58" l="1628750562277" />
+      <i c="59" l="1629094188721" />
     </e>
     <e n="SplitHorizontally">
       <i c="1" l="1617876625463" />
@@ -514,7 +517,7 @@
       <i c="3" l="1628847224731" />
     </e>
     <e n="ViewMainMenu">
-      <i c="29" l="1628682907984" />
+      <i c="30" l="1629094179478" />
     </e>
     <e n="ViewStatusBar">
       <i c="2" l="1617798384070" />
@@ -556,7 +559,7 @@
       <i c="1" l="1617798270458" />
     </e>
     <e n="com.intellij.codeInsight.daemon.impl.DaemonTooltipWithActionRenderer$addActionsRow$2">
-      <i c="6" l="1624873408951" />
+      <i c="7" l="1629095084535" />
     </e>
     <e n="com.intellij.codeInsight.documentation.DockablePopupManager$3">
       <i c="2" l="1624263521741" />
@@ -637,7 +640,7 @@
       <i c="15" l="1625739576940" />
     </e>
     <e n="com.intellij.openapi.actionSystem.EmptyAction$MyDelegatingAction">
-      <i c="100406" l="1628850024782" />
+      <i c="100418" l="1629095086688" />
     </e>
     <e n="com.intellij.openapi.editor.actions.ScrollToTheEndToolbarAction">
       <i c="1" l="1625829477523" />
@@ -646,7 +649,7 @@
       <i c="27" l="1624059430781" />
     </e>
     <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
-      <i c="343" l="1628686017088" />
+      <i c="344" l="1629094174247" />
     </e>
     <e n="com.intellij.openapi.keymap.impl.ui.KeymapPanel$12">
       <i c="2" l="1617805825541" />
@@ -655,7 +658,7 @@
       <i c="395" l="1628846330441" />
     </e>
     <e n="com.intellij.openapi.ui.DialogWrapper$5">
-      <i c="52" l="1628680057710" />
+      <i c="54" l="1629093983705" />
     </e>
     <e n="com.intellij.openapi.ui.impl.DialogWrapperPeerImpl$AnCancelAction">
       <i c="2" l="1628750568115" />

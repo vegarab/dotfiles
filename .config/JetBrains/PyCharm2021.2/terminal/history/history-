@@ -1,0 +1,1000 @@
+cd .ssh/
+ll
+cat config 
+vloft
+pip freeze | grep boto
+vrc
+vim
+vgirt
+z girt
+ll
+python --version
+sudo python -m setup.py install --no-horovd
+pip install pytorch
+pip install torch
+pip install torch --user vegarab
+pip freeze
+sudo pip install torch --user
+sudo pip install torch
+sudo python -m setup.py install --no-horovd
+sudo python -m setup.py install --no-horovod
+vim setup.py 
+sudo python -m setup.py install --no_horovod
+pip install botocore==1.15.49
+sudo pip install botocore==1.15.49
+sudo python -m setup.py install --no_horovod
+pip install boto3
+vim
+pip install pylint
+sudo pip install pylint
+pip freeze
+vim
+python
+pip uninstall numpy
+pip uninstall torch
+sudo pip uninstall torch
+sudo pip install torch
+sudo pip uninstall torch
+sudo pip install torch==1.4.0
+python
+vim
+deactivate
+cd .config/nvim/
+ll
+vim
+ll
+vim
+z loft
+ll
+vim
+pip install mypy
+vloft
+vim
+vim
+z girt
+ll
+vim
+vgiurt
+vgirt
+vim
+git status
+ll
+cd .vim/
+ll
+cd ..
+ll
+vim .gitignore 
+rm -rf .vim
+ll
+git status
+git diff
+vim
+z girt
+vgirt
+vim
+pip install jedi
+vim
+ll
+vim 
+vim .pre-commit-config.yaml 
+pip install black
+sudo pip install black
+vim
+z nvim
+ll
+vim
+/home/vegarab/.envs/girt/bin/python
+z girt
+vgirt
+ll
+vim
+vrc
+vr
+vrc
+vim
+pip install jupyter_client
+sudo pip install jupyter_client
+pip uninstall jupyter_client
+sudo pip uninstall jupyter_client
+pip freeze
+vim
+/home/vegarab/.envs/girt/bin/python
+z girt
+vgirt
+vim
+vim
+pip freeze 
+vrc
+vrc
+vim
+vrc
+vim
+git status
+cd
+startx
+startx]
+startx
+pytest tests/test_ability_lambda_handler.py -x -k dev
+z loft
+vloft
+python
+cd
+vim .xprofile
+setxkbmap -model pc104 -layout us -variant altgr-intl -option caps:swapescape
+echo $HOSTNAME
+cd tmp
+vim tmp.json
+vim tmp.jsn
+vim tmp.json
+inxi
+pacman -Ss inxi
+packer -S inxi
+inxi
+inxi -Fxz
+pacman -Q
+pacman -Q inxi
+pacman -Q dwm
+cd /usr/share/applications/
+ll
+cd ..
+cd bin/
+lll
+ll
+cd ..
+cd share/
+ll
+cd bison/
+ll
+cd ..
+cd bin
+ll
+cd ..
+ll
+cd /bin
+ll
+cd
+cd /usr/bin/
+ll
+cat /etc/*-release
+hostnamectl
+uname -a
+cd
+cd /etc/
+ll
+cd arch-release 
+ll
+cat arch-release 
+cd
+for app in /usr/share/applications/*.desktop; do app="${app##/*/}"; echo "${app::-8}"; done
+ls /usr/bin/
+ls -l /usr/bin
+ls -a /usr/bin
+ll
+ls
+ls -a /usr/hom
+ls -a /usr/bin/
+ls -a /usr/bin/ >> tmp/bin.log
+cd tmp
+ll
+cat bin.log 
+ls -a /usr/bin/
+ll
+systemctl list-units
+systemctl list-units >> systemd.log
+vim systemd.log 
+systemctl --type=service
+systemctl --type=service --all
+crontab -e
+cron -e
+cron
+crontab
+cronjob
+pacman -Ss cron
+pacman -Ss crontab
+$PATH
+vim tmp.json
+cd
+deactivate
+echo $IN_PATH | tr " " "\n" | sort | uniq
+cd /usr/share/applications/
+ll
+echo $IN_PATH | tr " " "\n" | sort | uniq | grep bssh
+vim bssh.desktop 
+vgirt
+cd
+source .bash_aliases 
+virt
+vgirt
+python
+deactviate
+deactivate
+python
+vgirt
+python
+pacman -S linux-lts
+sudo !
+clear
+sudo pacman -S linux-lts
+ls -lsha /boot
+pacman -R linux
+sudo pacman -R linux
+grub-mkconfig -o /boot/grub/grub.cfg
+sudo grub-mkconfig -o /boot/grub/grub.cfg
+sudo reboot
+startx
+pacman -S nvidia
+sudo pacman -S nvidia
+nvidia
+nvidia-smi
+sudo reboot
+startx
+vim /var/log/Xorg.0.log
+lspci
+pacman -Syu
+sudo pacman -Syu
+sudo reboot
+startx
+sudo reboot
+startx
+vim /boot/syslinux/syslinux.cfg
+acpi_calls
+pacman -S nvidia-lts
+sudo pacman -S nvidia-lts
+sudo reboot
+nvidia
+nvidia-smi
+uname -r
+z loft
+vloft
+git add .
+git stash
+git checkout RND-443-ability-estimation
+pytest tests/test_ability_lambda_handler.py 
+vgirt
+python
+ll
+cd .local/
+ll
+cd src/
+ll
+cd ..
+cd lib/
+ll
+cd ..
+cd share/
+ll
+cd virtualenv
+ll
+cd ..
+cd virtualenv
+ll
+cd wheel/
+ll
+cd 3.7/
+ll
+cd image/1/
+ll
+cd ..
+ll
+cd ..
+cd virtualenvs/
+ll
+cd ..
+ll
+cd nvim
+ll
+cd swap/
+ll
+cd ./../
+ll
+cd ..
+ll
+cd ..
+ll
+cd
+ll
+cd docs/
+ll
+cd ..
+vloft
+z loft
+vim
+startx
+sudo pacman -Syu
+killall slack
+df
+ntpsd
+ntpds
+z loft
+vloft
+vim
+cd .aws/
+ll
+vim credentials 
+cd ..
+cd .ssh/
+ll
+vim
+cd
+hostnamectl 
+hostnamectl set-hostname "lenovo-legion-arch-vegarab"
+hostnamectl
+ps aux 
+ps aux | grep st
+u
+z girt
+vgirt
+pip freeze | grep torch
+cd ..
+git clone git@github.com:inspera/CTT_IRT
+ll
+cd CTT_IRT/
+git pull
+pip install -e .
+pip install mxnet
+pip install -e .
+pip install .
+pip install . --user
+sudo install .
+sudo pip install .
+sudo pip install . -U vegarab
+sudo -U vgarab pip install .
+sudo -U vegarab pip install .
+sudo -l -U vegarab pip install .
+ll
+sudo reboot
+z loft
+vloft
+clear
+git checkout RND-511-ability-tax
+git pull
+git checkout RND-443-ability-estimation
+git pull
+git checkout RND-511-ability-tax
+git merge RND-511-ability-tax
+git merge RND-443-ability-estimation
+git status
+rm inspera_loft_cat/schema/Ability*
+git status
+cd inspera_loft_cat/schema/
+ll
+cd ../..
+git status
+git add .
+git commit
+git status
+git add .
+git commit
+git push
+git checkout RND-443-ability-estimation
+git pull
+git checkout rnd-458-elastic-search
+git pull
+git checkout RND-443-ability-estimation
+git merge rnd-458-elastic-search
+git status
+git add .
+git commit
+git add .
+pytest tests/test_lambda_handler.py 
+pytest tests/test_lambda_handler.py -x
+git add .
+git commit
+git push
+pip install -U git+ssh://git@github.com/inspera/dictate.git
+ll
+rm *.log
+ll
+pip install dictate
+echo $DATABRICKS_TOKEN
+dictate notebooks upload --env dev
+dictate
+deactivate
+activate
+vloft
+dictate
+pip freeze | grep dictate
+pip uninstall dictate
+pytest tests/test_ability_lambda_handler.py 
+git log
+git add .
+git commit -m "test: update taxonomy filter validation"
+git push
+pip install -U git+ssh://git@github.com/inspera/dictate.git
+git pull
+dictate notebooks upload --env dev
+z girt
+vgirt
+vim
+z linux
+ll
+git pull
+git checkout main
+git pull
+SL https://raw.githubusercontent.com/python-poetry/poetry/master/get-poetry.py | python -IT PULl
+SL https://raw.githubusercontent.com/python-poetry/poetry/master/get-poetry.py | python -
+curl -sSL https://raw.githubusercontent.com/python-poetry/poetry/master/get-poetry.py | python -
+poetry
+z linux
+poetry install
+poetry
+curl -sSL https://raw.githubusercontent.com/python-poetry/poetry/master/get-poetry.py | python -
+poetry
+curl -sSL https://raw.githubusercontent.com/python-poetry/poetry/master/get-poetry.py | python
+ll
+poetry
+ll
+rm -rf .Xauthority-*
+ll
+vim
+startx
+lsblk -f
+startx
+fdisk -f
+fdisk -l
+sudo fdisk -l
+lsblk -f
+sudo vim /etc/crypttab 
+sudo reboot
+startx
+systemctl daemon-reload
+cryptsetup status home-crypt
+systemctl start system-cryptsetup@home-crypt.service
+systemctl daemon-reload
+systemctl start systemd-cryptsetup@home-crypt.service
+systemctl status systemd-cryptsetup-generator
+systemd-cryptsetup-generator
+sudo vim /etc/crypttab
+systemctl daemon-reload
+systemctl start systemd-cryptsetup@home-crypt.service
+cryptsetup status home-crypt
+sudo cryptsetup status home-crypt
+sudo reboot
+ll
+crontab -e
+cd /home/vegarab/.local/src/linux-collection-agent && /home/vegarab/.poetry/bin/poetry run inspera-linux-collection-agent
+z loft
+vloft
+vim ~/.envs/loft/bin/activate
+dictate notebooks upload --env dev
+z loft
+cd ../..
+dictate notebooks upload --env dev
+export DATABRICKS_TOKEN=dapi185bf2ceca7bf4cc8740c1dcf7852fac
+dictate notebooks upload --env dev
+ll
+vim dictate.yaml 
+vim .xprofile 
+cd .local/bin
+ll
+vim dualmonitor 
+cd
+cd .screenlayout/
+ll
+mv 4khome.sh 4khome
+mv 4khome ../.local/bin
+cd
+cd .local/
+ll
+cd bin
+ll
+cat 4khome 
+cd ..
+ll
+cd
+vim .xprofile 
+cd .local
+git status
+cd
+cd dotfiles
+git status
+vim .z
+cd
+vim .z
+z loft
+z girt
+vgirt
+ll
+pytest new_tests/test_mirt_and_girt/test_mirt_and_girt.py 
+pip install pytest
+pytest new_tests/test_mirt_and_girt/test_mirt_and_girt.py 
+pytest
+pip freeze 
+pip freeze | grep pytest
+pytest
+vgirt
+pytest
+z girt
+pytest new_tests/test_mirt_and_girt/test_mirt_and_girt.py 
+ll
+vim pyproject.toml 
+pytest new_tests/test_mirt_and_girt/test_mirt_and_girt.py 
+pip install hypothesis
+pytest new_tests/test_mirt_and_girt/test_mirt_and_girt.py 
+pip install matplotlib
+pytest new_tests/test_mirt_and_girt/test_mirt_and_girt.py 
+pip install scipy
+pytest new_tests/test_mirt_and_girt/test_mirt_and_girt.py 
+pip install seaborn
+pytest new_tests/test_mirt_and_girt/test_mirt_and_girt.py 
+z girt
+pytest new_tests/test_mirt_and_girt/test_mirt_and_girt.py 
+zgirt
+vgirt
+pytest new_tests/test_mirt_and_girt/test_mirt_and_girt.py 
+pip install sklearn
+pytest new_tests/test_mirt_and_girt/test_mirt_and_girt.py 
+pip install .
+pip install torch
+pytest new_tests/test_mirt_and_girt/test_mirt_and_girt.py 
+pip install .
+cd .envs
+ll
+vim nvim.txt
+$CUDA_HOME
+echo $CUDA_HOME
+cuda
+pacman -Ss cuda
+exit()
+rm -rf .envs/girt
+cd .envs
+virtualenv --python=/usr/bin/python36 girt
+ls /usr/bin/ | grep python36
+cd /etc/bin
+python
+cd /usr/bin/
+ll
+ll | grep python
+virtualenv --python=/usr/bin/python3.6 girt
+cd
+cd dev/GIRT/
+ll
+vgirt
+pytest new_tests/test_mirt_and_girt/test_mirt_and_girt.py 
+python
+pip install numpy
+pip uninstall matplotlib
+python
+pip uninstall torch
+python
+pip install torch
+python
+pip uninstall torch
+python
+pip install torch
+pip uninstall numpy
+python
+pip install numpy
+python
+pytest new_tests/test_mirt_and_girt/test_mirt_and_girt.py 
+pip install matplotlib
+pytest new_tests/test_mirt_and_girt/test_mirt_and_girt.py 
+pip install .
+python setup.py develop
+pytest new_tests/test_mirt_and_girt/test_mirt_and_girt.py 
+python
+r
+r-shell
+R
+pytest new_tests/test_mirt_and_girt/test_mirt_and_girt.py 
+python
+pip install mirt
+vgirt
+pytest new_tests/test_mirt_and_girt/test_mirt_and_girt.py 
+python
+R
+pytest new_tests/test_mirt_and_girt/test_mirt_and_girt.py 
+pip install jsonschema
+pytest new_tests/test_mirt_and_girt/test_mirt_and_girt.py 
+python setup.py develop
+pip install .
+python
+vgirt
+sudo pip install .
+python
+pip install .e
+pip install .
+python setup.py 
+python setup.py install
+pytest new_tests/test_mirt_and_girt/test_mirt_and_girt.py 
+pytest new_tests/test_mirt_and_girt/test_mirt_and_girt.py -
+python
+python -m setup.py install
+python setup.py install
+pytest new_tests/test_mirt_and_girt/test_mirt_and_girt.py -
+pytest new_tests/test_mirt_and_girt/test_mirt_and_girt.py -x
+sudo pacman -S cuda
+python setup.py install
+pytest new_tests/test_mirt_and_girt/test_mirt_and_girt.py -x
+python setup.py -m install
+python -n setup.py install
+python -m setup.py install
+vgirt
+python -m setup.py install
+python setup.py install
+pytest new_tests/test_mirt_and_girt/test_mirt_and_girt.py -x
+python
+htop
+ll
+z girt
+ll
+vim
+git status
+git diff
+git add .
+git checkout -b RND-520-batching
+git add .
+git commit -m "build: numpy and torch dynamic members for pylint
+git commit -m "build: numpy and torch dynamic members for pylint"
+vim
+vgirt
+vim
+ll
+git status
+vim
+pacman -S audacity
+sudo pacman -S audacity
+ll
+mpv piano_vegar_take_386.mp3 
+z loft
+ll
+vim setup.cfg 
+killall slack
+vim .envs/loft/bin/
+vim .envs/loft/bin/activate
+vim .envs/girt/bin/activate
+cd docs
+ll
+vim girt 
+vgirt
+echo $DATABRICKS_TOKEN
+systemctl 
+startx
+pacman -S pycharm-community-edition
+sudo pacman -S pycharm-community-edition
+vgirt
+cd
+cd .ssh/
+ll
+cat id_rsa
+cd
+cd tmp
+vim deploy_databricks.sh
+mv deploy_databricks.sh ../dev/GIRT/
+z girt
+ll
+./deploy_databricks.sh
+sudo ./deploy_databricks.sh
+sudo bash deploy_databricks.sh 
+pip install databricks_cli
+sudo bash deploy_databricks.sh 
+vim deploy_databricks.sh 
+sudo bash deploy_databricks.sh 
+vim deploy_databricks.sh 
+sudo bash deploy_databricks.sh 
+pip freeze | grep horovd
+pip install horovod
+sudo python deploy_databricks.py -b -de dev -e "/home/vegarab/.ssh/id_rsa" -utl -1
+python
+zgirt
+vgirt
+z girt
+ll
+pytest new_tests/test_mirt_and_girt/test_mirt_and_girt.py 
+z loft
+vloft
+git pull
+git checkout repo-restructure
+git status
+vim
+git status
+ll
+vim
+ll
+rm -rf inspera_loft_cat*
+ll
+rm -rf inspera_spark_sql/
+ll
+vim
+pip install -e '.[all]'
+vim
+git pull
+vim
+git pull
+vim
+git pull
+vim
+git pull
+pycharm ^
+pycharm &
+pacman -Q pyccharm
+pacman -Q pycharm
+pacman -Q | grep pycharm
+pacman -Rs pycharm-community-edition
+sudo pacman -Rs pycharm-community-edition
+mv dl/pycharm-community-2020.3.1.tar.gz tmp/
+cd tmp
+ll
+tar xzvf pycharm-community-2020.3.1.tar.gz 
+ll
+cd pycharm-community-2020.3.1
+ll
+cat Install-Linux-tar.txt 
+ll
+cd ..
+mv pycharm-community-2020.3.1 ../.local/
+cd 
+cd .local/
+ll
+mv pycharm-community-2020.3.1/ src/
+cd src/
+ll
+cd pycharm-community-2020.3.1/
+ll
+cat Install-Linux-tar.txt 
+cd bin
+./pycharm.sh 
+cd .local/src/pycharm-community-2020.3.1/
+ll
+cd bin/
+ll
+pycharm
+pycharm.sh
+ll
+cd .con
+cd .config
+ll
+rm -rf JetBrains/
+z pycharm
+ll
+cd bin/
+ll
+cd ..
+cat Install-Linux-tar.txt 
+pycharm
+cd ..
+mv pycharm-community-2020.3.1/ ../bin/
+cd bi
+cd ../bin/
+ll
+cd pycharm-community-2020.3.1/
+ll
+cd bin/
+./pycharm.sh 
+export _JAVA_AWT_WM_NONREPARENTING=1
+./pycharm.sh 
+ll
+cd .local/src/
+ll
+cd ..
+cd bin/
+ll
+rm -rf pycharm-community-2020.3.1/
+cd
+pacman -S pycharm-community-edition
+sudo pacman -S pycharm-community-edition
+startx
+z girt
+vgirt
+vim
+brc
+htop
+ll
+cd .config/font
+cd .config/fontconfig/
+ll
+cat fonts.conf 
+z girt
+vim
+nmcli dev show | grep 'IP4.DNS'
+nmcli dev show 
+nmcli dev show | grep IP4
+pacman -Ss chrome
+pacman -Ss google-chrome
+packer -Ss google-chrome-stable
+packer -Ss google-chrome
+packer -S google-chrome]
+packer -S google-chrome
+z GIRT
+ll
+z girt
+vgirt
+cd ..
+rm -rf build
+ll
+xrandr
+\ girt
+z girt
+git status
+git add .
+git commit -m "chore: move irtmodule filter to cpu in SE evaluation"
+git push
+cd ..
+ll
+cd CTT_IRT/
+ll
+git status
+git diff
+git add .
+git stash
+git pull
+ll
+vim README.md 
+git status
+git add .
+git checkout -b RND-542-girt-dataloader
+git status
+git commit -m "feat: use GIRT dataloader and internal horovod runner"
+git push --set-upstream origin RND-542-girt-dataloader
+cd ..
+git clone git@github.com:inspera/insanity
+cd insanity/
+git add .
+git checkout -b RND-542-girt-dataloader
+git add .
+git commit -m "feat: use GIRT dataloader and internal horovod runner"
+git push --set-upstream origin RND-542-girt-dataloader
+cd
+cd dev/LOFT_CAT/
+ll
+git checkout dev
+git checkout develop
+git pull
+ll
+cd ..
+mv LOFT_CAT/ ATC/
+cd ATC/
+ll
+vloft
+pytest tests/test_lambda_handler.py 
+pip install typing_extensions
+pytest tests/test_lambda_handler.py 
+cat README.md 
+pip install -e '[.all]'
+pip install -e '.[all]'
+pytest tests/test_lambda_handler.py 
+pip install typing-extensions
+pytest tests/test_lambda_handler.py 
+python
+pytest tests/test_lambda_handler.py 
+pytest tests/test_lambda_handler.py -x
+git checkout master
+git add .
+git status
+git reset
+git status
+git checkout inspera_atc/loft/
+git status
+git add .
+git checkout -m fix-typing
+git add .
+git checkout -m fix-typing
+git status
+git checkout -b fix-typing
+git status
+git add .
+git a
+ll
+vim .pre-commit-config.yaml 
+git status
+git add .
+git commit -m "fix: Final type import for <3.8"
+vim .pre-commit-config.yaml 
+git add .
+git commit -m "fix: Final type import for <3.8"
+vim .pre-commit-config.yaml 
+git status
+git stash
+git checkout develop
+git log
+git reset HEAD~1
+git status
+git add .
+git stash
+git commit -m ""
+git checkout master
+git pull
+git commit -m ""
+cd
+cd .cache
+ll
+rm -rf pre-commit/
+cd ..
+z loft
+z atc
+git commit -m ""
+pip install --upgrade pre-commit
+git commit -m ""
+git checkout develop
+git pull
+git commit -m ""
+cat ~/.cache/pre-commit/pre-commit.log 
+ll
+vim .pre-commit-config.yaml 
+git commit -m ""
+git add ./
+git add .
+git commit -m ""
+cd
+cd .cache/pre-commit/
+ll
+cd repo5igojj77/
+ll
+vim
+cat .pre-commit-config.yaml 
+cat .pre-commit-hooks.yaml 
+git commit -m ""
+cd
+cd .cache/pre-commit/repo5igojj77/
+ll
+cat blackbricks/
+ll
+vim
+vim
+z loft
+vlodft
+vlodtr
+vlofd
+vloft
+z loft
+z atc
+ll
+vim
+pip freeze
+vim
+ll
+cd .envs
+ll
+cd loft/
+ll
+cd bin/
+ll
+vim activate
+cd ..  
+cd ..
+ll
+vim activate
+rm -rf loft
+cd /usr/bin/
+ls | grep python
+pacman -Ss python
+pacman -Ss python38
+packer -Ss python3.8
+packer -Ss python38
+packer -S python38
+cd
+cd .envs
+ll
+virtualenv --python=/usr/bin/python3.8 loft
+ll
+vim activate 
+vim loft/bin/activate
+vloft
+z atc
+git status
+pip install -e '.[all]'
+pip install black pylint jedi nvim
+pip install black pylint jedi
+vim
+pip install pynviom
+pip install pynvim
+vim
+startx
+killall slack
+cd .envs/girt/lib/python3.6/site-packages/torch/utils/data/dataloader.py 
+vim .envs/girt/lib/python3.6/site-packages/torch/utils/data/dataloader.py 
+cd docs
+ll
+vim girt 
+journalctl -b -1
+/bin/bash -c "$(wget -nv -O- 'https://code-with-me.jetbrains.com/N-4UoddEnsBDQvS02MinqQ/cwm-client-launcher.sh')"
+pytest new_tests/test_mirt_and_girt/test_mirt_and_girt.py -xs -k test_benchmark_statistics_items
+cd ..
+cd CTT_IRT/
+ll
+pytest tests/test_irt/test_girt_wrapper.py 
+pytest tests/test_irt/test_girt_wrapper.py -x
+htop
+z girt
+git status
+git diff

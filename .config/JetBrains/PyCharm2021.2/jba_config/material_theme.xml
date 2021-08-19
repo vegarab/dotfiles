@@ -1,0 +1,9 @@
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="premium" value="true" />
+    <option name="accentColor" value="ff79c5" />
+    <option name="selectedTheme" value="DRACULA" />
+    <option name="userId" value="-76b51a2f:17b4db3293c:-8000" />
+    <option name="version" value="6.8.0.1" />
+  </component>
+</application>

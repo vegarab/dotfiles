@@ -1,0 +1,1000 @@
+git add data
+git status
+rm -rf girt.egg-info/
+git status
+git diff
+git status
+git diff
+git status
+git add .
+git commit -m "chore: remove non-spark rescoring"
+git push
+git checkout master
+git pull
+git checkout RND-586-preprocessing
+git merge master
+git push
+git status
+cd ..
+cd At
+cd ATC/
+git status
+git diff
+git status
+git add .
+git commit -m "chore: use enum for multiple item selection"
+git add .
+git push
+git commit -m "chore: use enum for multiple item selection"
+git push
+git checkout RND-631-ability-filter
+git pull
+git status
+git add .
+git commit -m "chore: use enums for item lifecycle state"
+git add .
+git commit -m "chore: use enums for item lifecycle state"
+git push
+git pull
+git status
+git merge master
+git merge develop
+git fetch
+git add .
+git stash
+git checkout develop
+git pull
+git checkout RND-631-ability-filter
+git merge develop\
+git merge develop
+git status
+git add .
+git merge --continue
+git status
+git add .
+git merge --continue
+git add .
+git merge --continue
+git status
+git push
+git log
+git checkout develop
+git pull
+git add .
+git checkout -b RND-630-scipy
+git add .
+git commit -m "build(RND-630): scipy has internal dependency"
+git push --set-upstream origin RND-630-scipy
+git status
+git add .
+git commit -m "tmp: remove ext dependencies"
+git push
+git status
+git add .
+git commit -m "tmp: remove external dependencies from deploy script"
+git add .
+git commit -m "tmp: remove external dependencies from deploy script"
+git push
+git add .
+git commit -m "tmp"4
+git add .
+git commit -m "tmp"4
+git push
+git log
+git reset HEAD~1
+git add . 
+git stash
+git reset HEAD~1
+git status
+git diff
+git add .
+git stash
+git status
+git add .
+git log
+git reset HEAD~1
+git status
+git diff
+git status
+git add .
+git commit -m "build(RND-630): remove external dependencies"
+git push
+git push --force
+git rebase -i HEAD~2
+git push --force
+ll
+rm external_requirements.txt 
+git add .
+git commit --ammend
+git commit --amend
+git push --force
+python
+cd ../CTT_IRT/
+cd init_scripts/
+ll
+vim IRT_env_variables.sh
+cp IRT_env_variables.sh CTT_API_env_variables.sh
+mv IRT_env_variables.sh IRT_API_env_variables.sh
+git status
+ll
+cd ..
+git status
+git add .
+git checkout develop
+git checkout master
+git add .
+git stash
+git checkout master
+git pull
+git stash pop
+git steatus
+git status
+git add .
+git checkout -b RND-611-init-scripts
+git status
+git add .
+git commit -m "build(RND-611): include init scripts in job clusters"
+git push --set-upstream origin RND-611-init-scripts
+cd ..
+cd ATC/
+git status
+git add .
+git commit -amend
+git commit --amend
+git push --force
+pip uninstall nptyping
+git status
+git add .
+git commit -m "build(RND-630): remove nptyping"
+git push
+git status
+git log
+git show 6ef0ca
+git show 6ef0ca >> nptying.patch
+git status
+git add .
+git stash
+git checkout develop
+git stash pop
+git status
+git path
+git patch
+patch 
+patch --help
+ll
+patch nptying.patch 
+git-apply nptying.patch 
+git apply nptying.patch 
+git status
+git diff
+git status
+rm nptying.patch 
+git status
+git add .
+git status
+git commit -m "refr: remove nptyping"
+git reset HEAD~1
+git add .
+git checkout -b nptyping
+git add .
+git commit -m "refr: remove nptyping"
+git push --set-upstream origin nptying
+git push --set-upstream origin nptyping
+cd ..
+cd CTT_IRT/
+ll
+touch init_scripts/__init__.py
+git status
+git add .
+git commit --ammend
+git commit --amend
+git push --force
+git status
+git add .
+git commit --ammend
+git commit --amend
+git push --force
+z ATC
+git status
+git add .
+git commit --amend
+git push --force
+z CTT
+touch init_scripts/__init__.py
+git add .
+git commit -ammend
+git commit --amend
+git reset HEAD~
+git status
+git commit --amend
+git status
+git reset HEAD~1
+git status
+git log
+git add .
+git stash
+git pull
+touch init_scripts/__init__.py
+git add .
+git commit --amend
+git push --force]
+git push --force
+zgirt
+vgirt
+pip install .
+ll
+sudo python deploy_databricks.py -b -c -de dev -ut-1
+sudo python deploy_databricks.py -b -c -de dev -ut -1
+ll
+cd docker_databricks/
+ll
+cd doc
+ll
+cd ..
+cd doc
+ll
+cd ..
+cd config/
+ll
+cd ..
+ll
+git steatus
+git status
+git add .
+git commit --amend
+git push --force
+killall slack
+z atc
+git status
+git add .
+git stash
+git checkout develop
+git pull
+pip install nptyping
+git pull
+git status
+git add .
+git checkout -b RND-663-history-tables
+git add .
+git commit -m "build(RND-663): rename loft->atc in delta lake tables"
+git push --set-upstream origin
+git push --set-upstream origin RND-663-history-tables
+git checkout develop
+git pull
+ll
+dictate
+vloft
+dictate
+pip install -U git+ssh://git@github.com/inspera/dictate.git
+dictate
+dictate notebooks
+dictate notebooks upload
+dictate notebooks upload --env dev
+git status
+git diff
+git status
+git add .
+git diff
+git add .
+git status
+git commit -m "build: unify ingestion notebooks"
+git add .
+git commit -m "build: unify ingestion notebooks"
+git reset HEAD~1
+git checkout -b ingestion_notebooks
+git add .
+git commit -m "build: unify ingestion notebooks"
+git push --set-upstream origin ingestion_notebooks
+git status
+git add .
+git push
+dictate notebooks upload --env dev
+git log
+git commit -m "tmp"
+git add .
+git commit -m "tmp"
+git rebase HEAD~3
+git rebase -i HEAD~3
+git push --force]
+git push --force
+git status
+git add .
+git commit -m "tmp"
+git rebase -i HEAD~2
+git rebase -i HEAD~32
+git rebase --abor
+git rebase -i HEAD~3
+git push --force
+dictate notebooks upload --env dev
+git status
+git add .
+git commit -m "tmp"
+git rebase -i HEAD~3
+git push --force
+dictate notebooks upload --env dev
+git status
+git add .
+git commit -m "tmp"
+git rebase -i HEAD~3
+git push --force
+pip install nptyping
+pip install nptyping==1.3.0
+killall slack
+z atc
+git checkout develop\
+git checkout develop
+git pull
+pytest -o log_cli=true -k intermedi tests/test_loft_lambda_handler.py
+export RUN_MODE=analytics
+export TEAM_CITY_BUILD=True
+pytest tests/test_loft_crunch.py 
+export N_EXAMPLES=10
+pytest tests/test_loft_crunch.py 
+git status
+git diff
+git add .
+git commit -m "fix: update loft and constraint output to correct S3 path"
+git push
+htop
+ll
+cd tested_scenarios/
+ll
+cd ..
+ll
+cd tested_scenarios/
+ll
+cd 5b1be6dfd8eddd61/
+ll
+cd ..
+ll
+cd tmp_reports/
+ll
+cd ..
+cd tmp
+ll
+cd ..
+ll
+cd doc
+ll
+cd report/
+ll
+cd ..
+ll
+z CTT
+git pull
+git status
+z dataflow
+git status
+git add .
+git log
+git add .
+git commit -m "build(RND-635): setup job cluster config in deploy"
+git checkout master
+git pull
+git checkout RND-635-es-jobs
+git merge master
+git push
+cd
+cd .ssh/
+ll
+vim databricks_stage_token 
+mv databricks_stage_token databricks_token
+vim databricks_token 
+z dataflow
+git status
+git add .
+git commit -m "tmp"
+git push
+git reset HEAD~1
+git push --force
+git status
+git checkout dependencies.py 
+git status
+git add .
+git commit -m "build: add deploy-all and rename deploy notebooks parameter"
+git push
+vim ../../.ssh/databricks_token 
+t status
+git log
+git add .
+git commit --ammend
+git commit --amend
+git push
+git push --froce
+git push --force
+git status
+git ad d.
+git add .
+git commit --amend
+git push --force
+vim ~/.ssh/databricks_token 
+git status
+git add .
+git commit --amend
+git push --force
+git status
+git add .
+git commit --amend
+git push --force
+git add .
+git commit --amend
+git push --force
+git status
+git add .
+git commit --amend
+git push --force
+git add .
+git commit --amend
+git push --force
+git status
+git add .
+git commit -m "tmp: remove node_type_id"
+git push --force
+git add .
+git commit --amend
+git push --force
+git log
+git status
+git rebase -i HEAD~2
+git push --force
+git push --arf
+git push --force
+z atc
+git status
+git diff
+git add .
+git stash
+git pull
+ll
+git log
+git status
+git add .
+git commit -m "chore: update drop table reference"
+git push
+git checkout RND-625-kikora-ib
+git pull
+git checkout ingestion_notebooks
+git status
+git add .
+git commit --ammend
+git commit --amend
+git push --force
+cd dl
+cd
+cd dl
+ll
+unzip InsperaAssessmentExport_2019031923_3330819.zip 
+feh resources/ID_3330684.svg 
+firefox resources/ID_3330684.svg 
+vim ID_3330819-item.xml 
+killall slack
+z ATC
+git checkout name-clean-up
+git pull
+git checkout name-clean-up
+cd 
+vim atc_testing_bank
+scrot -s
+parquet-tools
+pacman -Ss parquet-tools
+packer -S parquet-tools
+vim atc_testing_bank 
+cd dl
+parquet-tools
+pacman -Q | grep parquet
+cd
+cd /usr/bin/
+ll
+ls | grep parquet
+cd 
+cd dl/
+ll
+parquet-head 3333850_v1.parquet 
+parquet-head --help
+parquet-cat --json 3333850_v1.parquet 
+parquet-cat --json 3333850_v1.parquet >> output.json
+vim output.json 
+vim 1.json
+cd ..
+ll
+vim atc_testing_bank 
+pkill 1632207
+pkill 1632207 -9
+killall slack
+htop
+startx
+exit
+sudo reboot
+z dataflow
+ll
+vim .pre-commit-config.yaml 
+vim setup.py
+ll
+vim dependencies.py 
+ll
+mv inspera_df/ inspera_dataflow
+z atc
+vim internal_requirements.txt 
+ll
+vgirt
+pip freeze | grep dbutils
+python
+vgirt
+python
+z atc
+ll
+vim setup.py 
+z dev
+ll
+mkdir nlp-authorship-verification
+ll
+cd nlp-authorship-verification/
+ll
+git init
+git status
+cd ..
+git clone git@github.com:vegarab/msc-question-generation
+cd msc-question-generation/
+ll
+cd ..
+cd nlp-authorship-verification/
+ll
+cd
+cd .envs/
+ll
+virtualenv nlp
+ll
+bra
+vnlp
+z author
+ll
+pip install transformers datasets
+pip install torch
+ll
+python
+ll
+vim requirements.txt
+ll
+pip freze
+pip freeze
+pip freeze > requirements.txt
+vim requirements.txt 
+ll
+pacman -Q | grep parquet
+parquet-tools
+ls /usr/bin/ | grep parquet
+cd dl
+ll
+parquet-cat part-00000-14ce0004-c76b-41fd-9392-cc1f608b54a6-c000.snappy.parquet 
+parquet-cat --help
+parquet-cat --json >> flattened_raw_data.json
+ll
+parquet-cat --json part-00000-14ce0004-c76b-41fd-9392-cc1f608b54a6-c000.snappy.parquet >> flattened_raw_data.json
+ll
+rm part-00000-14ce0004-c76b-41fd-9392-cc1f608b54a6-c000.snappy.parquet 
+vim flattened_raw_data.json 
+head flattened_raw_data.json 
+ll
+vim flattened_raw_data.json 
+vim results.json 
+cd
+scrot -s
+killall slack
+z atc 
+git pull
+git status
+git add .
+git stash
+git pull
+htop
+scrot -s
+ll
+mv 2021-03-10-142922_1120x742_scrot.png ~
+ll
+git status
+git add pyproject.toml 
+git checkout -b ignore-ipython-warning
+git add .
+git commit -m "ci: ignore iPython deprecation warning"
+git push --set-upstream origin ignore-ipython-warning
+git checkout develop
+git pull
+git status
+git add .
+git commit -m "tests: update kikora test dimension distribution mean"
+git push
+git status
+git reset HEAD~1
+git checkout -b RND-680-kikora-content
+git add .
+git commit -m "tests: update kikora test dimension distribution mean"
+git push --set-upstream origin RND-680-kikora-content
+scrot -s
+git diff
+killall slack
+mv 2021-03-10-152303_982x279_scrot.png ~
+killall slack
+git status
+git diff
+git status
+git reset
+git status
+git add inspera_atc/models/atc_constraints.py 
+git commit -m "refr: filter allowed_values takes any type"
+git status
+git add schemas/
+git add notebooks/
+git status
+git commit -m "refr: filter allowed_values takes any type"
+git status
+git add .
+git commit -m "tests(RND-680): kikora IB filter test cases"
+git push 
+killall slack
+vgirt
+pip install blackbricks
+z dataflow
+git pull
+git checkout RND-680-kikora-ib
+git checkout RND-680-kikora-ib-2
+git checkout -b RND-680-kikora-ib-2
+ll
+cd notebooks/
+ll
+cd third_party_integrations/
+ll
+cd kikora/
+ll
+cd dl
+cd
+cd dev/dataflow/notebooks/third_party_integrations/kikora/
+mv ~/dl/push_to_es.py .
+ll
+mv ~/dl/kikora_delta_lake_management.py.py .
+mv ~/dl/kikora_response_data_ingestion.py.py .
+ll
+rm kikora_response_data_ingestion.py
+mv kikora_response_data_ingestion.py.py kikora_response_data_ingestion.py
+ll
+mv kikora_delta_lake_management.py.py kikora_delta_lake_management.py
+git status
+ll
+git status
+ll
+cd ..
+ll
+cd ..
+ll
+cd data_ingestion/
+ll
+vim es_utils.py 
+vim es_mappings.py 
+cd ../third_party_integrations/kikora/
+mv ~/dl/es_mappings.py .
+ll
+git status
+ll
+git status
+git add .
+git commit -m "feat(RND-680): add exercise_grades, languages and no_training field to kikora IB"
+cd ..
+blackbricks kikora/
+git status
+git add .
+git commit -m "style: re-format kikora notebooks"
+git push --set-upstream origin RND-680-kikora-ib-2
+ll
+lll
+cd ..
+ll
+cd ..
+ll
+mkdir inspera_df
+killall slack
+z atc
+vim internal_requirements.txt 
+z dataflow
+vim requirements.txt
+ll
+cd inspera_dataflow/
+pip install json
+pip freeze | grep boto3
+python
+pip freeze | grep dbutils
+pip install dbutils
+python
+;l;
+cd
+ll
+ls
+ll
+cd .con
+cd .config/
+ll
+ls
+cd JetBrains/
+ll
+cd PyCharmCE2020.
+cd PyCharmCE2020.2/
+ll
+cd ..
+pacman -Ss pycharm-professional
+pacman -Ss pycharm
+packer -S pycharm-professional
+cd
+z dataflow
+ll
+cd notebooks/
+ll
+git diff data_ingestion/es_irt_value.py third_party_integrations/kikora/es_irt_value.py 
+diff data_ingestion/es_irt_value.py third_party_integrations/kikora/es_irt_value.py 
+ll
+z atc
+git status
+git log
+git add .
+git commit -m "refr: revert filter allowed_values type hint to str"
+git status
+git ad .
+git add. 
+git add .
+git commit -m "refr: revert filter allowed_values type hint back to str"
+git push
+killall slack
+ll
+cd ..
+ll
+git clone git@github.com:dictate
+git clone git@github.com:inspera/dictate
+ll
+cd dictate
+ll
+pycharm .
+vloft
+z atch
+ll
+z atc
+ll
+z dictate
+pip install .
+z atc
+dictate
+dictate notebooks
+dictate notebooks upload
+dictate notebooks upload --env test
+git status
+git checkout dictate_test.yaml 
+git add .
+git checkout develop
+git pull
+dictate notebooks upload --env dev
+z dictate
+git status
+git add .
+git checkout -b notebook-regex
+git add .
+git commit -m "feat: support regex in notebook paths"
+git checkout master
+pip install .
+z atc
+git status
+git diff
+git add .
+git stash
+git diff
+dictate notebooks upload --env dev
+dictate notebooks upload --env stage
+vloft
+dictate notebooks upload --env dev
+Am I the only one experiencing issues deploying notebooks to databricks with dictate? Getting 403 Unauthorized in the mkdir opperation in dep install -U git+ssh://git@github.com/inspera/dictate.giTv
+pip install -U git+ssh://git@github.com/inspera/dictate.git
+dictate notebooks upload --env dev
+z dictate
+git status
+git branch
+git checkout notebook-regex
+git push --set-upstream origin notebook-regex
+dictate
+dictate jobs
+dictate jobs deploy
+dictate jobs deploy --env
+ll
+cd
+vim .envs/loft/bin/activate
+vloft
+z atc
+dictate notebooks deploy --env dev
+dictate notebooks upload --env dev
+z dataflow
+git status
+git add .
+git stash
+git checkout develop
+git checkout dev
+git checkout master
+git pull
+z atc
+ll
+cd notebooks/
+ll
+mkdir test
+cd test/
+ll
+touch test.py
+ll
+cd .
+c d.
+cd ..
+dictate notebooks upload --env dev
+vim dictate.yaml 
+dictate notebooks upload --env dev
+z dictate
+pip install .
+z atc
+dictate notebooks upload --env dev
+vim dictate.yaml 
+dictate notebooks upload --env dev
+pip install .
+z dictate
+pip install .
+z atc
+git status
+dictate notebooks upload --env dev
+z atc
+z dictate
+dic
+z atc
+dictate notebooks upload --env dev
+cd notebooks/
+ll
+cd test/
+ll
+mkdir subtest
+cd subtest/
+touch test2.py
+cd ..
+dictate notebooks upload --env dev
+git status
+z dictate
+git status
+git add .
+git commi --amend
+git commit --amend
+git push --force
+z ATC
+ll
+cd notebooks
+ll
+mkdir deep-test
+cd deep-test/
+ll
+mkdir test
+cd test/
+ll
+touch test.py
+cd ..
+dictate notebooks upload --env dev
+cd notebooks
+tree
+tree /?
+pacman -S tree
+sudo pacman -S tree
+tree 
+cd ..
+tree notebooks
+mv notebooks/test/subtest/test2.py notebooks/test/subtest/test2.py
+mv notebooks/test/subtest/test2.py notebooks/test/subtest/test.py
+tree notebooks
+ll
+vim dictate.yaml 
+dictate notebooks upload --env dev
+git checkout develop
+git statu
+git add .
+git stash
+dictate notebooks upload --dev
+dictate notebooks upload --env dev
+z dictate
+ll
+python generate_config_schema.py 
+ll
+cd schemas/
+ll
+vim dictate.schema.yaml 
+killall slack
+xinput
+cd
+vim .xprofile 
+xinput --set-prop 8 'libinput Accel Speed' -0.4
+xinput --list --short
+xset q
+xset mouse 3 0
+xset m 0 0
+sudo xset m 1 0
+z dev
+ps aux
+ps aux | grep pycharm
+pkill 2693
+pkill -9 2693
+pkill -9 2733
+pkill -9 188481
+pkill -9 7396
+pkill -9 10734032
+ps aux | grep pycharm
+pkill -9 2693
+killall 2693
+killall pycharm.sh
+kill pycharm
+ps aux | grep pycharm
+pkill -9
+pkill
+pkill --help
+ps aux | grep pycharm
+pkill /usr/lib/jvm/java-11-openjdk//bin/java -classpath /usr/share/pycharm/lib/bootstrap.jar:/usr/share/pycharm/lib/extensions.jar:/usr/share/pycharm/lib/util.jar:/usr/share/pycharm/lib/jdom.jar:/usr/share/pycharm/lib/log4j.jar:/usr/share/pycharm/lib/trove4j.jar:/usr/share/pycharm/lib/jna.jar:/usr/lib/jvm/java-11-openjdk//lib/*:/usr/lib/jvm/java-11-openjfx//lib/* -Xms128m -Xmx1990m -XX:ReservedCodeCacheSize=512m -XX:+UseConcMarkSweepGC -XX:SoftRefLRUPolicyMSPerMB=50 -XX:CICompilerCount=2 -XX:+HeapDumpOnOutOfMemoryError -XX:-OmitStackTraceInFastThrow -ea -Dsun.io.useCanonCaches=false -Djdk.http.auth.tunneling.disabledSchemes="" -Djdk.attach.allowAttachSelf=true -Djdk.module.illegalAccess.silent=true -Dkotlinx.coroutines.debug=off -Dsun.tools.attach.tmp.only=true -XX:ErrorFile=/home/vegarab/java_error_in_PYCHARM_%p.log -XX:HeapDumpPath=/home/vegarab/java_error_in_PYCHARM.hprof -Didea.vendor.name=JetBrains -Didea.paths.selector=PyCharmCE2020.2 -Djb.vmOptionsFile=/home/vegarab/.config/JetBrains/PyCharmCE2020.2/pycharm64.vmoptions -Didea.platform.prefix=PyCharmCore com.intellij.idea.Main
+ps aux | grep pycharm
+pkill 2733
+pkill -9 2733
+htop
+z author
+vnlp
+python preprocess.py
+ll
+cd data/
+ll
+cd ..
+ll
+python train.py
+ll
+touch train.py
+cd ..
+cd msc-question-generation/
+git checkout train.py 
+z author
+python train.py 
+python train.py --help
+python train.py
+python train.py --help
+python train.py 
+python train.py --output-dir models/bart-base
+mkdir models
+python train.py --output-dir models/bart-base
+python train.py --output_dir models/bart-base
+python preprocess.py 
+python train.py --output_dir models/bart-base
+wandb login
+python train.py --output_dir models/bart-base
+python train.py --output_dir models/bart-base --do_train
+python preprocess.py 
+python train.py --output_dir models/bart-base --do_train
+python preprocess.py 
+python train.py --output_dir models/bart-base --do_train
+python preprocess.py 
+python train.py --output_dir models/bart-base --do_train
+python train.py --output_dir models/bart-base --do_train --remove_unused_columns false
+python preprocess.py 
+python train.py --output_dir models/bart-base --do_train --remove_unused_columns false
+python train.py --output_dir models/bart-base --do_train --remove_unused_columns false --batch_size 1
+python train.py --output_dir models/bart-base --do_train --remove_unused_columns false --batch_size==1
+python train.py --output_dir models/bart-base --do_train --remove_unused_columns false --batch_size=1
+python train.py --output_dir models/bart-base --do_train --remove_unused_columns false --train_batch_size 2
+python train.py --output_dir models/bart-base --do_train --remove_unused_columns false
+python train.py --output_dir models/bart-base --do_train --remove_unused_columns false --per_device_traing_batch_size 2
+python train.py --output_dir models/bart-base --do_train --remove_unused_columns false --per_device_train_batch_size 2
+python train.py --output_dir models/bart-base --do_train --remove_unused_columns false --per_device_train_batch_size 2 --per_device_eval_batch_size 2
+python train.py --output_dir models/bart-base --do_train --remove_unused_columns false --per_device_train_batch_size 1 --per_device_eval_batch_size 1
+python train.py --output_dir models/bart-base --do_train --remove_unused_columns false --per_device_train_batch_siz
+python train.py --output_dir models/bart-base --do_train --remove_unused_columns false --per_device_train_batch_size 1 --per_device_eval_batch_size 1 --no_cuda --debug
+python preprocess.py 
+python train.py --output_dir models/bart-base --do_train --remove_unused_columns false --per_device_train_batch_size 1 --per_device_eval_batch_size 1 --no_cuda --debug
+python train.py --output_dir models/bart-base --do_train --remove_unused_columns false --per_device_train_batch_size 2 --per_device_eval_batch_size 2
+python train.py --output_dir models/bart-base --do_train --remove_unused_columns false --per_device_train_batch_size 1 --per_device_eval_batch_size 1
+python evaluate.py 
+python evaluate.py --model_dir models/bart-3
+pip install sklearn
+pip freeze | grep sklearn
+pip install scikit-learn
+pip install scikitlearn
+pip freeze
+python evaluate.py --model_dir models/bart-3
+CUDA_LAUNCH_BLOCKING=1 python evaluate.py --model_dir models/bart-3
+CUDA_LAUNCH_BLOCKING=1 python evaluate.py --model_dir models/bart-3 --batch_size 1

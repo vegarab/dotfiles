@@ -4,6 +4,7 @@ alias venv='source .venv/bin/activate'
 
 alias vloft='source ~/.envs/loft/bin/activate'
 alias vgirt='source ~/.envs/girt/bin/activate'
+alias vgirt2='source ~/.envs/girt2/bin/activate'
 alias vability='source ~/.envs/ability/bin/activate'
 alias vnlp='source ~/.envs/nlp/bin/activate'
 alias vdataflow='source ~/.envs/dataflow/bin/activate'

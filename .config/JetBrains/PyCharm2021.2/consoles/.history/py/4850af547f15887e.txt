@@ -1,0 +1,46 @@
+import girth
+-. . -..- - / . -. - .-. -.--
+num_items = 30
+-. . -..- - / . -. - .-. -.--
+num_students = 1000
+-. . -..- - / . -. - .-. -.--
+num_categories = 2
+-. . -..- - / . -. - .-. -.--
+import numpy as np
+-. . -..- - / . -. - .-. -.--
+import torch
+-. . -..- - / . -. - .-. -.--
+response_patterns = torch.ones(5, 10)
+-. . -..- - / . -. - .-. -.--
+response_patterns.shape
+-. . -..- - / . -. - .-. -.--
+num_items = response_patterns.shape[1]
+-. . -..- - / . -. - .-. -.--
+model = "pcm"
+-. . -..- - / . -. - .-. -.--
+max_categories_per_item = torch.tensor(
+    [
+        int(torch.max(response_patterns[:, item_index, :]))
+        if not model == "pcm"
+        else torch.unique(
+            response_patterns[:, item_index, :][
+                response_patterns[:, item_index, :] == response_patterns[:, item_index, :]
+                ]
+        ).shape[0]
+        for item_index in range(num_items)
+    ]
+)
+
+-. . -..- - / . -. - .-. -.--
+max_categories_per_item = torch.tensor(
+    [
+        int(torch.max(response_patterns[:, item_index]))
+        if not model == "pcm"
+        else torch.unique(
+            response_patterns[:, item_index][
+                response_patterns[:, item_index] == response_patterns[:, item_index]
+                ]
+        ).shape[0]
+        for item_index in range(num_items)
+    ]
+)
