@@ -162,3 +162,5 @@ if [ -f '/home/vegarab/tmp/google-cloud-sdk/completion.bash.inc' ]; then . '/hom
 # <<< conda initialize <<<
 
 [ -f /opt/miniconda3/etc/profile.d/conda.sh ] && source /opt/miniconda3/etc/profile.d/conda.sh
+
+eval "$(direnv hook bash)"
